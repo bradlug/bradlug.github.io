@@ -1,6 +1,11 @@
 #Bradford GNU/Linux Users Group
 
 
+Firstime instalation of jekyll and dependencies
+
+	bundle install
+
+
 From the main folder you may use 'bundle exec' to run jekyll like so
 
 	bundle exec jekyll build
