@@ -3,6 +3,7 @@
 
 Firstime instalation of jekyll and dependencies
 
+	gem install bundler
 	bundle install
 
 
