@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Welcome
 ---
 
 #Bradford GNU/Linux Users Group
