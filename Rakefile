@@ -72,51 +72,6 @@ task :clean do
   cleanup
 end
 
-desc 'Create a category'
-task :createCategory, [:name] do |t, args|
-  if args.name == nil then
-    puts "ERROR: Please provide a category name"
-    exit 1
-  end
-
-  categoriesFile = File.read("_data/categories.yml")
-  categoryExists = categoriesFile.match(/name\: #{Regexp.escape(args.name)}$/)
-
-  if categoryExists then
-    puts "ERROR: Category already exists"
-    exit 1
-  end
-
-  def slugify (title)
-    # strip characters and whitespace to create valid filenames, also lowercase
-    return title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  end
-
-  filename = "category/" + slugify(args.name) + ".md"
-
-  if not File.exists?(filename) then
-    File.open(filename, 'w') do |f|
-      f.puts "---"
-      f.puts "layout:    category"
-      f.puts "title:     '" + args.name + "'"
-      f.puts "category:  " + args.name
-      f.puts "permalink: /category/" + slugify(args.name) + "/"
-      f.puts "---"
-    end
-  else
-    puts "ERROR: Category file already exists"
-    exit 1
-  end
-
-  File.open('_data/categories.yml', 'a') do |f|
-    f.puts ""
-    f.puts "- name: " + args.name
-    f.puts "  slug: " + slugify(args.name)
-  end
-
-  puts "SUCCESS: Category " + args.name + " has been created with slug " + slugify(args.name)
-end
-
 
 desc 'Preview on local machine (server with --auto)'
 task :preview => :clean do
@@ -129,8 +84,6 @@ task :serve => :preview
 
 desc 'Build for deployment (but do not deploy)'
 task :build, [:deployment_configuration] => :clean do |t, args|
-  args.with_defaults(:deployment_configuration => 'deploy')
-  config_file = "_config_#{args[:deployment_configuration]}.yml"
 
   if rake_running then
     puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
@@ -142,7 +95,7 @@ task :build, [:deployment_configuration] => :clean do |t, args|
   end
 
   compass('compile')
-  jekyll("build --config _config.yml,#{config_file}")
+  jekyll("build --config _config.yml")
 end
 
 
@@ -326,42 +279,11 @@ def file_change_ext(filename, newext)
   end
 end
 
-
-desc 'Check links for site already running on localhost:4000'
-task :check_links do
-  begin
-    require 'anemone'
-
-    root = 'http://localhost:4000/'
-    puts "Checking links with anemone ... "
-    # check-links --no-warnings http://localhost:4000
-    Anemone.crawl(root, :discard_page_bodies => true) do |anemone|
-      anemone.after_crawl do |pagestore|
-        broken_links = Hash.new { |h, k| h[k] = [] }
-        pagestore.each_value do |page|
-          if page.code != 200
-            referrers = pagestore.pages_linking_to(page.url)
-            referrers.each do |referrer|
-              broken_links[referrer] << page
-            end
-          else
-            puts "OK #{page.url}"
-          end
-        end
-        puts "\n\nLinks with issues: "
-        broken_links.each do |referrer, pages|
-          puts "#{referrer.url} contains the following broken links:"
-          pages.each do |page|
-            puts "  HTTP #{page.code} #{page.url}"
-          end
-        end
-      end
-    end
-    puts "... done!"
-
-  rescue LoadError
-    abort 'Install anemone gem: gem install anemone'
-  end
+require 'html-proofer'
+desc 'Build and validate HTML'
+task :test do
+  sh "bundle exec jekyll build"
+  HTMLProofer.check_directory("./_site").run
 end
 
 #

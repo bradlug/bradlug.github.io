@@ -9,18 +9,17 @@ Firstime instalation of jekyll and dependencies
 
 From the main folder you may use 'bundle exec' to run jekyll like so
 
-	bundle exec jekyll build
+	bundle exec rake build
 
 
 Run a server to test the output locally
 
-	bundle exec jekyll serve
+	bundle exec rake
 
 
 Test the site, complain about badlyformed html etc
 
-	bundle exec jekyll build
-	bundle exec htmlproofer ./_site --assume-extension
+	bundle exec rake test
 
 
 # Website Plan
