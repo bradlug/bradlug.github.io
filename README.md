@@ -22,6 +22,8 @@ Test the site, complain about badlyformed html etc
 	bundle exec jekyll build
 	bundle exec htmlproofer ./_site --assume-extension
 
+If you already have Docker and docker-compose installed, and don't do much Ruby work, you might find it easier to use the Docker way of running the site locally.  Run `docker-compose up` to launch the site in a container and after it has installed dependencies you can browse to `http://127.0.0.1:4000/`.
+
 
 # Website Plan
 
