@@ -1,0 +1,46 @@
+---
+author: Dave
+comments: true
+date: 2011-10-28 11:17:58+00:00
+excerpt: 'Nigel showed the video of RepRap, the 3D self-replicating printer:
+
+  <a href="http://reprap.org/wiki/Main_Page">http://reprap.org/wiki/Main_Page</a>
+
+
+  Alice demonstrated Munin, which provides updates every ten minutes of the performance
+  of a server:
+
+  <a href="http://munin-monitoring.org/">http://munin-monitoring.org/</a>
+
+
+  and also Damn Vulnerable Web App (DVWA), a php/mysql tool for testing website vulnerabilities.
+
+  <a href="http://www.dvwa.co.uk/">http://www.dvwa.co.uk/</a>'
+layout: post
+redirect_from: /october-26th-2011
+slug: october-26th-2011
+title: October 26th 2011
+wordpress_id: 711
+categories:
+- Past Meetings
+---
+
+Nigel showed the video of RepRap, the 3D self-replicating printer:
+[http://reprap.org/wiki/Main_Page](http://reprap.org/wiki/Main_Page)
+
+Alice demonstrated Munin, which provides updates every ten minutes of the performance of a server:
+[http://munin-monitoring.org/](http://munin-monitoring.org/)
+
+and also Damn Vulnerable Web App (DVWA), a php/mysql tool for testing website vulnerabilities.
+[http://www.dvwa.co.uk/](http://www.dvwa.co.uk/)
+
+He demonstrated how it could test for a number of vulnerabilities.
+
+Bradford CVS had put forward a number of ideas:
+1. FOSS pieces on Wordpress and wikis which no one felt they could offer
+2. 'five tipples;' a personal account of five pieces of software/web resources that people use as an alternative to staight articles. Two people volunteered for this.
+3. putting on a competition among Bradford CVS voluntary organisations to be the guinea pig in a demonstration move from proprietary to FOSS software.
+People supported this.
+
+We also had a lot of geeky talk and a discussion about the future of the Forum
+and Website.

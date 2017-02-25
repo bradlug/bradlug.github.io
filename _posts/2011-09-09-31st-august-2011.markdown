@@ -1,0 +1,42 @@
+---
+author: Dave
+comments: true
+date: 2011-09-09 10:38:37+00:00
+excerpt: "<strong>David Spencer</strong> presented <a href=\"http://darktable.sourceforge.net/\"\
+  >Darktable</a>, which does similar things to <a title=\"DigiKam on Wikipedia\" href=\"\
+  http://en.wikipedia.org/wiki/DigiKam\">DigiKam</a>, <a href=\"http://yorba.org/shotwell/\"\
+  >Shotwell</a> and <a href=\"http://f-spot.org/\">F-Spot</a> but generally does them\
+  \ better. \n\nIts key feature is that the original photos remain untouched; instead\
+  \ Darktable manipulates a history stack of changes, including changes to the metadata,\
+  \ which can then be exported elsewhere...."
+layout: post
+redirect_from: /31st-august-2011
+slug: 31st-august-2011
+title: 31st August 2011 - Darktable, buses, desktops and HTML5
+wordpress_id: 680
+categories:
+- Past Meetings
+---
+
+**David Spencer** presented [Darktable](http://darktable.sourceforge.net/), which does similar things to [DigiKam](http://en.wikipedia.org/wiki/DigiKam),
+[Shotwell](http://yorba.org/shotwell/) and [F-Spot](http://f-spot.org/) but generally does them better. Its key feature is that
+the original photos remain untouched; instead Darktable manipulates a history
+stack of changes, including changes to the metadata, which can then be
+exported elsewhere.
+
+If it knows the lens – which it can detect from the EXIF data – it can do
+barrel correction. It also applies the transformations in the right order
+whatever the order they are in the history.
+
+A manual is available from [http://api.ge.tt/0/2OZkBP1/2/blob/download](http://api.ge.tt/0/2OZkBP1/2/blob/download)
+
+**Alice Kaerast** demonstrated using the HTML5 geolocation API to show the
+location of bus stops. The data needed is available but not in consistent
+formats.
+
+**Steve Kerr** showed the new Gnome 3 interface
+
+**John Hudson** shared some notes on HTML5 which he had put together and on which
+he asked for feedback.
+
+Download: [Some notes on HTML5](http://bradlug.co.uk/wp-content/uploads/2011/09/Some_notes_on_HTML5.pdf) (PDF 518KB)

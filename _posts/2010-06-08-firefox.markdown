@@ -1,0 +1,26 @@
+---
+author: Dave
+comments: true
+date: 2010-06-08 12:13:38+00:00
+excerpt: 'Firefox is a very popular alternative to Internet Explorer that is not only
+  cross platform (so it works on Mac and Linux computers too) but standards compliant
+  and far more secure. '
+layout: post
+redirect_from: /firefox
+slug: firefox
+title: Firefox
+wordpress_id: 410
+categories:
+- Archived Articles
+---
+
+Firefox is a very popular alternative to Internet Explorer that is not only cross platform (so it works on Mac and Linux computers too) but standards compliant and far more secure. If those are not reason enough to give Firefox a go, then what about a faster browsing experience? Firefox is much faster and leaner. More intuitive to use and infinitely more extensible thanks to its plugin and extension architecture, Firefox allows you to build upon the browser and customise it to your specific needs using thousands of plugins that you choose.
+
+I'm sure security is a large concern for you; so what happens when a vulnerability is found in something that can put your personal details at risk? Well, unlike Microsoft's offering, Mozilla (the good people that bring us Firefox) have many more developers working on Firefox and thus it is patched much faster, often within hours of a security flaw getting discovered! Often it takes Microsoft weeks and in some cases months to fix similar problems.
+
+What else can Firefox do for you?  Well for one thing you are supporting Free and Open source software by using a product that is widely recognised by many as better than its closed source counterparts. Another reason is that Firefox is built for you as a user; it makes it easier than ever to tailor your browsing experience in a safe, fast and, most importantly, secure manner while bringing you bang up to date with the latest features, letting you get the most out of the Internet.
+
+Give it a go and make your own mind up!  You can grab it for your computer at [http://www.getfirefox.com](http://www.getfirefox.com)
+
+**Author: **Wayne Hanley
+**First Published: **April 2010

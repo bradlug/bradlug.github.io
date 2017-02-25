@@ -10,3 +10,4 @@ paginate_path: "/:num/"
 gems:
     - jekyll-feed
     - jekyll-paginate
+    - jekyll-redirect-from

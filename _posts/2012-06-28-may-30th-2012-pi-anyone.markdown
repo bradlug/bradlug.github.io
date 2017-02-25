@@ -1,0 +1,27 @@
+---
+author: Dave
+comments: true
+date: 2012-06-28 21:09:50+00:00
+excerpt: 'Nigel demonstrated <a href="http://www.raspberrypi.org/">Raspberry Pi</a>
+  running a variety of programs.
+
+
+  John demonstrated <a href="http://lxde.org/">LXDE</a> and <a href="http://sourceforge.net/projects/partedmagic/">Parted
+  Magic</a> and Brian demonstrated <a href="http://cinnamon.linuxmint.com/">Cinnamon</a>.
+
+
+  Thanks to Nigel for letting people play with/explore/use his new toy/gadget/computer.'
+layout: post
+redirect_from: /may-30th-2012-pi-anyone
+slug: may-30th-2012-pi-anyone
+title: 'May 30th 2012: Pi anyone?'
+wordpress_id: 752
+categories:
+- Past Meetings
+---
+
+Nigel demonstrated [Raspberry Pi](http://www.raspberrypi.org/) running a variety of programs.
+
+John demonstrated [LXDE](http://lxde.org/) and [Parted Magic](http://sourceforge.net/projects/partedmagic/) and Brian demonstrated [Cinnamon](http://cinnamon.linuxmint.com/).
+
+Thanks to Nigel for letting people play with/explore/use his new toy/gadget/computer.

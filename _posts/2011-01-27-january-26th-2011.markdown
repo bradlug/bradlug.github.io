@@ -1,0 +1,59 @@
+---
+author: Dave
+comments: true
+date: 2011-01-27 14:27:28+00:00
+excerpt: 'Nice to see everyone again in the new year.
+
+
+  Last night''s meeting was a bit of a mish mash of news and new ideas. So:
+
+
+  <strong>Dates for your diary:</strong>
+
+  <strong>First Saturday of March, June, September, December </strong>2011 will be
+  days when we can spend some more time looking in depth at things of interest (yes
+  it''s a vague as that). We''d like people to suggest topics, offer their services,
+  etc and then the group will offer help and support to make it happen.
+
+
+  We''ll get these dates on our calendar, it''s looking like Arduino might be the
+  first day (March 5th)
+
+
+  Nige agreed to draw together a <strong>calendar of big events</strong> and to get
+  those on the calendar as well (this after Martin informed us that UKLUG is going
+  to be in Leeds this year, 22nd-24th March)
+
+
+  <a href="http://www.bradfordjelly.co.uk/">Bradford Jelly</a> - next meeting 11th
+  Feb, Bradford Uni.'
+layout: post
+redirect_from: /january-26th-2011
+slug: january-26th-2011
+title: January 26th 2011
+wordpress_id: 612
+categories:
+- Past Meetings
+---
+
+Nice to see everyone again in the new year.
+
+Last night's meeting was a bit of a mish mash of news and new ideas. So:
+
+**Dates for your diary:**
+**First Saturday of March, June, September, December **2011 will be days when we can spend some more time looking in depth at things of interest (yes it's a vague as that). We'd like people to suggest topics, offer their services, etc and then the group will offer help and support to make it happen.
+
+We'll get these dates on our calendar, it's looking like Arduino might be the first day (March 5th)
+
+Nige agreed to draw together a **calendar of big events** and to get those on the calendar as well (this after Martin informed us that UKLUG is going to be in Leeds this year, 22nd-24th March)
+
+[Bradford Jelly](http://www.bradfordjelly.co.uk/) - next meeting 11th Feb, Bradford Uni.
+
+**New meeting format (discuss!)
+**We're looking to experiment with 3x20 minute slots in the meetings, (or half hour slots if you want to add 10mins for discussion, breaks etc).** **What is clear is that there is a lot of knowledge and skill in the group and I think there is general aknowledgement that the good meetings are when we share that.  So we can still do show and tell sessions, presentations, try something new etc, etc. Personally, I'd like to see some stuff aimed at non-experts - so that could be in general or just in areas you're not expert in!****
+
+Last night we tried a 'park bench' session that had it's good and bad points**. **I'd like to think that this group is a place where people can be supported in trying something new**.**
+
+Don't forget we have a 'topic generating space' at: [https://bradlug.uservoice.com](https://bradlug.uservoice.com)﻿
+
+If anyone has anything to add, please do so as a comment to this post.

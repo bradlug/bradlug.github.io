@@ -1,0 +1,230 @@
+---
+author: John
+comments: true
+date: 2010-08-27 13:10:57+00:00
+excerpt: <p><strong>David Fisher and Jeff</strong> introduced HTML5, saying that it
+  was estimated that HTML5 will only receive full approval in 2022 because W3C standards
+  now require full compliance from two browsers.</p>
+layout: post
+redirect_from: /august-25th-2010-html5
+slug: august-25th-2010-html5
+title: 'August 25th 2010: HTML 5: The Hype and Some Alternative Realities'
+wordpress_id: 2062
+categories:
+- Past Meetings
+---
+
+**David Fisher and Jeff** introduced HTML5, saying that it was estimated that HTML5 will only receive full approval in 2022 because W3C standards now require full compliance from two browsers.
+
+
+
+
+The aims of HTML5 were to tackle all the crap people never fixed in the past and to add stuff that is missing. It is not one big thing but lots of features and APIs and many separate specifications. It makes it easy to detect browser support and most things in IE are fixable in JavaScript. It is fully backwards compatible; it handles older browser features sensibly and HTML4 markup is treated sensibly.
+
+
+
+
+Many of the new features are already in Firefox, Safari, Opera, Chrome, IE9, e.g. canvas, video, geolocation, local storage, microdata. It’s here for good, XHTML2 was killed in October 2009.
+
+
+
+
+###### Aims
+
+
+
+
+
+
+  * fix what is broken – inconsistent error handling
+
+
+  * add what is missing – semantics → lots of new tags, multimedia, application support.
+
+
+
+
+###### New markup
+
+
+
+
+
+
+  * structural/semantic
+
+
+
+
+###### New functionality
+
+
+
+
+
+
+  * <audio>, <video>
+
+
+
+
+###### New
+
+
+
+
+
+
+  * doctype <!DOCTYPE html> puts all browsers in standards mode
+
+
+  * simple root language <html lang= "en"> works in all browsers
+
+
+  * charset metadata <meta charset="UTF-8">
+
+
+  * semantic markup 
+    
+    
+    	<body>
+    	    <header> ... </header>
+    	    <nav> ... </nav>
+    	    <article>
+    	        <section>
+    	            ...
+    	        </section>
+    	        <section>
+    	            ...
+    	        </section>
+    	    </article>
+    	    <aside> ... </aside>
+    	    <footer> ... </footer>
+    	</body>
+    
+
+
+
+[![HTML_page](http://www.bradlug.co.uk/wp-content/uploads/2014/04/HTML_page.png)](http://www.bradlug.co.uk/august-25th-2010-html5/html_page-2/)
+
+
+HTML page: n.b. to remove a whole page: take out <article>...</article>
+
+
+
+
+###### Modifications
+
+
+
+
+
+
+  * `rel` attributes can be simpler, e.g. archive, icon, sidebar – registry of permitted `rel` attributes
+
+
+  * <div> and <span> reserved for unusual cases
+
+
+  * Sub-sectioning: clarifies section levels – also headings within sections
+    
+    
+    	<section>
+    	    <hl>\level 1\,/hl>
+    	    <section>
+    	        <hl>\level 2</hl>
+    	        <section>
+    	            <hl>level 3</hl>
+    	        </section>
+    	    </section>
+    	</section>
+    
+
+
+
+  * The choice of reserved words was based on popularity and genericism.
+
+
+  * <time>... </time> lots of formats, pubtime option [since removed].
+
+
+  * IE<9 won’t apply CSS styles to unknown elements: fix – tell IE that an element exists and IE will treat it properly; in other words, because IE fails to obey HTML rules, the fix works by using an example of IE abuse of HTML rules.
+
+
+
+
+###### Deprecated
+
+
+
+
+
+
+  * mostly presentational stuff: <big>, <center>, <font> ... <tt>, <frame> ... <acronym>, <applet>, <isindex>, <dir>
+
+
+
+
+###### In use
+
+
+
+
+
+
+  * [Modernizer](http://modernizr.com/): JavaScript library – detects virtually all HTML5 stuff.
+
+
+  * [IE7.js](https://code.google.com/p/ie7-js/) handles CSS in IE; now [IE9.js](https://code.google.com/p/ie7-js/) allows proper CSS in IE.
+
+
+  * video: no agreement yet on codec – use ogg with fallback, e.g. Flash
+
+
+  * <canvas width= height= id= > then use JavaScript to draw = replacement for Flash; `context` to define style of canvas; can copy one image to another canvas → animation
+
+
+  * Form input types: url, email, datetime, datetime-local, date, month …
+
+
+  * manifest: files cached for use offline
+
+
+
+
+###### Storage:
+
+
+
+
+
+
+  * sessionStorage, eg. cookies
+
+
+  * localStorage, e.g. large chunks of data
+
+
+  * databases – n.b. given up on SQL
+
+
+
+
+###### Other new features
+
+
+
+
+
+
+  * Webworkers: limited multitasking, drag and drop, `contenteditable` =WYSIWYG, geolocation, autocomplete, esp. `autocomplete=off` (for bank accounts), `spellcheck=false`
+
+
+
+
+All browsers will handle rubbish consistently.
+
+	
+
+
+Useful websites: Wikipedia on [HTML5](https://en.wikipedia.org/wiki/Html5) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [Living Validator](http://validator.nu/), [Dive into HTML5](http://diveintohtml5.info/),

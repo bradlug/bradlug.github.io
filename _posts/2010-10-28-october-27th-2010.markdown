@@ -1,0 +1,35 @@
+---
+author: Dave
+comments: true
+date: 2010-10-28 08:05:52+00:00
+excerpt: Yesterday's meeting saw presentations about the history of <strong>Free and
+  Open Source Software</strong> (FOSS), <strong><a href="http://sourceforge.net/projects/macbuntu/">Macbuntu</a></strong>,
+  and (even more) on the <strong>Cycle of Change</strong>.
+layout: post
+redirect_from: /october-27th-2010
+slug: october-27th-2010
+title: 'October 27th 2010 '
+wordpress_id: 590
+categories:
+- Past Meetings
+---
+
+Yesterday's meeting saw presentations about the history of **Free and Open Source Software** (FOSS), **[Macbuntu](http://sourceforge.net/projects/macbuntu/)**, and (even more) on the **Cycle of Change**.
+
+**The History of FOSS**
+John ran through the information he has been putting together about the history of FOSS for an audience of 'third sector/charity workers/etc'. Intended ultimately as a handout to introduce an audience that may have no concept of the ideas, it presents a time-line of collaborative endeavour and the steps to establish the legitimacy of of the movement.
+
+**Macbuntu**
+[http://sourceforge.net/projects/macbuntu/](http://sourceforge.net/projects/macbuntu/)
+Martin introduced us to Macbuntu -  a Mac OS X Transformation Pack which can make your Ubuntu look like a Mac! It can also be used in other OS based on Debian/GTK. The package available from sourceforge includes all necessary system components to mimic Mac OS X appearance on Ubuntu Linux.
+
+It does look like a Mac, but it doesn't do anything to make it much easier to attach your iPod or iPhone, because of Apples enforced dependency on iTunes.
+
+**Cylce of Change (again!)**
+David went on again about Prochaska and Diclemente's Cycle of Change and how that applies to people making the behaviour change of moving to Linux from another operating system.
+
+Crucially, the model allows you identify **where** people are in the process of change, allowing you to** tailor an appropriate intervention **AND **plan/anticipate** what help they may need during the next period/stage of change. David is thinking of writing this up, and is looking for help ideas on populating the 'crib sheets' for interventions at each stage.
+
+Partly, he has been sparked to re-think the model, by the work of [green h](http://www.greenh.co.uk/) who are trying to provide low cost Linux machines with support. (The support targets the 'action' and 'maintenance' stages of the cycle, while promotion, sales, etc target the 'pre-contemplation', and 'contemplation' stages).
+
+If you would like to help, a document has been started here: [http://ur1.ca/278mm](http://ur1.ca/278mm)
