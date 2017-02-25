@@ -1,9 +1,12 @@
 name: BradLUG
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
 exclude:
   - Gemfile
   - Gemfile.lock
-
 theme: jekyll-theme-hacker
+paginate: 10
+paginate_path: "/:num/"
+gems:
+    - jekyll-feed
+    - jekyll-paginate
