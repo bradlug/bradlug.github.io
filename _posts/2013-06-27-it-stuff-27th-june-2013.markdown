@@ -1,0 +1,41 @@
+---
+author: Dave
+comments: true
+date: 2013-06-27 08:23:46+00:00
+excerpt: "<strong><span style=\"color: #888888;\">Broadcast on</span></strong>: 27th\
+  \ June 2013 18:00 and 28th June 2013 13:30\n<a href=\"http://www.bcbradio.co.uk/\"\
+  >BCB 106.6FM</a>\n\nThe show includes:\n<ul>\n\t<li>News about Bitcoin, Phones,\
+  \ Data Protection, and more.</li>\n\t<li>Goodbye to Google reader</li>\n\t<li>Launch\
+  \ of PS4 vs Xbox One</li>\n\t<li>Spookathon/Big Brother is watching - a discussion\
+  \ of recent revelations about privacy.</li>\n</ul>\nIf you have any feedback, we'd\
+  \ love to hear it."
+layout: post
+redirect_from: /it-stuff-27th-june-2013
+slug: it-stuff-27th-june-2013
+title: 'IT Stuff: 27th June 2013'
+wordpress_id: 1229
+categories:
+- Radio
+---
+
+**Broadcast on**: 27th June 2013 18:00 and 28th June 2013 13:30
+[BCB 106.6FM](http://www.bcbradio.co.uk/)
+
+The show includes:
+
+
+
+	
+  * News about Bitcoin, Phones, Data Protection, and more.
+
+	
+  * Goodbye to Google reader
+
+	
+  * Launch of PS4 vs Xbox One
+
+	
+  * Spookathon/Big Brother is watching - a discussion of recent revelations about privacy.
+
+
+If you have any feedback, we'd love to hear it.

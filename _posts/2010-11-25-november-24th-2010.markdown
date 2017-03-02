@@ -1,0 +1,40 @@
+---
+author: Dave
+comments: true
+date: 2010-11-25 09:25:19+00:00
+excerpt: 'Firstly, wow - 28 people crammed into the room for last night''s meeting.
+  Lovely to see you all. We had half a dozen or so new faces, so I hope you all felt
+  welcome and enjoyed what was on offer. If you have any feedback for us please let
+  us know via a comment here, a message via the <a href="/?page_id=20">contact form</a>
+  or on the mailing list.
+
+
+  Secondly, wow - and thanks to <a href="http://uk.linkedin.com/in/thomasmangin">Thomas
+  Mangin</a> (Non-Executive Director at <a title="http://en.wikipedia.org/wiki/LINX"
+  href="http://en.wikipedia.org/wiki/LINX">LINX</a> and Technical Director at <a title="http://www.exa-networks.co.uk/"
+  href="http://www.exa-networks.co.uk/">Exa Networks</a>), and David Farrar, (head
+  of  R&amp;D at <a title="http://www.exa-networks.co.uk/" href="http://www.exa-networks.co.uk/">Exa
+  Networks</a>), ...'
+layout: post
+redirect_from: /november-24th-2010
+slug: november-24th-2010
+title: November 24th 2010
+wordpress_id: 598
+categories:
+- Past Meetings
+---
+
+Firstly, wow - 28 people crammed into the room for last night's meeting. Lovely to see you all. We had half a dozen or so new faces, so I hope you all felt welcome and enjoyed what was on offer. If you have any feedback for us please let us know via a comment here, a message via the [contact form](/?page_id=20) or on the mailing list.
+
+Secondly, wow - and thanks to [Thomas Mangin](http://uk.linkedin.com/in/thomasmangin) (Non-Executive Director at [LINX](http://en.wikipedia.org/wiki/LINX) and Technical Director at [Exa Networks](http://www.exa-networks.co.uk/)), and David Farrar, (head of  R&D at [Exa Networks](http://www.exa-networks.co.uk/)), who gave us an insight into the world of Internet Service Providers (ISPs), and clarified the mis-conceptions about 'net neutrality'. They also told us about some of the software they use to run their business, which is heavily reliant on Linux and open source software.
+
+Thomas recommended a couple of links  for those that are interested in the regulation side of the telecom world.
+[https://publicaffairs.linx.net/news/](https://publicaffairs.linx.net/news/)
+[http://webmedia.company.ja.net/edlabblogs/regulatory-developments](http://webmedia.company.ja.net/edlabblogs/regulatory-developments)/
+
+If there are any comments, or points of interest people would like to add about the talk, please do so via the comments.
+
+**Other News**
+We've got nearly all the sponsorship we need to pay for the room throughout 2011, but if anyone else would like to come forward to sponsor a meeting, please let us know. Currently the cost is set at £30 per meeting, and goes directly to Bradford CVS for the room hire.
+
+Christmas time festive meal...something will probably happen on December 10th, before 8pm, at which time usual social rules will apply, and people will meet at the Corndolly pub. What happens before then is still to be decided. Follow the mailing list for more...

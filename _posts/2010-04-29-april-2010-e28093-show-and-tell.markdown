@@ -1,0 +1,51 @@
+---
+author: Wayne
+comments: true
+date: 2010-04-29 19:36:28+00:00
+excerpt: 'Among other things....
+
+  <ul><li>David S – How to build your own Geographical Information System</li>
+
+  <li>John Demoed – Marble Desktop for KDE</li>
+
+  <li>Bernie’s Python Animation</li>
+
+  <li>Wayne’s Ubuntu Netbook Edition</li></ul>'
+layout: post
+redirect_from: /april-2010-%e2%80%93-show-and-tell
+slug: april-2010-%e2%80%93-show-and-tell
+title: 'April 2010 – Show and Tell '
+wordpress_id: 368
+categories:
+- Past Meetings
+---
+
+**David S – How to build your own Geographical Information System**
+[http://delicious.com/caprenter/bradlug](http://delicious.com/caprenter/bradlug)
+
+David ran through a quick how to using the data and the software from the links above. His mapping layer was the out of copyright Ordnance Survey Maps, and he overlayed that with data about Listed buildings. Smart.
+
+Software Patents
+We should all read…
+[http://news.swpat.org/2010/03/transcript-tridgell-patents/](http://news.swpat.org/2010/03/transcript-tridgell-patents/)
+[http://en.wikipedia.org/wiki/Andrew_Tridgell](http://en.wikipedia.org/wiki/Andrew_Tridgell)
+
+Nige gonna ask for a talk from EPO: http://www.epo.org/
+
+**John Demoed – Marble Desktop for KDE**
+He demoed the various map views you could add to it.
+[http://edu.kde.org/marble/](http://edu.kde.org/marble/)
+
+**Bernie’s Python Animation**
+The interesting bit is ffmpeg can turn a directory of images into an animation in one line.
+To add sound he used  csound, which takes 2 files, and orchestra and a score file and outputs a .wav file
+ffmpeg that and the images and you end up with your animation.
+
+**Wayne’s Ubuntu Netbook Edition**
+Looks good for portable devices
+Booted very fast with a fully encrypted disc.
+Plays nice with the cloud.
+
+Then he said something about **phones.**..I have no idea!
+Words I heard:
+moto voip x master of the universe astrisk phone line home sudo should ‘as much as my pipe can handle’

@@ -1,0 +1,23 @@
+---
+author: John
+comments: true
+date: 2012-07-23 21:39:25+00:00
+excerpt: "The first instalment of David's introdution to the command line and the\
+  \ latest adventures with Raspberry-Pi followed by  a look at Ada Lovelace's contribution\
+  \ to computing are among items on the agenda.\n "
+layout: post
+redirect_from: /25th-july-2012
+slug: 25th-july-2012
+title: 'July 25th 2012: Commandline and Ada'
+wordpress_id: 775
+categories:
+- Past Meetings
+---
+
+The first instalment of David's introdution to the command line and the latest adventures with Raspberry-Pi followed by  a look at Ada Lovelace's contribution to computing were among items on the agenda this evening.
+
+We spent a little more than 20 minutes covering the command line, how to read man pages, and agreeing that whilst the command line can be confusing at times, it certainly shouldn't be scary. Dave's slides are available [here to download](http://bradlug.co.uk/wp-content/uploads/2012/07/command1.odp).  Also available in [.txt format](http://bradlug.co.uk/wp-content/uploads/2012/07/cmdline.txt).
+
+We then had a very interesting talk from John about [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)'s contribution to computing, most of which was sadly lost until after Von Neumann had reproduced most of it much later on.
+
+Next month we plan on covering part two of David's introduction to the command line (bring along laptops to play with), as well as an update to a previous talk on HTML5 and CSS3 with all-new content from [Alice](http://about.me/kaerast) and John.

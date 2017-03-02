@@ -1,0 +1,27 @@
+---
+author: Dave
+comments: true
+date: 2011-12-01 09:09:16+00:00
+excerpt: 'In the last meeting of 2011...
+
+
+  Dave S showed us some of the documents in the <a href="http://www.zdnet.com/blog/hardware/barnes-noble-challenges-microsofts-infringement-claims-with-43-pages-of-prior-art/16382">Barnes
+  &amp; Noble dispute with Microsoft</a> over infringement claims.  Interesting stuff.
+  There was then a bit of discussion about the <a href="http://www.abc.net.au/news/2011-11-30/samsung-wins-apple-appeal/3704158">Apple
+  v''s Samsung dispute in Australia</a>.'
+layout: post
+redirect_from: /november-26th-2011
+slug: november-26th-2011
+title: November 26th 2011
+wordpress_id: 716
+categories:
+- Past Meetings
+---
+
+In the last meeting of 2011...
+
+Dave S showed us some of the documents in the [Barnes & Noble dispute with Microsoft](http://www.zdnet.com/blog/hardware/barnes-noble-challenges-microsofts-infringement-claims-with-43-pages-of-prior-art/16382) over infringement claims.  Interesting stuff. There was then a bit of discussion about the [Apple v's Samsung dispute in Australia](http://www.abc.net.au/news/2011-11-30/samsung-wins-apple-appeal/3704158).
+
+We managed to squeeze a little bit of info from Robert about the [Pomorodo time management technique](http://en.wikipedia.org/wiki/Pomodoro_technique). It may or may not change your life (for a week).
+
+We finished by watching a history of GPU computing - [http://nvidia.fullviewmedia.com/fb/nv-sc11/tabscontent/archive/306-wed-buck.html](http://nvidia.fullviewmedia.com/fb/nv-sc11/tabscontent/archive/306-wed-buck.html)

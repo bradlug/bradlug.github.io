@@ -1,0 +1,56 @@
+---
+layout: default
+title: Bradford GNU/Linux Users Group
+summary: A self-help group for GNU/Linux, Open Source and Free Software users in and around the Bradford District, West Yorkshire
+---
+
+<div id="featured" class="clearfix wrapper">
+    <div class="row">
+        <div class="column column-75">
+            <h1>BradLUG</h1>
+            <h2>GNU/Linux Users Group</h2>
+            <p>Welcome to the Bradford GNU/Linux site; we are a self-help group for GNU/Linux, Open Source and Free
+                Software users in and around the Bradford District, West Yorkshire</p>
+            <p>Why not come along to a <a href="/meetings">meeting</a>.</p>
+        </div>
+        <div class="column column-25">
+            <img src="/images/logo.jpg">
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="column column-75">
+        <!-- This loops through the paginated posts -->
+        {% for post in paginator.posts %}
+        {% include postSummary.html %}
+        {% endfor %}
+    </div>
+    <div class="column column-25">
+        {% include nav.html %}
+        <!-- Pagination links -->
+<div class="pagination">
+    <div class="flex flex--center">
+        <div class="flex-item text--left">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="btn btn--primary">Previous</a>
+            {% else %}
+              <a class="btn btn--primary btn--disabled ">Previous</a>
+            {% endif %}
+        </div>
+
+        <div class="flex-item text--center">
+            <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        </div>
+
+        <div class="flex-item text--right">
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="btn  btn--primary">Next</a>
+            {% else %}
+              <a class="btn btn--primary btn--disabled ">Next</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+    </div>
+</div>

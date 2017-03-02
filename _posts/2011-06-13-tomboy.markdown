@@ -1,0 +1,46 @@
+---
+author: Dave
+comments: false
+date: 2011-06-13 13:51:52+00:00
+excerpt: ' Tomboy can be used for multiple note taking and then all the separate notes
+  are available, in a list, for you to consult.'
+layout: post
+redirect_from: /tomboy
+slug: tomboy
+title: Tomboy
+wordpress_id: 661
+categories:
+- Articles
+---
+
+[Tomboy](http://projects.gnome.org/tomboy/?pagewanted=all) isn't a simple application like [Windows Notepad](http://en.wikipedia.org/wiki/Notepad_%28software%29) or [Gnome gEdit](http://projects.gnome.org/gedit/). No, Tomboy is much more than that. The application can be used for multiple note taking and then all the separate notes are available, in a list, within the application. To find a note on a particular topic all that is necessary is to enter a search word, or phrase, and up pops the note title(s) in a list. The whole of every note is searched not just the titles. So, in a way, it can act as a simple database for a wealth of information. Should you wish it is also possible to have notes filed under different categories.
+
+Each note has a title and that is what appears in the search results list. Further, should a note title be contained in another note, then that note will form a link from one note to the other. If clicked upon, the link will launch the note with that title. Further, if a web address is included, in a Tomboy note, then clicking upon it will launch that web site within the default browser[1] on your computer.
+
+Your Tomboy notes can be made accessible on all your computers. This is done very easily by synchronising Tomboy with the '[Ubuntu One](https://one.ubuntu.com/)' service, this service is similar to the proprietary [Dropbox](http://www.dropbox.com/). It is even possible to do this on Windows. Do this with each computer and all the notes you make, on each computer, will become available to you on all your other computers.
+
+There is also an application called Tomdroid, for the Android platform. However, it will only give 'read only' access to your notes. There is currently no search facility and no possibility of storing a new note on your Android phone. So, although it is quite basic, if you have the patience to do a manual search, of the notes, then it can prove most useful when you are 'out and about'.
+
+**Briefly – How to use Tomboy
+To start a new note:**
+Click on File>New
+
+**To make a note:**
+Replace the title (e.g. 'New Note 196') with your own title.
+Type or paste your text. If you wish to format your text (e.g. Bold, italicise etc.) then this can be done by clicking on 'Text' on the note's menu or via the keyboard – such as Ctrl-b for bold. Just highlight the desired text, in the usual way, and then format as you wish.
+
+**To set up synch with 'Ubuntu One':**
+Click on Edit>Preferences. Choose the 'Synchronisation' Tab. Select 'Tomboy Web'.
+You'll need to go through the process of setting up an 'Ubuntu One' account (it's free). Then don't forget to come back to the application and click 'Save' to save your settings. Also you can set the notes to automatically synchronise at intervals of your choice. I set it to 10 minutes. If you are about to close down your computer, after making a new note, and you urgently need the note to appear on another machine, then you can 'rush up' the synchronisation by clicking on Tools>'Synchronise Notes' on the Tomboy main menu.
+
+I use Tomboy all the time for making notes about things I learn, e.g. setting up Ubuntu, tips and tricks etc. I would say that Tomboy, next to a good browser, is probably the most important application I use.
+
+I only use Linux as I have found that everything I want to use is available for Linux. The 'Ubuntu Software Centre', built into the [Ubuntu operating system](http://www.ubuntu.com/) (OS), as an application, makes installation of software very easy and will cover most of what you will need[2]. Unlike Windows, where you have to go to different web sites to get your applications, it is all in one place on Ubuntu (and Mint). Even better, when you get updates, your applications are updated as well as to the OS. This is just a short paragraph to encourage you to move from Windows onto Linux. '[Ubuntu Linux](http://www.ubuntu.com/)' or '[Linux Mint](http://www.linuxmint.com/)' would be a good place to start[3]!
+
+**Brian Ackroyd**
+**
+Notes:**
+[1] Open source browser examples are [Firefox](http://www.mozilla.com/en-US/firefox/new/) & [Chromium](http://www.chromium.org/Home).
+[2] It is possible to install applications, not listed in the 'Ubuntu Software Centre' by downloading the '.deb' files or by adding a 'ppa' to Ubuntu's list of software sources. This is beyond the scope of this article.
+[3] [http://distrowatch.com](http://distrowatch.com) Look for the top 100 Linux distributions on the right hand side of the page.
+[4] Tomboy website: [http://projects.gnome.org/tomboy/](http://projects.gnome.org/tomboy/) Click 'Download' on the top of the page.

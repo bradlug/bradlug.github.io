@@ -1,0 +1,57 @@
+---
+author: Dave
+comments: true
+date: 2013-05-29 17:58:30+00:00
+excerpt: "<strong><span style=\"color: #888888;\">Broadcast on</span></strong>: 30th\
+  \ May 2013 18:00 and 31st May 2013 13:30\n<a href=\"http://www.bcbradio.co.uk/\"\
+  >BCB 106.6FM</a>\n\nThe show includes:\n<ul>\n\t<li>A discussion about the <a title=\"\
+  Communications data bill as seen by Liberty\" href=\"http://www.liberty-human-rights.org.uk/campaigns/no-snoopers-charter/index.php\"\
+  >Communications Data Bill</a> witha  cameo from the Queen</li>\n\t<li>Live on air\
+  \ demo of the <a href=\"http://www.oculusvr.com/\">Oculus Rift</a>, with assorted\
+  \ BradLUG member reactions.</li>\n\t<li>Studio guests -  Kriss, Shi and Dave C</li>\n\
+  \t<li>News, and general tech chatter, including the <a href=\"http://www.webarchive.org.uk/ukwa/\"\
+  >British Library's UK Web Archive</a>.</li>\n</ul>\nWorth tuning in for:\n<ul>\n\
+  \t<li>the BradLUGers reactions to virtual reality</li>\n\t<li>the technical cock\
+  \ up in the middle (I don't think anyone will notice)</li>\n</ul>\nIf you have any\
+  \ feedback, we'd love to hear it.\n\n<a href=\"http://www.bcbradio.co.uk/\"> </a>"
+layout: post
+redirect_from: /it-stuff-30th-may-2013
+slug: it-stuff-30th-may-2013
+title: 'IT Stuff: 30th May 2013'
+wordpress_id: 1217
+categories:
+- Radio
+---
+
+**Broadcast on**: 30th May 2013 18:00 and 31st May 2013 13:30
+[BCB 106.6FM](http://www.bcbradio.co.uk/)
+
+The show includes:
+
+
+
+	
+  * A discussion about the [Communications Data Bill](http://www.liberty-human-rights.org.uk/campaigns/no-snoopers-charter/index.php) witha  cameo from the Queen
+
+	
+  * Live on air demo of the [Oculus Rift](http://www.oculusvr.com/), with assorted BradLUG member reactions.
+
+	
+  * Studio guests -  Kriss, Shi and Dave C
+
+	
+  * News, and general tech chatter, including the [British Library's UK Web Archive](http://www.webarchive.org.uk/ukwa/).
+
+
+Worth tuning in for:
+
+	
+  * the BradLUGers reactions to virtual reality
+
+	
+  * the technical cock up in the middle (I don't think anyone will notice)
+
+
+If you have any feedback, we'd love to hear it.
+
+[ ](http://www.bcbradio.co.uk/)

@@ -1,0 +1,21 @@
+---
+layout:    default
+isArticle: true
+fixedHeader: true
+---
+
+{% assign minutes = content | number_of_words | divided_by: 120 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+
+
+<div class="wrapper">
+    <h2>{{ page.title }}</h2>
+    Posted on {{ page.date }} by {{ page.author }}
+    <div class="clearfix"></div>
+
+    {{ page.content }}
+</div>
+
+

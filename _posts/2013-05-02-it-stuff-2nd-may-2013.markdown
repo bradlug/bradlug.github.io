@@ -1,0 +1,48 @@
+---
+author: Dave
+comments: true
+date: 2013-05-02 07:13:08+00:00
+excerpt: "<strong><span style=\"color: #888888;\">Broadcast on</span></strong>: 2nd\
+  \ May 2013 18:00 and 3rd May 2013 13:30\n<a href=\"http://www.bcbradio.co.uk/\"\
+  >BCB 106.6FM</a>\n\nThe show includes:\n<ul>\n\t<li>An interview with <a href=\"\
+  http://www.centreofmanufacturingexcellence.com/fab-lab/\">Fab Lab</a> (by Brian)</li>\n\
+  \t<li>Shi's début behind the scenes 'driving the desk'</li>\n\t<li>Studio guests\
+  \ - John H and Kriss</li>\n\t<li>Book reviews, news, and general tech chatter.</li>\n\
+  </ul>\nIt's our first show that we have managed to create produce entirely on our\
+  \ own, so that's a bit of a milestone, and credit to everyone that has put their\
+  \ time and effort in so far!\n\nIf you have any feedback, we'd love to hear it.\n\
+  \n<a href=\"http://www.bcbradio.co.uk/\"> </a>"
+layout: post
+redirect_from: /it-stuff-2nd-may-2013
+slug: it-stuff-2nd-may-2013
+title: 'IT Stuff: 2nd May 2013'
+wordpress_id: 1201
+categories:
+- Radio
+---
+
+**Broadcast on**: 2nd May 2013 18:00 and 3rd May 2013 13:30
+[BCB 106.6FM](http://www.bcbradio.co.uk/)
+
+The show includes:
+
+
+
+	
+  * An interview with [Fab Lab](http://www.centreofmanufacturingexcellence.com/fab-lab/) (by Brian)
+
+	
+  * Shi's début behind the scenes 'driving the desk'
+
+	
+  * Studio guests - John H and Kriss
+
+	
+  * Book reviews, news, and general tech chatter.
+
+
+It's our first show that we have managed to create produce entirely on our own, so that's a bit of a milestone, and credit to everyone that has put their time and effort in so far!
+
+If you have any feedback, we'd love to hear it.
+
+[ ](http://www.bcbradio.co.uk/)

@@ -1,0 +1,22 @@
+---
+author: Dave
+comments: true
+date: 2011-03-24 12:47:41+00:00
+excerpt: 'John demonstrated KDE 1.2 from 2000 comparing applications as they were
+  in 2000 with what they look like today. Download: <a href=''http://bradlug.co.uk/wp-content/uploads/2011/03/KDE_2000.odp''>KDE
+  2000 Presentation</a> (.odp 0.8MB)
+
+
+  There were some other things we did at that meeting, can you remember what?'
+layout: post
+redirect_from: /march-2011-kde-2000
+slug: march-2011-kde-2000
+title: March 30th 2011 - KDE 2000
+wordpress_id: 642
+categories:
+- Past Meetings
+---
+
+John demonstrated KDE 1.2 from 2000 comparing applications as they were in 2000 with what they look like today. Download: [KDE 2000 Presentation](http://bradlug.co.uk/wp-content/uploads/2011/03/KDE_2000.odp) (.odp 0.8MB)
+
+There were some other things we did at that meeting, can you remember what?

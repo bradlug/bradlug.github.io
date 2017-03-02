@@ -1,0 +1,51 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Bradford GNU/Linux Users Group &#124; A self-help group for GNU/Linux, Open Source and Free Software users in
+        and around the Bradford District, West Yorkshire</title>
+
+    <meta property="description" content="{{ page.summary }}"/>
+
+    {% if layout.isArticle %}
+    <meta property="og:type" content="article"/>
+    <meta property="article:published_date" content="{{ page.date | date_to_xmlschema }}"/>
+    {% else %}
+    <meta property="og:type" content="website"/>
+    {% endif %}
+
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:description"
+          content="{{ page.summary }}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+    <meta property="og:site_name" content="Bradford GNU/Linux Users Group"/>
+    <meta property="og:image"
+          content="{{ site.url }}/images/{% if page.image %}{{ page.image }}{% else %}logo.jpg{% endif %}"/>
+
+
+    <meta name="twitter:site" content="@bradlug"/>
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
+    <meta name="twitter:description" content="{{ page.summary }}"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:image"
+          content="{{ site.url }}/images/{% if page.image %}{{ page.image }}{% else %}logo.jpg{% endif %}"/>
+    {% if layout.isArticle %}
+    <meta name="twitter:label1" value="Time">
+    <meta name="twitter:data1" value="{{ page.content | number_of_words | divided_by: 120 }} minutes read 🕑">
+    {% endif %}
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <!-- CSS Reset -->
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <!-- Milligram CSS minified -->
+    <link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
+    <!-- local styles -->
+    <link rel="stylesheet" href="/css/style.css">
+
+    <link rel="alternate"
+          type="application/atom+xml" title="Bradlug Feed"
+          href="{{ site.url | xml_escape }}/feed.xml"/>
+</head>

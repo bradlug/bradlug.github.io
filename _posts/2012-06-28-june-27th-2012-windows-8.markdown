@@ -1,0 +1,31 @@
+---
+author: Dave
+comments: true
+date: 2012-06-28 21:31:32+00:00
+excerpt: 'Richard gave us a guided tour of a <a href="http://windows.microsoft.com/en-US/windows-8/release-preview">pre-release
+  version of Windows 8</a>. There was a lot to be said about what Microsoft is trying
+  to achieve, and how that relates to the rest of the IT world, devices and operating
+  systems.
+
+
+  Mike gave us a culture quiz - to help keep us all well rounded human beings, as
+  well as geeks! Well done to Andy for winning and taking the prizes, and thanks to
+  Mike for organising.
+
+
+  Dave S suggested a monthly set of short ''How the Command Line can be your friend''
+  talks, which everyone seemed to welcome.'
+layout: post
+redirect_from: /june-27th-2012-windows-8
+slug: june-27th-2012-windows-8
+title: 'June 27th 2012: Windows 8'
+wordpress_id: 758
+categories:
+- Past Meetings
+---
+
+Richard gave us a guided tour of a [pre-release version of Windows 8](http://windows.microsoft.com/en-US/windows-8/release-preview). There was a lot to be said about what Microsoft is trying to achieve, and how that relates to the rest of the IT world, devices and operating systems.
+
+Mike gave us a culture quiz - to help keep us all well rounded human beings, as well as geeks! Well done to Andy for winning and taking the prizes, and thanks to Mike for organising.
+
+Dave S suggested a monthly set of short 'How the Command Line can be your friend' talks, which everyone seemed to welcome.
