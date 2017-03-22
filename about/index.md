@@ -94,7 +94,9 @@ Over the years various people have provided financial support to the group (main
   * [snap-and-scan.com](http://snap-and-scan.com/)
 
 	
-  * [Stopwatch Web](http://www.stopwatchweb.net)[
-](http://www.xpd259.co.uk)
+  * [Stopwatch Web](http://www.stopwatchweb.net)
+  
+  
+  * [XPD259](http://www.xpd259.co.uk)
 
 
