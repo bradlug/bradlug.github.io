@@ -1,7 +1,7 @@
-#Bradford GNU/Linux Users Group
+# Bradford GNU/Linux Users Group
 
 
-Firstime instalation of jekyll and dependencies
+Firs time installation of jekyll and dependencies
 
 	gem install bundler
 	bundle install
