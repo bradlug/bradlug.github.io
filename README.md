@@ -17,7 +17,7 @@ Run a server to test the output locally
 	bundle exec rake
 
 
-Test the site, complain about badlyformed html etc
+Test the site, complain about badly formed html etc
 
 	bundle exec rake test
 
@@ -49,7 +49,7 @@ https://bradlug.github.io/
 
 ## Contributing to the website
 
-We now have a Github organization "Bradlug". Who else fromBradLUG is on GitHub?
+We now have a Github organization "Bradlug". Who else from BradLUG is on GitHub?
 
 **Task** - Get everyone signed up with write access.
 
