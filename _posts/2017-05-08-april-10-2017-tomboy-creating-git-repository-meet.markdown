@@ -1,6 +1,6 @@
 ---
 author: John
-date: 2017-03-19 15:06:36+00:00
+date: 2017-05-08 15:06:36+00:00
 excerpt: '<p>We welcomed Ben, a Python programmer from Cambridge, who was on a working trip to West Yorkshire.</p><p><strong>Brian</strong> asked about notetaking apps because <a href="https://wiki.gnome.org/Apps/Tomboy" type="text/html">Tomboy</a> was no longer synchronising properly. He would prefer a web-based app and had looked at <a href="https://github.com/isaacs/minimatch" type="text/html">Minimatch</a> which uses NPM.</p><p>This provoked a discussion about developers dropping features.</p><p>Then, while David S led a private discussion at one end of the room,</p>
 	'
 layout: post
