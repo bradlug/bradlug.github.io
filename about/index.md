@@ -26,20 +26,10 @@ We talk about **'members'** and, while there is no formal means of membership or
 
 Over time individuals have taken on roles within the group as volunteers to help things happen. If you have a question about the following then these are the people to address your questions to.
 
-
-
-	
   * Website - (site admins: Nigel, Dick, David, Nick, John)
-
-	
   * Mailing List - Dick Thomas
-
-	
   * Articles - John Hudson
-
-	
   * Co-ordination - David Carpenter
-
 
 Our monthly meeting room comes courtesy of [Bradford Community and Voluntary Service](http://www.bradfordcvs.org.uk/), for which we give a donation gathered from people that attend the meeting.
 
