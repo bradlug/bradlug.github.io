@@ -11,5 +11,8 @@ wordpress_id: 20
 
 **General Enquiries**
 
-All messages go to at least 3 of the group members. One of them should contact you promptly.
+All messages go to at least 3 of the group members.  
+
+One of them should contact you promptly.  
+
 You can also email us at admin@bradlug.co.uk
