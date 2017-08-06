@@ -43,7 +43,7 @@ Bradford GNU/Linux User Group began in June 2008, with a post to the WYLUG list 
 
 The next attempt (a Wednesday in September) attracted 10 people, and BradLug was born.
 
-We now meet on the third Monday of the month at the [Bradford Community and Voluntary Service ](http://www.bradfordcvs.org.uk/)building. [UK Linux User Groups](http://lug.org.uk/) give us a mailing lists, and a few of the members got together to get this website up.
+We now meet on the second Monday of the month at the [Bradford Community and Voluntary Service](http://www.bradfordcvs.org.uk/) building. [UK Linux User Groups](http://lug.org.uk/) give us a mailing lists, and a few of the members got together to get this website up.
 
 Lots of people help out in various ways to keep the group going. Some people donate time and/or resources, others very kindly pay for the hire of the meeting room.
 
