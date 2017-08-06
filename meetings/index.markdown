@@ -9,7 +9,7 @@ title: Meetings
 wordpress_id: 47
 ---
 
-We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of previous meetings, including notes and links, can be found under [Past Meetings](../category/past_meetings).
+We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of previous meetings, including notes and links, can be found in previous posts.
 
 Formal meetings take place on the **second Monday** of the month in the [Bradford CVS Mable Booth room](http://bradfordcvs.org.uk/html/room_hire/room_hire.html), with people arriving from 7.00 PM onwards. The meeting room is provided for free by [Bradford CVS](http://bradfordcvs.org.uk/), but we will pass on any donation you may like to make to them (suggested donation £2 per meeting).
 
