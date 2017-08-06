@@ -49,6 +49,30 @@ summary: A self-help group for GNU/Linux, Open Source and Free Software users in
         </div>
     </div>
 </div>
+        <!-- Bottom Pagination links -->
+<div class="pagination bottom">
+    <div class="flex flex--center">
+        <div class="flex-item text--left">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="btn btn--primary">Previous</a>
+            {% else %}
+              <a class="btn btn--primary btn--disabled ">Previous</a>
+            {% endif %}
+        </div>
+
+        <div class="flex-item text--center">
+            <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        </div>
+
+        <div class="flex-item text--right">
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="btn  btn--primary">Next</a>
+            {% else %}
+              <a class="btn btn--primary btn--disabled ">Next</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
         <!-- Link to top -->
         <a href="#" class="top">Back to top</a>
     </div>
