@@ -10,9 +10,9 @@ wordpress_id: 2
 
 **Bradford GNU/Linux User Group** (Bradford LUG or BradLUG) is a self-help group for GNU/Linux, [Free and Open Source Software](http://www.bradlug.co.uk/foss/) users in the Bradford District.
 
-We have regular social meetings and more formal meetings where we might talk about something technical, or help people with their computing problems, or discuss and debate issues around technology in society.
+Our meetings involve talks and demonstrations on a wide varity of topics, usually something technical, helping people with their computing problems, or discuss and debate issues around technology in society.
 
-We communicate outside of those meetings using a[ mailing list](https://mailman.lug.org.uk/mailman/listinfo/bradford) and this website.
+We communicate outside of those meetings using a [mailing list](https://mailman.lug.org.uk/mailman/listinfo/bradford) and this website.
 
 If you'd like to know more, we'd love to hear from you.
 
@@ -20,13 +20,13 @@ If you'd like to know more, we'd love to hear from you.
 ## Structure
 
 
-We're an informal group that has no funds, and no formal structures. Everyone that contributes to the group, does so in their free time.
+We're an informal group that has no funds, and no formal structure. Everyone who contributes to the group, does so in their free time.
 
 We talk about **'members'** and, while there is no formal means of membership or membership rights, we consider these to be anyone that has joined the [mailing list](https://mailman.lug.org.uk/mailman/listinfo/bradford) or who has attended a meeting.
 
-Over time individuals have taken on roles within the group as volunteers to help things happen. If you have a question about the following then these are the people to address your questions to.
+Over time individuals have taken on roles within the group as volunteers to help things happen. If you have a question about the following, these are the people to address your questions to.
 
-  * Website - (site admins: Nigel, Dick, David, Nick, John)
+  * Website - (site admins: Nigel, Dick, David, Nick, John, Alice, shi)
   * Mailing List - Dick Thomas
   * Articles - John Hudson
   * Co-ordination - David Carpenter
