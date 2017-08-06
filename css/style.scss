@@ -35,6 +35,14 @@ ul {
   list-style-type: disc;
 }
 
+/* Fix old post with lists */
+ul li p {
+   display: inline;
+}
+ol li p {
+   display: inline;
+}
+
 a {
   color: #06c;
 }
