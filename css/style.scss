@@ -31,18 +31,6 @@ header {
   margin: 20px auto 20px auto;
 }
 
-ul {
-  list-style-type: disc;
-}
-
-/* Fix old posts with lists */
-ul li p {
-   display: inline;
-}
-ol li p {
-   display: inline;
-}
-
 /* Font styles */
 p {
   font-size:18px;
@@ -59,6 +47,19 @@ em {
 h2 {
   margin-top: 0.5em;
   margin-bottom: 0.5em; 
+}
+
+ul {
+  list-style-type: disc;
+  font-size: 18px;
+}
+
+/* Fix old posts with lists */
+ul li p {
+   display: inline;
+}
+ol li p {
+   display: inline;
 }
 
 /* Add margin to first paragraphs of each post */
