@@ -62,9 +62,9 @@ ol li p {
    display: inline;
 }
 
-/* Add margin to first paragraphs of each post */
-.wrapper p:nth-of-type(1) {
-   margin-top: 2.5rem;
+/* Date posted under blog post title */
+.date_posted {
+   margin-bottom: 2.5rem;
 }
 
 /* Styling for welcome message on landing page */
