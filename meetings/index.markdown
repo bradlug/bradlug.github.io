@@ -15,7 +15,8 @@ Formal meetings take place on the **second Monday** of the month in the [Bradfor
 
 All the dates are in our [calendar](https://www.google.com/calendar/embed?src=j0levg4c0p2op08nf5elp3u50k%40group.calendar.google.com&ctz=Europe/London).
 
-<img src="/images/281112_nick.jpg" width="400px"/><img src="/images/080615.jpg" width="400px"/>
+<a href="https://twitter.com/NGRhodes/status/273878185584758784"><img src="/images/281112_nick.jpg" width="400px"/></a><a href="https://twitter.com/bradlug/status/607987734637101056"><img src="/images/080615.jpg" width="400px"/></a>  
+<i>Photo credits: Nick Rhodes and John Hudson</i>
 
 **Speak Up**  
 If you would like to give a **talk or demonstration**, please drop us a line! Talks and Demonstrations can take on almost any format from show and tell to a more formal presentation. We would love to hear about what projects people are hacking on.
