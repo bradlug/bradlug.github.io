@@ -35,7 +35,7 @@ ul {
   list-style-type: disc;
 }
 
-/* Fix old post with lists */
+/* Fix old posts with lists */
 ul li p {
    display: inline;
 }
@@ -56,13 +56,20 @@ h2 {
   margin-bottom: 0.5em; 
 }
 
+/* Styling for welcome message on landing page */
 p.welcome {
   font-size: 28px;
   padding-right: 1.5em;
 }
 
+/* Link buttons on landing page */
 a.button {
   background-color: #fff;
   border: 0;
   color: #555;
+}
+
+/* Add margin to first paragraphs of each post */
+.wrapper p:nth-of-type(1) {
+   margin-top: 2.5rem;
 }
