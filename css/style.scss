@@ -78,4 +78,15 @@ a.button {
 /* Get in touch wrapper on landing page*/
 .wrapper.touch {
   padding: 30px 20px;
+  position:relative;
+}
+/* Google Calendar */
+p.gcal {
+  position: absolute;
+  width: 220px;
+  left: 13px;
+  bottom: 0;
+}
+.touch div {
+  height: 200px;
 }
