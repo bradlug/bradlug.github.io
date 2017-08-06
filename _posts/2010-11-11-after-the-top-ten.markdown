@@ -13,7 +13,9 @@ categories:
 - Archived Articles
 ---
 
-Following the publication of the[ top ten free and open source software programs](/page_id=546) last issue, we had a request for 11-40. In fact 42 had originally been nominated. So here are 11-42 sorted by operating system; we did not vote on those that were not considered for the top ten. Linux users can get these programs from their distribution's repositories. The Web addresses are for Mac and Windows users.
+Following the publication of the[ top ten free and open source software programs](/page_id=546) last issue, we had a request for 11-40.
+
+In fact 42 had originally been nominated. So here are 11-42 sorted by operating system; we did not vote on those that were not considered for the top ten. Linux users can get these programs from their distribution's repositories. The Web addresses are for Mac and Windows users.
 
 Two programs were considered for the final top ten but eventually missed out:  
 **Firefox** – web browser http://www.mozilla-europe.org/en/firefox/  
