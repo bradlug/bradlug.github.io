@@ -15,30 +15,31 @@ Formal meetings take place on the **second Monday** of the month in the [Bradfor
 
 All the dates are in our [calendar](https://www.google.com/calendar/embed?src=j0levg4c0p2op08nf5elp3u50k%40group.calendar.google.com&ctz=Europe/London).
 
-**Speak Up**
-If you would like to give a **talk or demonstration** then please drop us a line! Talks /Demonstrations can take on almost any format from show and tell to a more formal presentation. We would love to hear about what projects people are hacking on.
+**Speak Up**  
+If you would like to give a **talk or demonstration**, please drop us a line! Talks and Demonstrations can take on almost any format from show and tell to a more formal presentation. We would love to hear about what projects people are hacking on.
 
-We would also like to hear about anything to do with the** Open source/Free software** movement so please if you have talks or lectures you would like to give to the group please do get in touch.
+We would also like to hear about anything to do with the **Open source/Free software** movement so please, if you have talks or lectures you would like to give to the group, do get in touch!
 
 **Get in touch about a talk**: [Contact us](/contact)
 
-**PreLUG Food:**
-Usually before the meetings a group of us generally gather from around 6.00 pm onwards in Pizza Pieces on Market Street for the traditional Pre LUG pizza or  Pasta.
+**PreLUG Food**  
+Usually before the meetings, a group of us generally gather from around 6.00 pm onwards in Pizza Pieces on Market Street for the traditional PreLUG pizza or Pasta.
 
-If you would like to come along and meet some of us before the meeting if your new to the group then drop us a email and usually someone will be more than happy to met and great you and introduce you to the others as and when they appear.
+If you would like to come along and meet some of us before the meeting or if you are new to the group, do drop us an email  and usually someone will be more than happy to meet and introduce you to the others as and when they appear.
 
-**Our Meetings are held:** 
-in the Mable Booth Room of Bradford Community and Voluntary Service (CVS). The room is equipped with a projector which takes VGA and HDMI inputs.
+**Meetings**  
+Our Meetings are held in the Mable Booth Room of Bradford Community and Voluntary Service (CVS).  
+The room is equipped with a projector which takes VGA and HDMI inputs.
 
-You can find it at:
-Voluntary Services Centre
-19/25 Sunbridge Road
-Bradford
-West Yorkshire
-BD1 2AY
-**tel.** 01274 722772
-**fax.** 01274 393938
-**Minicom:** 01274 768305
+**Location**  
+Voluntary Services Centre  
+19/25 Sunbridge Road  
+Bradford  
+West Yorkshire  
+BD1 2AY  
+**Tel:** 01274 722772  
+**Fax:** 01274 393938  
+**Minicom:** 01274 768305  
 
 
 
