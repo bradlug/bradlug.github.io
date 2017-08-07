@@ -12,3 +12,4 @@ gems:
     - jekyll-feed
     - jekyll-paginate
     - jekyll-redirect-from
+host: 0.0.0.0
