@@ -130,3 +130,15 @@ a.top {
   position: absolute;
   bottom: 100px;
 }
+
+
+/* Mobile First Media Queries */
+@media (min-width: 40.0rem) {
+  
+  .site-name {
+    font-size: 1.5em;
+    line-height: 1.25em;
+  }
+  
+  
+}
