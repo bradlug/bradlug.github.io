@@ -145,6 +145,14 @@ a.top {
     bottom: initial;
   }
   
+  p.gcal {
+    width:93%;
+  } 
+    
+  p.gcal iframe {
+    width:100%;
+  }
+  
   .pagination.bottom {
     display:none;
   }
