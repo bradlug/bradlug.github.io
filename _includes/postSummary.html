@@ -5,12 +5,13 @@
 
 <div class="wrapper">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    Posted on {{ post.date }}
-
-    {{ post.content }}
-
-    <div class="read flex-item">
-        Time: {{ minutes }} minute read
+    <div class="date_posted">
+        <b>Posted by {{ post.author }}</b>
+        <span class="read flex-item">( {{ minutes }} minute read )</span>
     </div>
+
+    {{ post.excerpt }}
+    
+    <div class="read_more"><a href="{{ post.url }}">Read more ...</a></div>
 
 </div>
