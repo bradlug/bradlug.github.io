@@ -40,6 +40,17 @@ a {
   color: #06c;
 }
 
+/* Fix long urls */
+a {
+  overflow-wrap:break-word;
+  word-wrap:break-word;
+  word-break:break-word;
+  -ms-hyphens:auto;
+  -moz-hyphens:auto;
+  -webkit-hyphens:auto;
+  hyphens:auto;
+}
+
 em {
   font-weight: bold;
 }
