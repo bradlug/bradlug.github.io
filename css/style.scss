@@ -132,8 +132,8 @@ a.top {
 }
 
 
-/* Mobile First Media Queries */
-@media (min-width: 40.0rem) {
+/* Mobile Last Media Queries */
+@media (max-width: 40.0rem) {
   
   .site-name {
     font-size: 1.5em;
