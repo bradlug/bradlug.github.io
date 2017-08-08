@@ -140,5 +140,27 @@ a.top {
     line-height: 1.25em;
   }
   
+  a.top {
+    position: initial;
+    bottom: initial;
+  }
+  
+  .pagination.bottom {
+    display:none;
+  }
+  
+  .wrapper {
+    padding: 30px 20px; 
+  }
+  
+  .wrapper p.welcome {
+    font-size: 1.25em;
+    padding-right:0;
+  }
+  
+  .row .column.column-75, .row .column.column-25,
+  .row .column.column-60, .row .column.column-40 {
+    max-width: 100%; 
+  }
   
 }
