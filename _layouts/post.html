@@ -14,6 +14,13 @@ fixedHeader: true
     <h2>{{ page.title }}</h2>
     <div class="date_posted">Posted on {{ page.date }} by {{ page.author }}</div>
     <div class="clearfix"></div>
+    {% for page_category in page.categories %}
+    	{% for data_category in site.data.categories %}
+		{% if data_category.name == page_category %}
+		<span class="post--category"><a href="/category/{{ data_category.slug }}/">{{ page_category }}</a></span>
+		{% endif %}
+	{% endfor %}
+  {% endfor %}
 
     {{ page.content }}
 </div>
