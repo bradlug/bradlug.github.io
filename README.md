@@ -36,6 +36,8 @@ https://bradlug.github.io/
 
 ## Actions and Decisions
 
+Old site still available at http://old.bradlug.co.uk server has become rather flakey and requires a little nudge occasionally to keep it available, once we're happy I'll kill the old site for good, but for now it can be used for reference purposes.
+
 * We need to export the current site from Wordpress. See [Wordpress to Jekyll](http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/) N.B. we may need to the command line options of the plugin to run the export
 * Comments - we don't need to worry about saving comments, or having comments
 * We should end up with same URLs
