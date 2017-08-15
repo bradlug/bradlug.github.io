@@ -17,7 +17,7 @@ categories:
 - Past Meetings
 ---
 
-**Brian** gave a [demonstration](http://www.bradlug.co.uk/september-12-2016-mqtt-node-red-micro-benchmarks-and-review-of-the-year/iot/) of live messaging between ‘things’ using [MQTT](http://mqtt.org/) in which members were encouraged to participate; this involved installing [Mosquitto](https://mosquitto.org/), a message ‘broker’ for MQTT, and then connecting to the temporary wi-fi network which Brian had set up.
+**Brian** gave a [demonstration](files/iot.odp) of live messaging between ‘things’ using [MQTT](http://mqtt.org/) in which members were encouraged to participate; this involved installing [Mosquitto](https://mosquitto.org/), a message ‘broker’ for MQTT, and then connecting to the temporary wi-fi network which Brian had set up.
 
 
 
