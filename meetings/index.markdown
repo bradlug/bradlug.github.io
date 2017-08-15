@@ -11,7 +11,7 @@ wordpress_id: 47
 
 We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of previous meetings, including notes and links, can be found in previous posts.
 
-Formal meetings take place on the **second Monday** of the month in the [Bradford CVS Mable Booth room](http://bradfordcvs.org.uk/our-services/room-and-equipment-hire/mabel-booth-room), with people arriving from **7:00 PM onwards**. The meeting room is provided for free by **Bradford CVS** (thank you!), but we will pass on any donation you may like to make to them (suggested donation £2 per meeting).
+Formal meetings take place on the **second Monday** of the month in the [Bradford CVS Mabel Booth room](http://bradfordcvs.org.uk/our-services/room-and-equipment-hire/mabel-booth-room), with people arriving from **7:00 PM onwards**. The meeting room is provided for free by **Bradford CVS** (thank you!), but we will pass on any donation you may like to make to them (suggested donation £2 per meeting).
 
 All the dates are in our [calendar](https://www.google.com/calendar/embed?src=j0levg4c0p2op08nf5elp3u50k%40group.calendar.google.com&ctz=Europe/London).
 
@@ -31,7 +31,7 @@ Usually before the meetings, a group of us generally gather from around 6.00 pm 
 If you would like to come along and meet some of us before the meeting or if you are new to the group, do drop us an email  and usually someone will be more than happy to meet and introduce you to the others as and when they appear.
 
 **Meetings**  
-Our Meetings are held in the Mable Booth Room of Bradford Community and Voluntary Service (CVS).  
+Our Meetings are held in the Mabel Booth Room of Bradford Community and Voluntary Service (CVS).
 The room is equipped with a projector which takes VGA and HDMI inputs.
 
 **Location**  
