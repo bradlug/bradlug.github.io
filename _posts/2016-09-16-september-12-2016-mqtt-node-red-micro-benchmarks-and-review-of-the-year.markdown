@@ -2,8 +2,7 @@
 author: John
 comments: true
 date: 2016-09-16 21:35:05+00:00
-excerpt: <p><strong>Brian</strong> gave a <a href="http://www.bradlug.co.uk/?attachment_id=4108"rel="attachment
-  wp-att-4108">demonstration</a> of live messaging between ‘things’ using <a href="http://mqtt.org/"
+excerpt: <p><strong>Brian</strong> gave a <a href="http://bradlug.co.uk/blog/2016/09/16/files/iot.odp">demonstration</a> of live messaging between ‘things’ using <a href="http://mqtt.org/"
   type="text/html">MQTT</a> in which members were encouraged to participate; this
   involved installing <a href="https://mosquitto.org/" type="text/html">Mosquitto</a>,
   a message ‘broker’ for MQTT, and then connecting to the temporary wi-fi network
@@ -17,7 +16,7 @@ categories:
 - Past Meetings
 ---
 
-**Brian** gave a [demonstration](files/iot.odp) of live messaging between ‘things’ using [MQTT](http://mqtt.org/) in which members were encouraged to participate; this involved installing [Mosquitto](https://mosquitto.org/), a message ‘broker’ for MQTT, and then connecting to the temporary wi-fi network which Brian had set up.
+**Brian** gave a [demonstration](http://bradlug.co.uk/blog/2016/09/16/files/iot.odp) of live messaging between ‘things’ using [MQTT](http://mqtt.org/) in which members were encouraged to participate; this involved installing [Mosquitto](https://mosquitto.org/), a message ‘broker’ for MQTT, and then connecting to the temporary wi-fi network which Brian had set up.
 
 
 
