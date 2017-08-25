@@ -31,7 +31,7 @@ Brian warned about the need to deal with ‘switch bounce’ which occurs becaus
 
 
 
-In the course of this very successful demonstration, [documented here](http://www.bradlug.co.uk/september-12-2016-mqtt-node-red-micro-benchmarks-and-review-of-the-year/iot_plan/), David S and Nigel managed to write a script to reconfigure the flows in the Node-RED page using Mosquitto as Brian had not yet worked out how to secure the messaging flow [but has done so since!].
+In the course of this very successful demonstration, David S and Nigel managed to write a script to reconfigure the flows in the Node-RED page using Mosquitto as Brian had not yet worked out how to secure the messaging flow [but has done so since!].
 
 
 

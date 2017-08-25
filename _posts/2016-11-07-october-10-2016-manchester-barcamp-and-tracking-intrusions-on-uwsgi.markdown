@@ -18,7 +18,7 @@ categories:
 - Past Meetings
 ---
 
-As no-one had prepared anything specially for the meeting and David S was occupied trying to get Adobe Flash to work on John W’s computer, we chatted among ourselves with Brian and Ash sharing their experiences of [Manchester BarCamp](http://www.barcampmanchester.co.uk/). The arrangements had been better this year with half a dozen lecture rooms available. Brian had given his [IoT talk](http://www.bradlug.co.uk/september-12-2016-mqtt-node-red-micro-benchmarks-and-review-of-the-year/) which he had tried out on us the previous month and they had enjoyed sessions on Hacker Packet Radio and Git.
+As no-one had prepared anything specially for the meeting and David S was occupied trying to get Adobe Flash to work on John W’s computer, we chatted among ourselves with Brian and Ash sharing their experiences of [Manchester BarCamp](http://www.barcampmanchester.co.uk/). The arrangements had been better this year with half a dozen lecture rooms available. Brian had given his [IoT talk](http://bradlug.co.uk/blog/2016/09/16/files/iot.odp) which he had tried out on us the previous month and they had enjoyed sessions on Hacker Packet Radio and Git.
 
 
 
