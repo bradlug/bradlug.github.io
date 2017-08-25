@@ -15,7 +15,7 @@ categories:
 - Past Meetings
 ---
 
-**David S** did a [presentation](http://www.bradlug.co.uk/2016/11/24/files/salt-talk.odp) on configuration management or how to make sure that everything you need is set up as you want it to be whether on one or on a thousand devices.
+**David S** did a [presentation](http://www.bradlug.co.uk/blog/2016/11/24/files/salt-talk.odp) on configuration management or how to make sure that everything you need is set up as you want it to be whether on one or on a thousand devices.
 
 
 
