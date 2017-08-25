@@ -62,7 +62,7 @@ It needs something to read the RSS feed and apply `awk` and `grep` — in other 
 
 
 
-As he wants something simple, [If This Then That]](https://ifttt.com/) and [Lighttpd](https://www.lighttpd.net/) on the router would seem to do the trick, though it was suggested he might want to consider [Huginn](https://github.com/cantino/huginn/wiki) instead of IFTTT.
+As he wants something simple, [If This Then That](https://ifttt.com/) and [Lighttpd](https://www.lighttpd.net/) on the router would seem to do the trick, though it was suggested he might want to consider [Huginn](https://github.com/cantino/huginn/wiki) instead of IFTTT.
 
 
 
