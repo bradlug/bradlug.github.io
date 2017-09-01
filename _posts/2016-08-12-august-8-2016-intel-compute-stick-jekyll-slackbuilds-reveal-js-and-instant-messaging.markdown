@@ -51,7 +51,7 @@ One option would be to use Github which does not charge for public repositories.
 
 
 
-**Alice** demonstrated the [Sky Betting and Gaming Engineering blog](http://engineering.skybettingandgaming.com/) which is written in [Jekyll](https://jekyllrb.com/) and hosted on [Github](https://github.com/skybet/skybet.github.io|). Jekyll uses [Markdown](https://en.wikipedia.org/wiki/Markdown), among others, to create the HTML code; layouts are the equivalent of themes in Wordpress. You can import Wordpress sites with the [following code](http://import.jekyllrb.com/docs/wordpressdotcom/) and add [Disqus](https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions) for comments.
+**Alice** demonstrated the [Sky Betting and Gaming Engineering blog](http://engineering.skybettingandgaming.com/) which is written in [Jekyll](https://jekyllrb.com/) and hosted on [Github](https://github.com/skybet/skybet.github.io). Jekyll uses [Markdown](https://en.wikipedia.org/wiki/Markdown), among others, to create the HTML code; layouts are the equivalent of themes in Wordpress. You can import Wordpress sites with the [following code](http://import.jekyllrb.com/docs/wordpressdotcom/) and add [Disqus](https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions) for comments.
 
 
 

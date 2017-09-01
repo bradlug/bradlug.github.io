@@ -29,8 +29,15 @@ categories:
 John shared a couple of the figures that had been in the original report, one showing how the cost of hardware — which placed a premium on efficient code — had fallen below the cost of people in the 1970s, meaning that organisations would have to take more care of their people in the future, and the other showing that over half of the bugs in applications related back to the requirements stage and required 82% of the effort to rectify them.
 
 
-[![Hardware costs versus people costs](http://www.bradlug.co.uk/wp-content/uploads/2016/07/Hardware_v_people-286x300.png)](http://www.bradlug.co.uk/july-11-2016-prototyping/hardware_v_people/)
-[![Distribution of bugs in new applications](http://www.bradlug.co.uk/wp-content/uploads/2016/07/Distribution-188x300.png)](http://www.bradlug.co.uk/july-11-2016-prototyping/distribution/)
+<figure>
+	<img src="images/Hardware_v_people.png" width="400" height="420" role="img">
+	<figcaption>Hardware costs versus people costs</figcaption>
+</figure>
+<figure>
+	<img src="images/Distribution.png" width="399" height="638" role="img">
+	<figcaption>Distribution of bugs in new applications</figcaption>
+</figure>
+
 
 
 While there was plenty of discussion in academia and computing journals of the advantages of prototyping and various examples from the US, the only example they had found in the UK had been at Boots.
