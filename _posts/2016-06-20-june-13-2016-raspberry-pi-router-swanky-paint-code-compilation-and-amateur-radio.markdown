@@ -16,7 +16,7 @@ categories:
 - Past Meetings
 ---
 
-**Brian** demonstrated in this [presentation](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/raspirouter/) how he set up a [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) as a router essentially by setting up a static IP during configuration and then handing over to a DNS server.
+**Brian** demonstrated in this [presentation](http://www.bradlug.co.uk/blog/2016/06/20/files/rasPiRouter.odp) how he set up a [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) as a router essentially by setting up a static IP during configuration and then handing over to a DNS server.
 
 
 
