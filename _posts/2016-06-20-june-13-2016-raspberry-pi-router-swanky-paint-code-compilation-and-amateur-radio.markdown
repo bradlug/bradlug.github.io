@@ -2,8 +2,7 @@
 author: John
 comments: true
 date: 2016-06-20 17:48:40+00:00
-excerpt: <p><strong>Brian</strong> demonstrated in this <a href="http://www.bradlug.co.uk/?attachment_id=4046"rel="attachment
-  wp-att-4046">presentation</a> how he set up a <a href="https://www.raspberrypi.org/products/raspberry-pi-2-model-b/"
+excerpt: <p><strong>Brian</strong> demonstrated in this <a href="www.bradlug.co.uk/blog/2016/06/20/files/rasPiRouter.odp">presentation</a> how he set up a <a href="https://www.raspberrypi.org/products/raspberry-pi-2-model-b/"
   type="text/html">Raspberry Pi 2</a> as a router essentially by setting up a static
   IP during configuration and then handing over to a DNS server.</p>
 layout: post
@@ -16,7 +15,7 @@ categories:
 - Past Meetings
 ---
 
-**Brian** demonstrated in this [presentation](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/raspirouter/) how he set up a [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) as a router essentially by setting up a static IP during configuration and then handing over to a DNS server.
+**Brian** demonstrated in this [presentation](http://www.bradlug.co.uk/blog/2016/06/20/files/rasPiRouter.odp) how he set up a [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) as a router essentially by setting up a static IP during configuration and then handing over to a DNS server.
 
 
 
