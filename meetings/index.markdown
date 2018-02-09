@@ -11,9 +11,9 @@ wordpress_id: 47
 
 We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of past meetings, including notes and links, can be found in [previous posts](/category/past-meetings).
 
-Hitherto formal meetings have taken place on the **second Monday** of the month in the Bradford CVS Mabel Booth room but this room is no longer available to us and so we are seeking an alternative venue.
+From 2008 for just over nine years we met in the Mabel Booth Room of Bradford CVS but this room is no longer available to us.
 
-Keep an eye on this page or join the mailing list to get details of our new venue.
+So from February 2018 meetings will take place on the **second Tuesday** of the month at BCB Radio, 11 Rawson Road, Bradford BD1 3SH from 7–9pm. You can find how to get there on the [BCB Contact page](http://www.bcbradio.co.uk/contact/).
 
 All the dates are in our [calendar](https://www.google.com/calendar/embed?src=j0levg4c0p2op08nf5elp3u50k%40group.calendar.google.com&ctz=Europe/London).
 
@@ -33,8 +33,5 @@ Usually before the meetings, a group of us generally gather from around 6.00 pm 
 If you would like to come along and meet some of us before the meeting or if you are new to the group, do drop us an email  and usually someone will be more than happy to meet and introduce you to the others as and when they appear.
 
 **Meetings**  
-We will post information on the venue for the next meeting here.
-
-**Location**
-TBA
+Starting on Tuesday, 13 February 2018 meetings will take place from 7–9pm on the **second Tuesday** of the month at  [BCB Radio](http://www.bcbradio.co.uk/contact/).
 
