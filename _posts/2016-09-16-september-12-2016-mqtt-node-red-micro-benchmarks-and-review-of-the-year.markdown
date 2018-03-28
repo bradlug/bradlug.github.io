@@ -71,4 +71,4 @@ Are they primarily to enable developers to identify regressions? That and also f
 
 
 
-**John H** rounded off the evening with a quick [review of the year](http://www.bradlug.co.uk/september-12-2016-mqtt-node-red-micro-benchmarks-and-review-of-the-year/eighth_year/).
+**John H** rounded off the evening with a quick [review of the year](http://bradlug.co.uk/blog/2016/09/16/files/Eighth_year.odp).
