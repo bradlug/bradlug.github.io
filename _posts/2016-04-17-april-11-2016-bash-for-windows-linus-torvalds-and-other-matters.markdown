@@ -45,7 +45,12 @@ We then watched the [TED interview with Linus Torvalds](https://www.ted.com/talk
   * a brief discussion of [SUSE](https://www.suse.com/)/[openSUSE](https://www.opensuse.org/) covering topics previously covered on [Monday,18th February 2013](http://www.bradlug.co.uk/february-18th-2013-memtest86-fablab-bcb-and-suse/suse_02_12/) but not including the acquisition of SUSE from Attachmate by [Microfocus](https://www.microfocus.com/) which, in the 1980s, was the leading COBOL software house! SUSE’s main business is large enterprise systems such as the London Stock Exchange and no sales figures have been issued for it since it ceased to be a separate company. However, it donates a percentage of its profits every year to openSUSE and this amount has been increasing over recent years indicating that SUSE is making more profits.
 
 
-[![](http://www.bradlug.co.uk/blogs/2016/04/17/file:///home/john/Computing/LUGs/Bradford_GNULUG/Website/bradlug.github.io/blog/2016/04/17/2016-04-17-april-11-2016-bash-for-windows-linus-torvalds-and-other-matters/Gnome_style_396px.png)Gnome style]
-[![](http://www.bradlug.co.uk/blogs/2016/04/17/file:///home/john/Computing/LUGs/Bradford_GNULUG/Website/bradlug.github.io/blog/2016/04/17/2016-04-17-april-11-2016-bash-for-windows-linus-torvalds-and-other-matters/Plasma_default_384px.png)Default Plasma 5 menu]
-
+<figure>
+	<img src="images/Gnome_style_396px.png" width="396" height="222" role="img">
+	<figcaption>Gnome style</figcaption>
+</figure>
+<figure>
+	<img src="images/Plasma_default_384px.png" width="384" height="384" role="img">
+	<figcaption>Default Plasma 5 menu</figcaption>
+</figure>
 
