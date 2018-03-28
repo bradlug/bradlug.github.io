@@ -80,8 +80,8 @@ Lua is a very simple interpreted language; they use [LuaJIT](http://luajit.org/)
 It can run on a Raspberry Pi 1.
 
 
-[![](http://www.bradlug.co.uk/wp-content/uploads/2016/06/Scott_1-300x200.png)](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/scott_1/)
-[![Scott_3](http://www.bradlug.co.uk/wp-content/uploads/2016/06/Scott_3-300x171.png)Code compilation device](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/scott_3/)
+[![](http://www.bradlug.co.uk/blog/2016/06/20/images/Scott_1.png)](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/scott_1/)
+[![Scott_3](http://www.bradlug.co.uk/blog/2016/06/20/images/Scott_3.png)Code compilation device](http://www.bradlug.co.uk/june-13-2016-raspberry-pi-router-swanky-paint-code-compilation-and-amateur-radio/scott_3/)
 
 
 **Scott** demonstrated his code compilation device (see images) which uses a [Raspberry Pi](https://www.raspberrypi.org/) to install the OS and an [Arduino](https://www.arduino.cc/) controlling an 800×400 HDMI linked touchscreen. The screen is written in HTML with buttons initiating JavaScript events which trigger rapid generation of code snippets.
