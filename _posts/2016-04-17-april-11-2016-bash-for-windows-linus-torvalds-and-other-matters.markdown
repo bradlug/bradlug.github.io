@@ -46,7 +46,7 @@ We then watched the [TED interview with Linus Torvalds](https://www.ted.com/talk
 
 
 
-![Gnome_style_396px](http://www.bradlug.co.uk/wp-content/uploads/2016/04/Gnome_style_396px-300x168.png)
+![Gnome style](http://www.bradlug.co.uk/blogs/2016/04/17/images/Gnome_style_396px.png)
 Gnome style KDE menu
 
 
@@ -56,6 +56,6 @@ Gnome style KDE menu
 
 
 
-![Plasma_default_384px](http://www.bradlug.co.uk/wp-content/uploads/2016/04/Plasma_default_384px-300x300.png)
+![Plasma default](http://www.bradlug.co.uk/blogs/2016/04/17/images/Plasma_default_384px.png)
 Default Plasma 5 menu		
 
