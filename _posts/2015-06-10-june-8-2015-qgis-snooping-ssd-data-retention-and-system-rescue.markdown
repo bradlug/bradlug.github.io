@@ -45,7 +45,7 @@ In much the same way as the Metropolitan Police have surveillance aircraft, it t
 
 
 
-In an update on his piece about [disk drive failure](http://www.bradlug.co.uk/disk-drives-knowledge-is-power/), David pointed to the recent article by Kristian Vättö on [‘The truth about SSD data retention’](http://www.anandtech.com/show/9248/the-truth-about-ssd-data-retention) suggesting that SSDs perform best if written to when hot but stored cool and that read/write speeds decline if the SSD is not read/written to frequently.
+In an update on his piece about [disk drive failure](http://bradlug.co.uk/blog/2015/05/20/disk-drives-knowledge-is-power), David pointed to the recent article by Kristian Vättö on [‘The truth about SSD data retention’](http://www.anandtech.com/show/9248/the-truth-about-ssd-data-retention) suggesting that SSDs perform best if written to when hot but stored cool and that read/write speeds decline if the SSD is not read/written to frequently.
 
 
 
@@ -55,7 +55,7 @@ Finally, he pointed out that [Hermann Zapf](https://en.wikipedia.org/wiki/Herman
 
 
 
-**John** gave a brief demonstration of [System rescue](http://www.sysresccd.org/SystemRescueCd_Homepage), illustrating some of the aspects mentioned in the [System rescue article](http://www.bradlug.co.uk/system-rescue/).
+**John** gave a brief demonstration of [System rescue](http://www.sysresccd.org/SystemRescueCd_Homepage), illustrating some of the aspects mentioned in the [System rescue article](http://bradlug.co.uk/blog/2015/02/27/system-rescue).
 
 
 
