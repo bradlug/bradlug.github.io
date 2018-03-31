@@ -68,7 +68,7 @@ Note that the GPIO (gpInputOutput) is two way; it can be a transmitter and a rec
 
 
 
-Stephane then introduced his [demonstration](http://www.bradlug.co.uk/blogs/2015/12/19/files/SevenDigitMorse.txt) of how to use a Seven Digit Display with the Raspberry Pi to display Morse code ([See also Stephane’s blog](http://nulld1g1t.yourprog.com/wordpress/?cat=4)).
+Stephane then introduced his [demonstration](http://www.bradlug.co.uk/blog/2015/12/19/files/SevenDigitMorse.txt) of how to use a Seven Digit Display with the Raspberry Pi to display Morse code ([See also Stephane’s blog](http://nulld1g1t.yourprog.com/wordpress/?cat=4)).
 
 
 
