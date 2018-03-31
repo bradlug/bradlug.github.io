@@ -35,7 +35,7 @@ Traditionally, a vulnerability was seen as a weakness in the system but it is be
 
 
 
-Lockheed Martin (Hutchins et al. 2010) came up with the concept of the kill chain.[![kill chain](http://www.bradlug.co.uk/wp-content/uploads/2015/07/LM_kill_chain-148x300.jpg)](http://www.bradlug.co.uk/cybersecurity-futures/lm_kill_chain/).
+Lockheed Martin (Hutchins et al. 2010) came up with the concept of the kill chain.[![kill chain](http://www.bradlug.co.uk/blog/2015/07/12/images/LM_kill_chain.jpg)]
 
 
 

@@ -22,7 +22,7 @@ categories:
 
 
 
-He also drew attention to his report on the [Cybersecurity futures](http://www.bradlug.co.uk/cybersecurity-futures/) lecture at Bradford University given by Prof. Sadie Creese, Professor of Cybersecurity at Oxford University.
+He also drew attention to his report on the [Cybersecurity futures](http://bradlug.co.uk/blog/2015/07/12/cybersecurity-futures) lecture at Bradford University given by Prof. Sadie Creese, Professor of Cybersecurity at Oxford University.
 
 
 
