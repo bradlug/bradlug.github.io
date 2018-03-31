@@ -1,0 +1,661 @@
+package com.yourprog.testrpi.utils;
+
+import framboos.OutPin;
+
+public class SevenDigitMorse {
+	OutPin [] pintab;
+	private static int UnitOfTime = 250; // UnitOTime is 1 dot. 250 Milliseconds
+
+	public SevenDigitMorse() {
+		super();
+		Initialise();
+	}
+	
+	public SevenDigitMorse(int UnitOfTimeInMilliseconds) {
+		super();
+		Initialise();
+		UnitOfTime=UnitOfTimeInMilliseconds;
+	}
+
+	private void Initialise() {
+		pintab = new OutPin [2];
+		pintab[0] = new OutPin(0); //gpio0 [en bas]
+		pintab[1] = new OutPin(7); //gpio7 [le point de decimal]
+	}
+	
+	public void setUnitOfTime(int UnitOfTimeInMilliseconds) {
+		UnitOfTime = UnitOfTimeInMilliseconds;
+	}
+
+	public void clear() {
+		for (OutPin pinx : this.pintab) {
+			pinx.setValue(false);
+		}
+	}
+	
+	public void close() {
+		for (OutPin pinx : this.pintab) {
+			pinx.close();
+		}
+	}
+
+
+	public void printDot() throws InterruptedException {
+		pintab[1].setValue(true);
+		Thread.sleep(UnitOfTime);
+		clear();
+	}
+
+	public void printDash() throws InterruptedException {
+		pintab[0].setValue(true);
+		//1 dash equals 3 dots
+		Thread.sleep(UnitOfTime*3);
+		clear();
+	}
+
+	public void printLetterA() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterB() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterC() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterD() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterE() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterF() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+		printDash();
+		Thread.sleep(UnitOfTime);
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterG() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterH() throws InterruptedException {
+		for (int i = 0; i < 4; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterI() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterJ() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 3; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterK() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		printDot();
+		Thread.sleep(UnitOfTime);
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterL() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		printDash();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterM() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterN() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterO() throws InterruptedException {
+		for (int i = 0; i < 3; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterP() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterQ() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+		printDot();
+		Thread.sleep(UnitOfTime);
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterR() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		printDash();
+		Thread.sleep(UnitOfTime);
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterS() throws InterruptedException {
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterT() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterU() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterV() throws InterruptedException {
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);
+		}
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterW() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printLetterX() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+		printDash();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printLetterY() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+		printDot();
+		Thread.sleep(UnitOfTime);	
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printLetterZ() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printSignDot() throws InterruptedException {
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+	}
+
+	public void printSignComma() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printSignQuestionMark() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printSignForwardSlash() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);
+
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		printDash();
+		Thread.sleep(UnitOfTime);
+
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printSignAtSgn() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+
+		printDot();
+		Thread.sleep(UnitOfTime);
+
+		printDash();
+		Thread.sleep(UnitOfTime);	
+
+		printDot();
+		Thread.sleep(UnitOfTime);
+	}
+
+	public void printNumberOne() throws InterruptedException {
+		printDot();
+		Thread.sleep(UnitOfTime);
+
+		for (int i = 0; i < 4; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}	
+	}
+
+	public void printNumberTwo() throws InterruptedException {
+
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}		
+		for (int i = 0; i < 3; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printNumberThree() throws InterruptedException {
+
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}		
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printNumberFour() throws InterruptedException {
+
+		for (int i = 0; i < 4; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}	
+
+		printDash();
+		Thread.sleep(UnitOfTime);	
+	}
+
+	public void printNumberFive() throws InterruptedException {
+
+		for (int i = 0; i < 5; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}	
+	}
+
+	public void printNumberSix() throws InterruptedException {
+		printDash();
+		Thread.sleep(UnitOfTime);	
+
+		for (int i = 0; i < 4; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printNumberSeven() throws InterruptedException {
+		for (int i = 0; i < 2; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+
+		for (int i = 0; i < 3; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printNumberEight() throws InterruptedException {
+		for (int i = 0; i < 3; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}		
+		for (int i = 0; i < 2; i++) {
+			printDot();
+			Thread.sleep(UnitOfTime);	
+		}
+	}
+
+	public void printNumberNine() throws InterruptedException {
+		for (int i = 0; i < 4; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}		
+		printDot();
+		Thread.sleep(UnitOfTime);	
+	}
+
+	public void printNumberZero() throws InterruptedException {
+		for (int i = 0; i < 5; i++) {
+			printDash();
+			Thread.sleep(UnitOfTime);
+		}
+
+	}
+
+	public void printLetter(char letter) throws InterruptedException {
+		switch (letter) {
+		case 'a': 
+		case 'A':
+			printLetterA();
+			break;
+
+		case 'b': 
+		case 'B':
+			printLetterB();
+			break;
+
+		case 'c': 
+		case 'C':
+			printLetterC();
+			break;
+
+		case 'd': 
+		case 'D':
+			printLetterD();
+			break;
+
+		case 'e': 
+		case 'E':
+			printLetterE();
+			break;
+
+		case 'f': 
+		case 'F':
+			printLetterF();
+			break;
+
+		case 'g': 
+		case 'G':
+			printLetterG();
+			break;
+
+		case 'h': 
+		case 'H':
+			printLetterH();
+			break;
+
+		case 'i': 
+		case 'I':
+			printLetterI();
+			break;
+
+		case 'j': 
+		case 'J':
+			printLetterJ();
+			break;
+
+		case 'k': 
+		case 'K':
+			printLetterK();
+			break;
+
+		case 'l': 
+		case 'L':
+			printLetterL();
+			break;
+
+		case 'm': 
+		case 'M':
+			printLetterM();
+			break;
+
+		case 'n': 
+		case 'N':
+			printLetterN();
+			break;
+
+		case 'o': 
+		case 'O':
+			printLetterO();
+			break;
+
+		case 'p': 
+		case 'P':
+			printLetterP();
+			break;
+
+		case 'q': 
+		case 'Q':
+			printLetterQ();
+			break;
+
+		case 'r': 
+		case 'R':
+			printLetterR();
+			break;
+
+		case 's': 
+		case 'S':
+			printLetterS();
+			break;
+
+		case 't': 
+		case 'T':
+			printLetterT();
+			break;
+
+		case 'u': 
+		case 'U':
+			printLetterU();
+			break;
+
+		case 'v': 
+		case 'V':
+			printLetterV();
+			break;
+
+		case 'w': 
+		case 'W':
+			printLetterW();
+			break;
+
+		case 'x':
+		case 'X':
+			printLetterX();
+			break;
+
+		case 'y':
+		case 'Y':
+			printLetterY();
+			break;
+
+		case 'z': 
+		case 'Z':
+			printLetterZ();
+			break;
+
+		case '.': printSignDot();
+		break;
+
+		case ',': printSignComma();
+		break;
+
+		case '?': printSignQuestionMark();
+		break;
+
+		case '/': printSignForwardSlash();
+		break;
+
+		case '@': printSignAtSgn();
+		break;
+
+		case '1': printNumberOne();
+		break;
+
+		case '2': printNumberTwo();
+		break;
+
+		case '3': printNumberThree();
+		break;
+
+		case '4': printNumberFour();
+		break;
+
+		case '5': printNumberFive();
+		break;
+
+		case '6': printNumberSix();
+		break;
+
+		case '7': printNumberSeven();
+		break;
+
+		case '8': printNumberEight();
+		break;
+
+		case '9': printNumberNine();
+		break;
+
+		case '0': printNumberZero();
+		break;
+
+		}
+
+	}
+	
+	public void PrintWord(String word) throws InterruptedException {
+		for (char charx : word.toCharArray()) {
+			printLetter(charx);
+			Thread.sleep(UnitOfTime*3);//The space between letter equals 3 dots
+		}
+		Thread.sleep(UnitOfTime*7);//The space between words equals 7 dots
+	}
+	
+	public void PrintSentence(String sentence) throws InterruptedException {
+		//string tab with space concatenation
+		String[] words = sentence.split("\\s+");
+		
+		for (int i = 0; i < words.length; i++) {
+			PrintWord(words[i]);
+		}
+	}
+
+}

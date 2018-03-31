@@ -1,0 +1,40 @@
+package com.yourprog;
+// well done guardianproject !
+//https://github.com/guardianproject/gnupg-for-java
+
+import com.freiheit.gnupg.GnuPGContext;
+import com.freiheit.gnupg.GnuPGData;
+import com.freiheit.gnupg.GnuPGKey;
+
+
+public class steftest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		GnuPGContext ctx = new GnuPGContext();
+
+        GnuPGKey[] recipient = new GnuPGKey[1]; 
+        //recipient[0] = ctx.getKeyByFingerprint("gpg-fingerprint of recipient (must be from your keyring)");
+        recipient[0] = ctx.getKeyByFingerprint("07D35F4ED9584F5AF1323B0E9D3C42C46CF19A40"); //Nulld1g1t
+        //attention: fingerprint should not contain spaces...
+        GnuPGData signature = ctx.createDataObject();
+        GnuPGKey signer = ctx.getKeyByFingerprint("5CF462CFA8882B1EC39E8ED3BE93B5FD3262C0DA"); //Stephane
+        ctx.addSigner(signer);
+        
+        GnuPGData plain = ctx.createDataObject("I am a secret message.");
+        GnuPGData cipher = ctx.createDataObject();//this will contain the cipher after encryption
+
+        ctx.sign(plain, signature);
+        ctx.encrypt(recipient, plain, cipher);
+        
+        //ctx.encryptAndSign(recipients, plain, cipher);
+        System.out.println("Plain text: " + plain);
+        System.out.println("Cipher text: " + cipher);
+        
+        GnuPGData plainstef = ctx.createDataObject();
+        ctx.decrypt(cipher, plainstef);
+        System.out.println(plainstef);
+        ctx.destroy();
+	}
+
+}
