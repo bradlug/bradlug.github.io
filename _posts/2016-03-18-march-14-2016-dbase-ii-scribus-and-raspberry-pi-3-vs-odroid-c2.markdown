@@ -22,7 +22,7 @@ categories:
 - Past Meetings
 ---
 
-**John H **picked up on a discussion at the previous meeting to give a [presentation](a href="http://bradlug.co.uk/blog/2016/03/18/files/dBASE_II.odp") on [dBASE II](https://en.wikipedia.org/wiki/DBase). He had never upgraded to dBASE III because it was not backwards compatible with dBASE II (other programs of that era like [WordStar](https://en.wikipedia.org/wiki/WordStar) and [Supercalc](https://en.wikipedia.org/wiki/SuperCalc) had maintained backwards compatibility; so it was possible to use them on both CP/M and DOS machines) and because dBASE II had an operator similar to `LIKE "%<substring>%"` in SQL which had not been implemented in dBASE III. As he had made extensive use of this operator in his programs, an upgrade to dBASE III would have involved an extensive rewrite of all his programs.
+**John H **picked up on a discussion at the previous meeting to give a [presentation](http://bradlug.co.uk/blog/2016/03/18/files/dBASE_II.odp) on [dBASE II](https://en.wikipedia.org/wiki/DBase). He had never upgraded to dBASE III because it was not backwards compatible with dBASE II (other programs of that era like [WordStar](https://en.wikipedia.org/wiki/WordStar) and [Supercalc](https://en.wikipedia.org/wiki/SuperCalc) had maintained backwards compatibility; so it was possible to use them on both CP/M and DOS machines) and because dBASE II had an operator similar to `LIKE "%<substring>%"` in SQL which had not been implemented in dBASE III. As he had made extensive use of this operator in his programs, an upgrade to dBASE III would have involved an extensive rewrite of all his programs.
 
 
 
