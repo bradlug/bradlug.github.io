@@ -5,8 +5,7 @@ date: 2015-03-16 22:03:51+00:00
 excerpt: <p><strong>John H</strong> began with a short demonstration of cleaning up
   digital transfers of LPs using the noise removal and repair effects of <a href="http://audacity.sourceforge.net/"
   type="text/html">Audacity</a> to remove noise and eliminate clicks from the transfer.
-  He then did a <a href="http://www.bradlug.co.uk/march-9-2015-audacity-lyx-pirate-box-dead-drops-and-snooping/lyx_versus_word/"
-  rel="attachment wp-att-3719">presentation</a> arguing that <a href="http://www.lyx.org/"
+  He then did a <a href="http://www.bradlug.co.uk/blog/2015/03/16/files/LyX_versus_Word.odp">presentation</a> arguing that <a href="http://www.lyx.org/"
   type="text/html">LyX</a> outforms any other software in document production though
   there are a few uses cases for which it is not suitable.</p>
 layout: post
@@ -18,7 +17,7 @@ categories:
 - Past Meetings
 ---
 
-**John H** began with a short demonstration of cleaning up digital transfers of LPs using the noise removal and repair effects of [Audacity](http://audacity.sourceforge.net/) to remove noise and eliminate clicks from the transfer. He then did a [presentation](http://www.bradlug.co.uk/march-9-2015-audacity-lyx-pirate-box-dead-drops-and-snooping/lyx_versus_word/) arguing that [LyX](http://www.lyx.org/) outforms any other software in document production though there are a few uses cases for which it is not suitable.
+**John H** began with a short demonstration of cleaning up digital transfers of LPs using the noise removal and repair effects of [Audacity](http://audacity.sourceforge.net/) to remove noise and eliminate clicks from the transfer. He then did a [presentation](http://www.bradlug.co.uk/blog/2015/03/16/files/LyX_versus_Word.odp) arguing that [LyX](http://www.lyx.org/) outforms any other software in document production though there are a few uses cases for which it is not suitable.
 
 
 
