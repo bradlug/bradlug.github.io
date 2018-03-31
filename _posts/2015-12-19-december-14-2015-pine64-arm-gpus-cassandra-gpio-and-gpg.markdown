@@ -68,7 +68,7 @@ Note that the GPIO (gpInputOutput) is two way; it can be a transmitter and a rec
 
 
 
-Stephane then introduced his [demonstration](http://www.bradlug.co.uk/december-14-2015-pine64-arm-gpus-cassandra-gpio-and-gpg/sevendigitmorse/) of how to use a Seven Digit Display with the Raspberry Pi to display Morse code ([See also Stephane’s blog](http://nulld1g1t.yourprog.com/wordpress/?cat=4)).
+Stephane then introduced his [demonstration](http://www.bradlug.co.uk/blogs/2015/12/19/files/SevenDigitMorse.txt) of how to use a Seven Digit Display with the Raspberry Pi to display Morse code ([See also Stephane’s blog](http://nulld1g1t.yourprog.com/wordpress/?cat=4)).
 
 
 
@@ -83,12 +83,12 @@ The program is written in Java and can be used with other devices that have GPIO
 
 
 
-Stephane then shared [another project](http://www.bradlug.co.uk/december-14-2015-pine64-arm-gpus-cassandra-gpio-and-gpg/steftest/) to access GPG keys. There is a Java library to interact with GPG keys but the code is five to ten years old — something he mentioned to the GPG developers. So he had written his own Java routine based on the more recent GPME library which he compiled from the source of the [Guardian Project](https://github.com/guardianproject/gnupg-for-java).
+Stephane then shared [another project](http://www.bradlug.co.uk/blog/2015/12/19/files/steftest.txt/) to access GPG keys. There is a Java library to interact with GPG keys but the code is five to ten years old — something he mentioned to the GPG developers. So he had written his own Java routine based on the more recent GPME library which he compiled from the source of the [Guardian Project](https://github.com/guardianproject/gnupg-for-java).
 
 
 
 
-_Rename Stephane’s files to give them a `.java` file ending as Wordpress would not allow files with this file ending to be uploaded._
+_Rename Stephane’s files to give them a `.java` file ending._
 
 
 
