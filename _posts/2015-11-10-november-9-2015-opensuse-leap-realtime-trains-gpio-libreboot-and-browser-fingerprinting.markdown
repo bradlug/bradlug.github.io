@@ -21,7 +21,7 @@ categories:
 - Past Meetings
 ---
 
-**John H** began with a [presentation](http://www.bradlug.co.uk/blog/2015/11/10/files/Why_leap.odp/) on the background to the recent release of [openSUSE LEAP 42.1](https://news.opensuse.org/2015/11/04/opensuse-leap-42-1-becomes-first-hybrid-distribution/).
+**John H** began with a [presentation](http://www.bradlug.co.uk/blog/2015/11/10/files/Why_leap.odp) on the background to the recent release of [openSUSE LEAP 42.1](https://news.opensuse.org/2015/11/04/opensuse-leap-42-1-becomes-first-hybrid-distribution/).
 
 
 
