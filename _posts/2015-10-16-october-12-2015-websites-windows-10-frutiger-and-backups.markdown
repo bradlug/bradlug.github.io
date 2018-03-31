@@ -6,7 +6,7 @@ excerpt: <p><strong>John H</strong> described the work he was doing on the <a hr
   type="text/html">Heath Old Boys Association</a> website; this was a 2003 vintage
   frame based website which did not play well with modern devices; after he had explored
   various options, he had decided that the best option was to build a new HTML5 website
-  on the lines described by <a href="http://www.bradlug.co.uk/august-25th-2010-html5/"
+  on the lines described by <a href="http://bradlug.co.uk/blog/2010/08/27/august-25th-2010-html5"
   type="text/html">Dave Fisher</a> in his 2010 talk to BradLUG in front of the old
   website so that people could continue to access the old website while the new one
   was under construction.</p>
@@ -19,7 +19,7 @@ categories:
 - Past Meetings
 ---
 
-**John H** described the work he was doing on the [Heath Old Boys Association](http://heatholdboys.org.uk/) website; this was a 2003 vintage frame based website which did not play well with modern devices; after he had explored various options, he had decided that the best option was to build a new HTML5 website on the lines described by [Dave Fisher](http://www.bradlug.co.uk/august-25th-2010-html5/) in his 2010 talk to BradLUG in front of the old website so that people could continue to access the old website while the new one was under construction.
+**John H** described the work he was doing on the [Heath Old Boys Association](http://heatholdboys.org.uk/) website; this was a 2003 vintage frame based website which did not play well with modern devices; after he had explored various options, he had decided that the best option was to build a new HTML5 website on the lines described by [Dave Fisher](http://bradlug.co.uk/blog/2010/08/27/august-25th-2010-html5) in his 2010 talk to BradLUG in front of the old website so that people could continue to access the old website while the new one was under construction.
 
 
 
