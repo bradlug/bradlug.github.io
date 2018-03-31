@@ -27,12 +27,12 @@ categories:
 
 
 
-[![The Home page with the chat line in use](http://www.bradlug.co.uk/wp-content/uploads/2015/03/Pirate_Box_Home-300x194.png)](http://www.bradlug.co.uk/march-9-2015-audacity-lyx-pirate-box-dead-drops-and-snooping/pirate_box_home/) The Home page with the chat line in use.
+[![The Home page with the chat line in use](http://www.bradlug.co.uk/blog/2015/03/16/images/Pirate_Box_Home.png)] The Home page with the chat line in use.
 
 
 
 
-[![Some of the files uploaded for sharing](http://www.bradlug.co.uk/wp-content/uploads/2015/03/Pirate_Box_Files-300x193.png)](http://www.bradlug.co.uk/march-9-2015-audacity-lyx-pirate-box-dead-drops-and-snooping/pirate_box_files/) Some of the files uploaded for sharing.
+[![Some of the files uploaded for sharing](http://www.bradlug.co.uk/blog/2015/03/16/images/Pirate_Box_Files.png)] Some of the files uploaded for sharing.
 
 
 
