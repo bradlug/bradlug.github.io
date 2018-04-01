@@ -2,8 +2,7 @@
 author: John
 comments: true
 date: 2014-09-17 20:49:35+00:00
-excerpt: '<p>After we had cut the cake <strong>John</strong> did a <a href="http://www.bradlug.co.uk/?attachment_id=3388"
-  rel="attachment wp-att-3388">review of 2013–2014</a> suggesting, among other things,
+excerpt: '<p>After we had cut the cake <strong>John</strong> did a <a href="http://www.bradlug.co.uk/blog/2014/09/17/files/Sixth_year.odp">review of 2013–2014</a> suggesting, among other things,
   that people who had not already done so should take a look at the <a href="http://itstuff.org.uk/welcome"
   type="text/html">IT Stuff website</a>.</p>
 
@@ -18,7 +17,7 @@ categories:
 - Past Meetings
 ---
 
-After we had cut the cake **John** did a [review of 2013–2014](http://www.bradlug.co.uk/september-15-2014-sixth-birthday-html-and-css-and-british-science-festival/sixth_year/) suggesting, among other things, that people who had not already done so should take a look at the [IT Stuff website](http://itstuff.org.uk/welcome).
+After we had cut the cake **John** did a [review of 2013–2014](http://www.bradlug.co.uk/blog/2014/09/17/files/Sixth_year.odp) suggesting, among other things, that people who had not already done so should take a look at the [IT Stuff website](http://itstuff.org.uk/welcome).
 
 
 
@@ -28,7 +27,7 @@ This led into a discussion of security, passwords and the [iCloud breach](http:/
 
 
 
-He then presented his annual review of developments in HTML and CSS which is not very much — really only the new **<picture>** element to provide a similar way of selecting between still image formats and resolutions as the **<video>** element provides for moving images. Summaries are available of the current [HTML](http://johnrhudson.me.uk/computing/Some_notes_on_HTML.pdf), [CSS](http://johnrhudson.me.uk/computing/Some_notes_on_CSS.pdf) and [Javacript](http://johnrhudson.me.uk/computing/Some_notes_on_Javascript.pdf) recommendations.
+He then presented his annual review of developments in HTML and CSS which is not very much — really only the new &lt;picture&gt; element to provide a similar way of selecting between still image formats and resolutions as the &lt;video&gt; element provides for moving images. Summaries are available of the current [HTML](http://johnrhudson.me.uk/computing/Some_notes_on_HTML.pdf), [CSS](http://johnrhudson.me.uk/computing/Some_notes_on_CSS.pdf) and [Javacript](http://johnrhudson.me.uk/computing/Some_notes_on_Javascript.pdf) recommendations.
 
 
 
