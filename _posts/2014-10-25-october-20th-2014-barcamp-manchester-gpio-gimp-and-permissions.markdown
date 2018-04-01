@@ -23,7 +23,7 @@ After a period of general chat **Brian** talked about his visit to the [BarCamp 
 
 
 
-He then described how he had overcome the problem of his VirginMedia cable connection going down by using a [Raspberry Pi](http://www.raspberrypi.org/) to monitor the Internet connection and restart the modem if it went down. This involved creating a `cron` job that pings `virginmedia.com` and `bbc.co.uk` to check whether the system is still up and writing a program that can read signals sent to the GPIO on the Raspberry Pi in order to determine whether to trigger a relay to restart the cable modem. His slides on the [Net Monitor/Router Switcher](http://www.bradlug.co.uk/october-20th-2014-barcamp-manchester-gpio-gimp-and-permissions/net_monitoring_router_switcher/) summarise the project.
+He then described how he had overcome the problem of his VirginMedia cable connection going down by using a [Raspberry Pi](http://www.raspberrypi.org/) to monitor the Internet connection and restart the modem if it went down. This involved creating a `cron` job that pings `virginmedia.com` and `bbc.co.uk` to check whether the system is still up and writing a program that can read signals sent to the GPIO on the Raspberry Pi in order to determine whether to trigger a relay to restart the cable modem. His slides on the [Net Monitor/Router Switcher](http://www.bradlug.co.uk/blog/2014/10/25/files/Net_Monitoring_Router_Switcher.odp) summarise the project.
 
 
 
