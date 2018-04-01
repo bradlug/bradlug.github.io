@@ -59,7 +59,7 @@ has now been proved in relation to the simultaneous updating of a database. In p
 
 
 
-**Brian** then introduced his [Auto Starting Proxy Server Secure Connection](http://www.bradlug.co.uk/november-17-2014-couchdb-cap-theorem-passwordless-proxy-server-capacitor-plague-and-mpd/autostarting/); the first step involved setting up a passwordless SSH connection, the second setting up a connection to the proxy service and the third auto-starting the proxy service on boot.
+**Brian** then introduced his [Auto Starting Proxy Server Secure Connection](http://www.bradlug.co.uk/blog/2014/11/24/files/autoStarting.odp); the first step involved setting up a passwordless SSH connection, the second setting up a connection to the proxy service and the third auto-starting the proxy service on boot.
 
 
 
