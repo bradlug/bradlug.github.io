@@ -2,8 +2,7 @@
 author: John
 comments: true
 date: 2014-08-20 19:54:14+00:00
-excerpt: '<p><strong>John H</strong> summarised <a href="http://www.bradlug.co.uk/?attachment_id=3377"
-  rel="attachment wp-att-3377">his experiences</a> of the Linux Foundation LFSx101:
+excerpt: '<p><strong>John H</strong> summarised <a href="http://www.bradlug.co.uk/blog/2014/08/20/files/Introduction_to_Linux.odp">his experiences</a> of the Linux Foundation LFSx101:
   Introduction to Linux course.</p>
 
   <p><strong>David C</strong> reminded people not to forget that the function keys
@@ -22,7 +21,7 @@ categories:
 - Past Meetings
 ---
 
-**John H** summarised [his experiences](http://www.bradlug.co.uk/august-18-2014-introduction-to-linux-a-computer-called-leo-and-snooping/introduction_to_linux/) of the Linux Foundation LFSx101: Introduction to Linux course.
+**John H** summarised [his experiences](http://www.bradlug.co.uk/blog/2014/08/20/files/Introduction_to_Linux.odp) of the Linux Foundation LFSx101: Introduction to Linux course.
 
 
 
@@ -47,7 +46,7 @@ It was suggested that she might get in touch with Ben Nuttall to talk about his 
 
 
 
-**John H** did a [review of Georgina Ferry‘s book](http://www.bradlug.co.uk/august-18-2014-introduction-to-linux-a-computer-called-leo-and-snooping/computer_called_leo/) A computer called LEO about how J. Lyons & Co. became involved in the creation of the first business computer.
+**John H** did a [review of Georgina Ferry‘s book](http://www.bradlug.co.uk/blog/2014/08/20/files/Computer_called_LEO.odp) A computer called LEO about how J. Lyons & Co. became involved in the creation of the first business computer.
 
 
 
