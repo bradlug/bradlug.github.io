@@ -61,7 +61,7 @@ There are links and more information in the [presentation](http://www.bradlug.co
 		
 
 
-**David S** then gave us a quick tour of [the documents from No place to hide](http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf) highlighting, among other things,
+**David S** then gave us a quick tour of [the documents from No place to hide](https://archive.org/download/pdfy-6RloKGKhTeLllkMo/NoPlaceToHide-Documents-Uncompressed.pdf) highlighting, among other things,
 
 
 
