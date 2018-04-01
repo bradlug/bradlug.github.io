@@ -36,7 +36,7 @@ categories:
 - Past Meetings
 ---
 
-**David S** celebrated Slackware’s 21st birthday with a [slide presentation](http://www.bradlug.co.uk/july-21-2014-slackware-at-21-and-snooping-again/slackware21-slides/) in which he pointed out that, among other things, it:
+**David S** celebrated Slackware’s 21st birthday with a [slide presentation](http://www.bradlug.co.uk/blog/2014/07/27/files/slackware21-slides.odp) in which he pointed out that, among other things, it:
 
 
 
