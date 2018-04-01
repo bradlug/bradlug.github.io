@@ -15,7 +15,7 @@ categories:
 - Past Meetings
 ---
 
-**Kriss and Shi** demonstrated the [Raspberry Pi 2](http://www.raspberrypi.org/raspberry-pi-2-on-sale/); [![RaspberryPi_2](http://www.bradlug.co.uk/wp-content/uploads/2015/02/RaspberryPi_2_web-300x225.png)](http://www.bradlug.co.uk/february-9-2015-raspberry-pi-2-apl-and-more-snooping/raspberrypi_2_web/) (the ribbon connection is to the camera).
+**Kriss and Shi** demonstrated the [Raspberry Pi 2](http://www.raspberrypi.org/raspberry-pi-2-on-sale/); [![RaspberryPi_2](http://www.bradlug.co.uk/blog/2015/02/16/images/RaspberryPi_2_web.png)] (the ribbon connection is to the camera).
 
 
 
@@ -25,7 +25,7 @@ It is faster and more stable, the power issues have been fixed and it has four U
 
 
 
-[![the group](http://www.bradlug.co.uk/wp-content/uploads/2015/02/Pi2_web-300x225.png)](http://www.bradlug.co.uk/february-9-2015-raspberry-pi-2-apl-and-more-snooping/pi2_web/)
+[![the group](http://www.bradlug.co.uk/blog/2015/02/16/images/Pi2_web.png)]
 
 
 
