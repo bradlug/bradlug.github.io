@@ -56,7 +56,7 @@ categories:
 
 
 
-There are links and more information in the [presentation](http://www.bradlug.co.uk/may-19th-2014-cli-discoveries-and-no-place-to-hide/mydiscoveries19may14/). In relation to the reptyr example, **Olly** pointed out that [pgrep](http://en.wikipedia.org/wiki/Pgrep) will find the PID in one step. In relation to screen, it was suggested that it might not be being maintained. [However, the manual, last updated in 2010, is over 2,500 lines long and ends with the comment: ‘A weird imagination is most useful to gain full advantage of all the features.’]
+There are links and more information in the [presentation](http://www.bradlug.co.uk/blog/2014/05/22/files/myDiscoveries19May14.odp). In relation to the reptyr example, **Olly** pointed out that [pgrep](http://en.wikipedia.org/wiki/Pgrep) will find the PID in one step. In relation to screen, it was suggested that it might not be being maintained. [However, the manual, last updated in 2010, is over 2,500 lines long and ends with the comment: ‘A weird imagination is most useful to gain full advantage of all the features.’]
 
 		
 
