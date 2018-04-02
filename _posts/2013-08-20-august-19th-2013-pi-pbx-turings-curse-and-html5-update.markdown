@@ -44,7 +44,7 @@ categories:
 
 
 
-These are [Brian's slides](http://www.bradlug.co.uk/august-19th-2013-pi-pbx-turings-curse-and-html5-update/raspipbx_/).
+These are [Brian's slides](http://www.bradlug.co.uk/blog/2013/08/20/files/RasPiPBX.odp).
 
 
 
@@ -52,7 +52,7 @@ These are [Brian's slides](http://www.bradlug.co.uk/august-19th-2013-pi-pbx-turi
 
 **John H** summarised the key changes to the HTML5 specification in the past year.
 
-There is an [updated summary](http://www.bradlug.co.uk/29th-august-2012-commandline-html-and-css/some_notes_on_html_2013/) of [HTML5](http://www.whatwg.org/specs/web-apps/current-work/#the-xml:base-attribute-(xml-only)) which omits the Javascript material included in last year’s version. This is now in a separate summary [Some_notes_on_Javascript](http://www.bradlug.co.uk/august-19th-2013-pi-pbx-turings-curse-and-html5-update/some_notes_on_javascript/).
+There is an [updated summary](https://johnrhudson.me.uk/computing/Some_notes_on_HTML.pdf) of [HTML5](http://www.whatwg.org/specs/web-apps/current-work/#the-xml:base-attribute-(xml-only)) which omits the Javascript material included in last year’s version. This is now in a separate summary [Some_notes_on_Javascript](https://johnrhudson.me.uk/computing/Some_notes_on_Javascript.pdf).
 
 **David C** drew our attention to the following items:
 
