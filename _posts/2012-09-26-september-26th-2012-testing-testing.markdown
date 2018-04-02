@@ -35,8 +35,8 @@ These are the links you need:
 
 Some talk about Cuttlefish: [https://apps.ubuntu.com/cat/applications/cuttlefish/](https://apps.ubuntu.com/cat/applications/cuttlefish/)  - which will adapt your environment to your changing circumstances.
 
-Dave continued his command line talk which was NOT called the Human Centipede, but had a lot to do with [pipes](http://www.linfo.org/pipes.html). A link to the presentation is coming.
+Dave continued his command line talk which was NOT called the Human Centipede, but had a lot to do with [pipes](http://www.linfo.org/pipes.html).
 
 Also it was our Birthday. Thanks to Richard for the Cake (it was not a lie!).
 
-**Download:** [Using the Command Line (3) Slides](http://bradlug.co.uk/wp-content/uploads/2012/09/cmdline3-slides.odp) (.odp 1.2MB)
+**Download:** [Using the Command Line (3) Slides](http://bradlug.co.uk/blog/2012/09/26/files/CLI_Part_3_slides.odp)
