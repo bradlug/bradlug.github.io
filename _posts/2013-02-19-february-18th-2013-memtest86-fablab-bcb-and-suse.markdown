@@ -49,4 +49,4 @@ You can edit lilo.conf or GRUB and add the expression `memmap="size\$location"` 
 
 **David C** then updated people on the website.
 
-**John** rounded the session off with a history of [SUSE](https://www.suse.com/) and its contributions to Linux. The slides are here:  [SUSE_02_12](http://www.bradlug.co.uk/february-18th-2013-memtest86-fablab-bcb-and-suse/suse_02_12/).
+**John** rounded the session off with a history of [SUSE](https://www.suse.com/) and its contributions to Linux. The slides are here:  [SUSE_02_12](http://www.bradlug.co.uk/blog/2013/02/19/files/SUSE_02_12.odp).
