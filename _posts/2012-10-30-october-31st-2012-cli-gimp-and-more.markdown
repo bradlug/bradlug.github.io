@@ -14,7 +14,7 @@ excerpt: "Andy kicked us off with a look at GIMP 2.8 and some of the new feature
   \nDavid gave us the 4th instalment in his series on the introduction to the command\
   \ line. Alice pre-empted much of his talk as becoming customary, and as usual, 'we\
   \ all learned something'\n\nDownloads:\n<ul>\n\t<li> <a href=\"http://bradlug.co.uk/blog/2012/10/30/files/CLI_Part_4_slides.odp\"\
-  >Command Line (4) Slides</a></li>\n\t<li><a href=\"http://bradlug.co.uk/blog/2012/10/30;files/GIMP_Intro.odp\"\
+  >Command Line (4) Slides</a></li>\n\t<li><a href=\"http://bradlug.co.uk/blog/2012/10/30/files/GIMP_Intro.odp\"\
   >GIMP 2.8 Introduction</a></li>\n</ul>"
 layout: post
 redirect_from: /october-31st-2012-cli-gimp-and-more
@@ -40,6 +40,6 @@ Downloads:
   *  [Command Line (4) Slides](http://bradlug.co.uk/blog/2012/10/30/files/CLI_Part_4_slides.odp)
 
 	
-  * [GIMP 2.8 Introduction](http://bradlug.co.uk/blog/2012/10/30;files/GIMP_Intro.odp)
+  * [GIMP 2.8 Introduction](http://bradlug.co.uk/blog/2012/10/30/files/GIMP_Intro.odp)
 
 

@@ -10,7 +10,7 @@ excerpt: "Alice showed us how to use Selenium to record actions on a webpage and
   \ - which will adapt your environment to your changing circumstances.\n\nDave continued\
   \ his command line talk which was NOT called the Human Centipede, but had a lot\
   \ to do with <a title=\"Pipes: A Brief Introduction\" href=\"http://www.linfo.org/pipes.html\"\
-  >pipes</a>. A link to the presentation is coming.\n\nAlso it was our Birthday. Thanks\
+  >pipes</a>.\n\nAlso it was our Birthday. Thanks\
   \ to Richard for the Cake (it was not a lie!)."
 layout: post
 redirect_from: /september-26th-2012-testing-testing
