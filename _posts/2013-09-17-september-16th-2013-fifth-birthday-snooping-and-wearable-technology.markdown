@@ -2,8 +2,7 @@
 author: John
 comments: true
 date: 2013-09-17 22:13:43+00:00
-excerpt: <p>After we had cut the cake <strong>John H</strong> did a <a href="http://www.bradlug.co.uk/?attachment_id=1291"
-  rel="attachment wp-att-1291">quick resumé</a> of the events of the past year.</p>
+excerpt: <p>After we had cut the cake <strong>John H</strong> did a <a href="http://www.bradlug.co.uk/blog/2013/09/17/files/BradLUG_fifth_year.odp">quick resumé</a> of the events of the past year.</p>
 layout: post
 redirect_from: /september-16th-2013-fifth-birthday-snooping-and-wearable-technology
 slug: september-16th-2013-fifth-birthday-snooping-and-wearable-technology
@@ -13,7 +12,7 @@ categories:
 - Past Meetings
 ---
 
-After we had cut the cake **John H** did a [quick resumé](http://www.bradlug.co.uk/september-16th-2013-fifth-birthday-snooping-and-wearable-technology/bradlug_fifth_year/) of the events of the past year.
+After we had cut the cake **John H** did a [quick resumé](http://www.bradlug.co.uk/blog/2013/09/17/files/BradLUG_fifth_year.odp) of the events of the past year.
 
 
 
@@ -23,7 +22,7 @@ After we had cut the cake **John H** did a [quick resumé](http://www.bradlug.co
 
 
 
-The [PDF of David's slides](http://www.bradlug.co.uk/september-16th-2013-fifth-birthday-snooping-and-wearable-technology/snooping-v3/) is complete with links.
+[David's slides](http://www.bradlug.co.uk/blog/2013/09/17/files/snooping_original_2013.odp) are complete with links.
 
 		
 

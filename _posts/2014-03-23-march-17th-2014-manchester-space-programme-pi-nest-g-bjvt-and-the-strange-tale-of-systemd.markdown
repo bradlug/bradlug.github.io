@@ -5,7 +5,7 @@ date: 2014-03-23 21:47:04+00:00
 excerpt: '<p><strong>Shi</strong> brought in the first edition of <a href="http://www.linuxvoice.com/"
   type="text/html"><cite>Linux Voice</cite></a>.</p>
 
-  <p><strong>John H</strong> did a <a href="http://www.bradlug.co.uk/2014/03/23/files/MIME_types.odp">brief history of MIME Types</a> in response to a question
+  <p><strong>John H</strong> did a <a href="http://www.bradlug.co.uk/2014/03/23/files/MIME_Types.odp">brief history of MIME Types</a> in response to a question
   at an earlier session and then</p>
 
   <p><strong>David B</strong> introduced the <a href="http://madlab.org.uk/content/manchester-space-programme-official-launch/"
@@ -27,7 +27,7 @@ categories:
 
 
 
-**John H** did a [brief history of MIME Types](http://www.bradlug.co.uk/2014/03/23/files/MIME_types.odp) in response to a question at an earlier session and then
+**John H** did a [brief history of MIME Types](http://www.bradlug.co.uk/2014/03/23/files/MIME_Types.odp) in response to a question at an earlier session and then
 
 
 
