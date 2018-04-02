@@ -16,7 +16,7 @@ categories:
 
 The first instalment of David's introdution to the command line and the latest adventures with Raspberry-Pi followed by  a look at Ada Lovelace's contribution to computing were among items on the agenda this evening.
 
-We spent a little more than 20 minutes covering the command line, how to read man pages, and agreeing that whilst the command line can be confusing at times, it certainly shouldn't be scary. Dave's slides are available [here to download](http://bradlug.co.uk/wp-content/uploads/2012/07/command1.odp).  Also available in [.txt format](http://bradlug.co.uk/wp-content/uploads/2012/07/cmdline.txt).
+We spent a little more than 20 minutes covering the command line, how to read man pages, and agreeing that whilst the command line can be confusing at times, it certainly shouldn't be scary. Dave's slides are available [here to download](http://bradlug.co.uk/blog/2012/07/23/files/CLI_Part_1_slides.odp).  Also available in [.txt format](http://bradlug.co.uk/blog/2012/07/23/files/CLI_Part_1_notes.txt).
 
 We then had a very interesting talk from John about [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)'s contribution to computing, most of which was sadly lost until after Von Neumann had reproduced most of it much later on.
 
