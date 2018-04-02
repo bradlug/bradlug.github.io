@@ -1,0 +1,145 @@
+=====================================================
+The Ongoing Command Line Workshop From Hell, Part Two
+=====================================================
+
+One of the principles of computing is that you should think in terms of the 
+OBJECTS that you are manipulating
+and the OPERATIONS that may be defined upon them.
+
+We can do this for the Linux command line
+
+The OBJECTS on which you are operating will often be FILES and the information inside them
+and many of the fundamental OPERATIONS on files are provided by the GNU COREUTILS
+
+
+=====
+FILES
+=====
+
+The Unix filestore has a hierarchical organisation or 'tree'
+The root is a DIRECTORY (not 'folder') that is named '/'
+Each directory 'contains' lots more directories and files
+Thus you get a branching structure in which files can be organised thematically
+Each filestore object is retrievable by its PATHNAME
+either traced from the root via its containing directories separated by '/' characters (multiple /// are not significant)
+or relative to the current working directory if doesn't start with /
+There's a standard that codifies the names and purposes of particular directories and files
+Filesystem Hierarchy Standard - FHS
+Your stuff is in /home/mydir
+What's inside the files?
+Well, they are UNSTRUCTURED.  Does that help?  Probably not!
+Some operating systems have files organised in RECORDS
+Some have RESOURCE FORKS, like a little directory tree inside a file
+Unix doesn't bother with any of that crap
+Files just contain a linear stream of bytes.
+If your program interprets those bytes as text with 'line feed' bytes, well, that's certainly possible.
+Or you can interpret them as anything you like.
+Streams of bits, raw integers, floating point, complicated data structures, it's not Linux's concern.
+You can interpret an mp3 file as a jpeg if you like, but an image viewer is not likely to consider it valid :-)
+The name of the file might be a clue, or it might not be.
+That dot jpeg or dot txt thing at the end doesn't have to be right, it doesn't have to be there at all!
+It's just a convenience that plays to people's cultural expectations.  Names don't really have any limitations.
+But if you want a utility that will look at what's in a file and tell you an informed guess about what might be in it, there's a command that does that
+(confusingly, its name is 'file' and its not in coreutils)
+If you think that's rather slack, Unix does 'hidden files' with a dot at the start of the name; 
+they won't show up in most gui file choosers and wildcards won't select them unless explicitly matched,
+but there's no other limitations on them. 
+Again it's just a convenience that plays to people's cultural expectations.
+
+This doesn't mean that all files are the same.
+Unix stores a number of peculiar things in its filestore.
+There are plain files,
+There are directories,
+There are symbolic links, which redirect to other files/directories/whatever in the filestore,
+There are device nodes
+There are named pipes (a.k.a. fifos)
+We wont't talk about the last two today
+
+How does Linux make sense of a disk drive?
+How does it turn a whirry metal thing into the files and directories that we've been discussing? 
+The efficient organisation and operation is done by the FILESYSTEM.
+Linux has a choice of lots of filesystems - ext3, ext4, btrfs, reiserfs, zfs, jfs...
+(and ntfs-ng, vfat, iso9660, udf...)
+But that's a talk for another day, maybe in a year or two when btrfs is finally ready for use :-)
+
+Linux, like most operating systems, tracks some additional attributes
+'owner' and 'group'
+'access mode' (and maybe access control list)
+last date/time modified
+size and where all the junk is on disk (duh)
+
+
+=========
+COREUTILS
+=========
+
+These commands are GNU's implementation (one of many: others include commercial Unixes, BSDs, busybox)
+of file manipulation and other commands that in many cases actually pre-date Unix itself (Multics, CTSS).
+Yes, many of these commands have roots that go way back before the Moon landings and Dennis Ritchie.
+So if you invest a bit of effort learning them, your new knowledge isn't going to be obsolete tomorrow.
+They're a significant part of the GNU component of GNU/Linux.
+Documentation - info (yuck) www or man (incomplete)
+(go to www index, it's a bit bewildering)
+
+What can you do to files?
+(run through sections in www index)
+* Start with "basic operations"
+--note the cryptic unfriendly names (Unix Haters Handbook)
+cp mv rm
+--(ignore dd install shred)
+--mv is "rename", "rename" is mv
+--Options are really frightening! (repeat what we said last month)
+--What options do people actually use? -i -v -r -a
+--multiple argument strangeness (pairs, last one directory)
+* Special file types
+ln mkdir rmdir
+--Strangeness, no "rmln" command (use rm)
+--ln argument order a bit counterintuitive, think of it like a copy or move
+--rmdir wants directories to be empty
+* Listing directory contents
+ls
+* Outputting files
+cat head tail 
+* Changing file attributes
+chown chgrp chmod
+
+Look at the other interesting stuff there
+Wow, a strange mix of the very familiar (kill pwd) and highly unfamiliar (shuf ptx csplit)
+
+Summary: good starting place for basic commands though not all of them
+grep
+more
+ps
+cd (shell builtin) and pwd
+find
+diff
+su and sudo
+
+Other sources of info
+Teaching and training material
+--google "basic linux commands"
+--often goes off into total weirdness e.g. http://www.iitg.ernet.in/sbdas/TEACHING/PH705/DIARY/Linux_Command/commands.html
+--Read more than one, the stuff that comes up again and again is the stuff to learn
+--http://www.ee.surrey.ac.uk/Teaching/Unix/
+--http://code.google.com/edu/tools101/linux/basics.html
+
+
+===========================
+Things we haven't mentioned
+===========================
+
+Would the smartypants that have been heckling me kindly explain the following to our noobs
+Sparse files
+Hard links
+. and ..
+inodes
+Extended attributes
+Symlink weirdness
+Wildcards and ~ (role of the shell, segue into...)
+
+
+===========
+Next month!
+===========
+HUMAN CENTIPEDE!!!
+Joining commands together - pipelines and the shell
