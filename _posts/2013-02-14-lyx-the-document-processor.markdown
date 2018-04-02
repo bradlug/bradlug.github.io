@@ -39,4 +39,4 @@ So, whether you are an individual producing the occasional report where you need
 
 You can get LyX for Windows from [http://www.lyx.org/Download#toc3](http://www.lyx.org/Download#toc3); this won't just download LyX but also LaTeX and a number of other free programs that LyX needs to provide all its features; it is a big download so wait until a time when you know your broadband won't be overloaded.
 
-There is an introduction to LyX for Linux users [here](http://bradlug.co.uk/september-28th-2011-3rd-birthday-meeting/) but most of this also applies to Windows and the LyX team are generally very good at answering queries if you get stuck.
+There is an introduction to LyX for Linux users [here](https://johnrhudson.me.uk/computing/LyX_2_the%20ultimate_document_software.pdf) but most of this also applies to Windows and the LyX team are generally very good at answering queries if you get stuck.
