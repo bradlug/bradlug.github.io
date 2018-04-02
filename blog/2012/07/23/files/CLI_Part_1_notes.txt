@@ -1,0 +1,286 @@
+The Great Command Line Chill-out Trilogy In At Least One Part will be
+an ongoing quest to take you far, far away from your mouse mat.  Part
+One will be entitled "Ey Up Whats All Them Dashes About Then".  If
+esteemed participants emerge with a new sense of clarity and
+confidence, then this first sesh will have failed, because the aim is
+to show you that commands and man pages really are confusing, and
+therefore it's not your fault for being confused.  There are three
+ways of chilling out and coping with this damn mess: (1) understanding
+what caused the mess; (2) knowing a bit more about the deep structures
+of Linux; and (3) sharing coping strategies and sympathy with your
+fellow Bradlug folk.  All this in twenty mins max.  It might need
+quite a few more sessions until we're done :-/
+
+
+
+WHY?
+
+It's not a 'real geeks use the command line' thing.
+
+No, it's a communication thing.
+
+GUI = you're a caveman in Poundland.
+All you can do is point and grunt.
+If it's not on the shelves you're not going to get it.
+Good for guiding people on a predefined path through complexity, and we all need that all the time, and it's good.
+Bad for errors/feedback/documentation.
+Can't combine tools into something new.
+
+Command line = explain what you want = build up from phrases into sentences.
+But not much guidance on typical use patterns.
+Better for errors/feedback/documentation.
+Possible, indeed expected, that you can combine tools into something new.
+
+
+
+WHERE DO COMMANDS COME FROM?
+
+On Unix, every PROGRAM is a bit like a mathematical FUNCTION
+it has a NAME and it has PARAMETERS
+
+sin(x)
+function(a,b,c)
+copy(old,new)
+rm -rf /
+
+(How a TV remote looks to an old person)
+(demo that rm -rf / doesn't in fact make the world end)
+
+
+By the way, the names of many of the Unix commands are a bit... odd :-/
+You'll get used to it :-)
+
+
+
+THE SHELL
+
+On Unix, you type your commands into a program called a SHELL
+There are lots of shells but really there is only one :-)
+
+The shell fiddles a bit with what you type (but not a lot)
+When you type a command line, the name of program you want to run comes first
+(that's the command)
+and then, separated by spaces, you type the parameters that you want to pass to the command.
+
+The shell just calls the corresponding PROGRAM with its PARAMETERS stored as an array of character strings.
+
+rm -rf /    ->    /usr/bin/rm("-rf","/")
+
+So the SHELL allows every PROGRAM to be used as a COMMAND
+as long as all its parameters are character strings.
+There is nothing special about a COMMAND.
+
+
+
+THE COMMAND
+
+What does the command do with its PARAMETERS?
+Whatever it likes.  (Hopefully, what you want it to do!)
+This is both good and bad.
+Good because NO LIMITATIONS
+Bad because NO STANDARDS
+Every command is different
+
+CONFUSION!  HORROR!  MAYHEM!  CARNAGE!
+This sucks.
+
+Digression
+
+The standard unit of suckiness is the Lovelace (Ll). 
+One Lovelace is the amount of force (measured in dynes) it takes to draw
+a round ball weighing e Troy Ounces down a tube it fits exactly (in air) 
+at a speed of pi attoparsecs/microfortnight. 
+Like the Farad, this is a rather large unit.
+
+Anyway:
+That's why you *must* read the manual.
+Learn the commands you need, one by one.  
+Read the manual, all the time.
+Take notes.
+Keep useful snippets.
+Keep them in a personal wiki like tomboy or dokuwiki
+Copy and paste them when you need them
+It's what everyone does.  Don't feel insecure!
+
+
+HOW TO READ THE MANUAL
+
+Once upon a time the Unix manuals were loose leaf binders with real physical manual pages.
+
+The sections have evolved somewhat since Unix First Edition but are still mostly recognisable.
+
+1 Commands (Programs)
+                 Those commands that can be executed by the user from within a shell.
+2 System calls
+                 Those functions which must be performed by the kernel.
+3 Library calls
+                 Most of the libc functions.
+4 Special files (devices)
+                 Files found in /dev.
+5 File formats and conventions
+                 The format for /etc/passwd and other human-readable files.
+6 Games
+
+7 Conventions and miscellaneous
+                 Overviews of various topics, conventions and protocols, character
+                 set standards, and miscellaneous other things.
+8 System management commands
+                 Commands like mount(8), many of which only root can execute.
+
+source: man 7 man-pages
+
+
+If there's both a command and a library function with the same
+name, then you need to specify the section number
+man 1 basename -- the basename command a.k.a. basename(1)
+man 3 basename -- the library function callable from C C++ etc a.k.a. basename(3)
+But usually you don't need the section number.  
+
+Man pages have a standardised layout
+
+NAME
+    The name of the command or function, followed by a one-line description of what it does.
+SYNOPSIS
+    In the case of a command, you get a formal description of how to run it and what command line options it takes. 
+    For program functions, a list of the parameters the function takes and which header file contains its definition. 
+    For experienced users, this may be all the documentation they need.
+DESCRIPTION
+    A textual description of the functioning of the command or function.
+EXAMPLES
+    Some examples of common usage.  Very useful!
+SEE ALSO
+    Often quite useful too
+
+
+
+In general, parameters will be a mixture of control arguments, keywords, filenames, and other stuff like text.
+
+
+Control arguments 
+
+The easy commands go like this
+
+  ls -l -r -t /tmp
+
+Some commands (not all) also understand them when collapsed together
+
+  ls -lrt /tmp
+
+When we run out of single letters, what happens?  It varies.
+Some go like this (consequently they don't allow collapsing)
+
+  command -longarg
+
+GNU commands often go --arg=thing, selected long control args will usually
+have alternative short forms, you can mix them
+    
+
+Some commands are similar but leave out the =
+
+  git 
+
+Horrible mixes of control args with and without =
+
+Control args and keywords (not really any difference)
+
+Some commands have keyword=value
+
+  dd if=inputfile of=outputfile bs=1024
+
+Some commands have keywords but leave out the =
+
+  ifconfig eth0 192.168.128.0 netmask 255.255.255.0 broadcast 192.168.128.255
+
+Some commands are a repulsive mixture of all the above, for legacy reasons
+
+  tar xf archive.tar.gz 
+  cdrecord -v speed=4 dev=/dev/cdrom blank=fast -eject -data ubuntu.iso
+
+Some control arguments aren't really control arguments at all
+
+  tail -40 /var/log/messages
+
+Worst of all, there are some commands (very few) that use -something to turn
+"something" on, and therefore (!) use +something to turn it off again!!!
+And the worst offender is.... bash itself
+http://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
+
+
+Are you feeling ill yet?
+
+
+Lastly:
+Even when you do try to read the manual, it's still a mess.
+Some of them are rubbish.
+Many years ago, the GNU project decided that man pages were passé.  
+So they don't supply man pages.
+And the GNU project's commands are some of the most fundamentally important on your GNU/Linux system!  Tossers!
+Best solution is to use GNU web pages online (more next month).
+When online beware of out of date man pages, or from other systems (BSD, Solaris)
+
+Yes this is a mess.  There are several ways of coping
+- Follow what other people do (web articles etc)
+- Read the manual, particularly the examples at the bottom
+- Keep on trying variations until it works, then make a note in case you need it again
+- Once you've got something sussed, stick to what you know
+
+
+We learned something today
+
+It's not your fault if you're feeling bewildered.
+Lots of this stuff evolved messily, organically.
+It has to be learned organically, much like a natural language with irregular verbs.
+That actually puts non-geeks at an advantage!
+if only you can get over the initial scaryness and mental blocks.
+Good news is that even the first few steps can be useful and productive.
+It's not dangerous and it's not as humiliating as learning a human language.
+Let's make a proper start together NEXT MONTH
+
+
+NEXT MONTH
+
+Files and the commands that devour them: The Unix Filestore and GNU Coreutils
+
+
+FINAL THOUGHT
+
+"Mastery of UNIX, like mastery of language, offers real freedom. The price
+of freedom is always dear, but there's no substitute. Personally, I'd rather 
+pay for my freedom than live in a bitmapped, pop-up-happy dungeon like NT.
+I'm hoping that as IT folks become more seasoned and less impressed by
+superficial convenience at the expense of real freedom, they will yearn
+for the kind of freedom and responsibility UNIX allows. When they do, UNIX
+will be there to fill the need."
+-- Thomas Scoville, The Elements Of Style: UNIX As Literature
+
+
+
+
+
+
+
+
+
+
+
+Stuff for next month:
+
+Intro to filestore
+Wildcards & the shell's role
+GNU Coreutils
+Error messages
+bash awk grep perl sed df du, vi troff su fsck rm * halt LART LART LART!
+
+
+
+Later:
+
+Shell scripting
+Commands can be scripted and edited and parameterised and can be run when
+you're not there.  Commands can SAVE YOU LOTS OF TEDIOUS REPETITIVE WORK.
+Biggest insult in software engineering is that someone could be
+replaced by a very small shell script. 
+http://www.thinkgeek.com/product/374d/
+
+
+
