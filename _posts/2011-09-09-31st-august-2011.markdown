@@ -39,4 +39,4 @@ formats.
 **John Hudson** shared some notes on HTML5 which he had put together and on which
 he asked for feedback.
 
-Download: [Some notes on HTML5](http://bradlug.co.uk/wp-content/uploads/2011/09/Some_notes_on_HTML5.pdf) (PDF 518KB)
+Download: [Some notes on HTML5](https://johnrhudson.me.uk/computing/Some_notes_on_HTML.pdf)
