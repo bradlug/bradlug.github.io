@@ -13,7 +13,7 @@ categories:
 - Past Meetings
 ---
 
-**David C** welcomed people to the meeting and shared the [![Cycle+of+Change](http://www.bradlug.co.uk/wp-content/uploads/2014/01/Cycle+of+Change-300x225.jpg)](http://www.bradlug.co.uk/november-26th-2008-cycle-of-change-desktops-and-a-meeting-place/cycleofchange/). 
+**David C** welcomed people to the meeting and shared the [![Cycle of Change](http://www.bradlug.co.uk/blog/2008/11/28/images/Cycle_of_Change.jpg)].
 
 
 
