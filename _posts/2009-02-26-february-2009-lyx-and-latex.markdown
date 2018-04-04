@@ -14,8 +14,8 @@ categories:
 John gave a fascinating talk. If you missed it, check out the handout:
 **Updated 26th Aug 2010**
 
-[LyX_LaTeX_and_TeX](http://bradlug.co.uk/wp-content/uploads/2009/02/LyX_LaTeX_and_TeX.pdf) (PDF 0.3MB)
-[BibTeX_styles_catalogue_for_LyX](http://bradlug.co.uk/wp-content/uploads/2009/02/BibTeX_styles_catalogue_for_LyX.pdf) (PDF 1.2MB)
+[LyX_LaTeX_and_TeX](http://bradlug.co.uk/blog/2009/02/26/files/LyX_LaTeX_and_TeX.odp)
+[BibTeX_styles_catalogue_for_LyX](https://johnrhudson.me.uk/computing/BibTeX_styles_catalogue_for_LyX.pdf)
 
 **Update 30th Sept 2011**
-John updated us about Lyx2 in the [September 2011 meeting](http://bradlug.co.uk/?p=695). New handout posted there.
+John updated us about Lyx2 in the [September 2011 meeting](http://bradlug.co.uk/blog/2011/09/30/3rd-birthday-meeting-sept-2011).
