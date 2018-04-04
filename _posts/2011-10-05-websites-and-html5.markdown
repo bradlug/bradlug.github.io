@@ -41,7 +41,7 @@ Instead of writing reams of conditionals to cope with older browsers, you only h
 
 The researchers found that a great many websites followed a similar pattern (see figure). So they provided standard elements for these areas and added a <section> element which you can use to split up other elements, relegating <div> to a supporting role, and an <hgroup> element which allows you to have different groups of headings for different elements in the same page.
 
-[caption id="attachment_707" align="alignright" width="266"]![HTML 5 page layout](http://bradlug.co.uk/wp-content/uploads/2011/10/HTML_page.png) HTML 5 page layout[/caption]
+[HTML 5 page layout](http://bradlug.co.uk/blog/2011/10/05/images/HTML_page.png) HTML 5 page layout[/caption]
 
 If your website is a mass of <div> elements, don’t worry; HTML5 can cope but you may find it much easier to maintain your website if you gradually rename the parts of your site which correspond to the new elements. As well as being part of the <body>, the new <header>, <footer> and <nav> elements can also appear inside other elements, making it easier to have separate headers and footers for different parts of the page. Because a <nav> element can also appear inside, for example, a <footer> element, it should be easier to differentiate that set of links from those you have in a <nav> bar in the <body> of the page.
 

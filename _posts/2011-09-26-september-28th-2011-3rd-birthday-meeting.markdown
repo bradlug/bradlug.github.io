@@ -22,8 +22,8 @@ excerpt: 'Doesn''t time fly? BradLUG (BradGNU/LUG?) is now 3 years old. It''s on
 
   <strong>Download:</strong>
 
-  <a href="http://bradlug.co.uk/wp-content/uploads/2011/09/Third_year.pdf">Third year
-  of Bradlug</a> (PDF 58KB)'
+  <a href="http://bradlug.co.uk/blog/2011/09/26/files/Third_year.pdf">Third year
+  of Bradlug</a>'
 layout: post
 redirect_from: /september-28th-2011-3rd-birthday-meeting
 slug: september-28th-2011-3rd-birthday-meeting
