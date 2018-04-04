@@ -23,11 +23,11 @@ categories:
 - Past Meetings
 ---
 
-The meeting on the 29th gave a chance to look to both the past and the future. See [Andrea's post](http://bradlug.co.uk/?p=552) for the pre-meeting agenda.
+The meeting on the 29th gave a chance to look to both the past and the future. See [Andrea's post](http://bradlug.co.uk/blog/2010/09/27/september-29th-2010-our-2nd-birthday) for the pre-meeting agenda.
 
 Quite a lot of things came out of the meeting, and if thoughts, suggestions and ideas are to be taken forward then people are welcome to get cracking on them.
 
-Attached we have John's presentation that was amended as the meeting progressed and a PDF of the post-it comments that people made. (svg file also available - please [contact us](http://bradlug.co.uk/?page_id=20) if you want it.).
+Attached we have John's presentation that was amended as the meeting progressed and a PDF of the post-it comments that people made.
 
 
 
