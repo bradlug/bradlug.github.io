@@ -12,9 +12,8 @@ excerpt: 'Doesn''t time fly? BradLUG (BradGNU/LUG?) is now 3 years old. It''s on
   a closer inspection.
 
 
-  <a href="http://bradlug.co.uk/wp-content/uploads/2011/09/Three-years-of-bradlug.jpg"><img
-  class="aligncenter size-full wp-image-688" title="Three years of Bradlug" src="http://bradlug.co.uk/wp-content/uploads/2011/09/Three-years-of-bradlug.jpg"
-  alt="Three years of Bradlug" width="380" height="231" /></a>
+ <img src="http://bradlug.co.uk/blog/2011/09/26/images/Third_year.png"
+  alt="Three years of Bradlug" width="885" height="583" />
 
 
   As for September''s meeting. We''re just discussing that. As ever, your biggest
