@@ -32,10 +32,10 @@ Attached we have John's presentation that was amended as the meeting progressed 
 
 
 	
-  * [Second Birthday Meeting Post-its Comments for Discussion](http://bradlug.co.uk/blog/2010/10/07/files/Second_birthday.odp)
+  * [Second Birthday Meeting Post-its Comments for Discussion](http://bradlug.co.uk/blog/2010/10/07/files/Second_birthday_discussion.pdf)
 
 	
-  * [Second Birthday Presentation](http://bradlug.co.uk/blog/2010/10/07/files/Second_birthday_discussion.pdf)
+  * [Second Birthday Presentation](http://bradlug.co.uk/blog/2010/10/07/files/Second_birthday.odp)
 
 
 Some of the things in the PDF's are reproduced below. There was discussion on some of the points below, but if anyone would like to follow some of them through (RB may be mounting a coup if anyone is interested!), then posting here, the [forum](http://bradlug.proboards.com/) or the mailing list would be good.
