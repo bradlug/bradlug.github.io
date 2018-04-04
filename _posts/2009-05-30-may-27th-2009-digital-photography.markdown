@@ -26,7 +26,8 @@ categories:
 - Past Meetings
 ---
 
-**David S** gave a full length presentation on Digital photography: the free software perspective which is too big to upload but which can be supplied on request.
+**David S** gave a gave a [full length presentation](http://bradlug.co.uk/blog/2009/05/30/files/Digital-photography_27_05_2009.odp) on Digital
+  photography: the free software perspective.
 
 
 
