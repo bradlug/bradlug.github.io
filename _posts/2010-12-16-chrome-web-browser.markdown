@@ -13,7 +13,7 @@ categories:
 - Archived Articles
 ---
 
-As a follow on from my [previous piece on Firefox](http://bradlug.co.uk/?page_id=410) I'm going to look at Google's offering,** Chrome**.  Much like Firefox,** **Chrome is an open source web browser that let's you do everything that you are accustomed to while online. What else Google's browser has in common with Firefox is it's cross platform; no matter what operating system you're running, be it **Linux**, **OSX** or **Windows**, Chrome
+As a follow on from my [previous piece on Firefox](http://bradlug.co.uk/blog/2010/06/08/firefox) I'm going to look at Google's offering,** Chrome**.  Much like Firefox,** **Chrome is an open source web browser that let's you do everything that you are accustomed to while online. What else Google's browser has in common with Firefox is it's cross platform; no matter what operating system you're running, be it **Linux**, **OSX** or **Windows**, Chrome
 will work for you.
 
 What then makes Chrome different from the other browsers out there you might rightly ask? In comparison to other long in the tooth browsers Chrome is in its youth, born out of a need for a browser that caters to the way we work online today rather than how we worked ten years ago which is the case with the other browsers.
