@@ -2,9 +2,8 @@
 author: John
 comments: true
 date: 2009-05-30 19:55:50+00:00
-excerpt: '<p><strong>David S</strong> gave a full length presentation on <cite>Digital
-  photography: the free software perspective</cite> which is too big to upload but
-  which can be supplied on request.</p>
+excerpt: '<p><strong>David S</strong> gave a [full length presentation](http://bradlug.co.uk/blog/2009/05/30/files/Digital-photography_27_05_2009.odp) on <cite>Digital
+  photography: the free software perspective</cite>.</p>
 
   <p>He started by pointing out that:</p>
 
