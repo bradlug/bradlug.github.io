@@ -18,7 +18,7 @@ Meetings take place from 7–9pm on the **second Tuesday** of the month at BCB R
 
 All the dates are in our [calendar](https://www.google.com/calendar/embed?src=j0levg4c0p2op08nf5elp3u50k%40group.calendar.google.com&ctz=Europe/London).
 
-**Share a talk**  
+**Show and tell**  
 If you would like to give a **talk or demonstration**, please drop us a line! Talks and Demonstrations can take on almost any format from show and tell to a more formal presentation. We would love to hear about what projects people are working on.
 
 We would also like to hear about anything to do with the **Open source/Free software** movement so please, if you have talks or lectures you would like to give to the group, do get in touch!
