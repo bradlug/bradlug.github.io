@@ -11,7 +11,7 @@ wordpress_id: 47
 
 We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of past meetings, including notes and links, can be found in [previous posts](/category/past-meetings).
 
-Meetings take place from 7–9pm on the **second Tuesday** of the month at BCB Radio, 11 Rawson Road, Bradford BD1 3SH from 7–9pm. You can find how to get there on the [BCB Contact page](http://www.bcbradio.co.uk/contact/).
+Meetings take place from 7–9pm on the **second Tuesday** of the month at BCB Radio, 11 Rawson Road, Bradford BD1 3SH. You can find how to get there on the [BCB Contact page](http://www.bcbradio.co.uk/contact/).
 
 <a href="https://twitter.com/NGRhodes/status/273878185584758784"><img src="/images/281112_nick.jpg" width="400px"/></a><a href="https://twitter.com/bradlug/status/607987734637101056"><img src="/images/080615.jpg" width="400px"/></a>  
 <i>Photo credits: Nick Rhodes and John Hudson</i>
