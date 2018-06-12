@@ -31,7 +31,7 @@ Over time individuals have taken on roles within the group as volunteers to help
   * Articles - John Hudson
   * Co-ordination - David Carpenter
 
-Our monthly meeting room comes courtesy of [Bradford Community and Voluntary Service](http://www.bradfordcvs.org.uk/), for which we give a donation gathered from people that attend the meeting.
+Our monthly meeting room comes courtesy of [Bradford Community Broadcasting](http://www.bcbradio.co.uk/), for which we give a donation gathered from people that attend the meeting.
 
 
 ## History
@@ -43,7 +43,7 @@ Bradford GNU/Linux User Group began in June 2008, with a post to the WYLUG list 
 
 The next attempt (a Wednesday in September) attracted 10 people, and BradLUG was born.
 
-We now meet on the second Monday of the month at the [Bradford Community and Voluntary Service](http://www.bradfordcvs.org.uk/) building. [UK Linux User Groups](http://lug.org.uk/) give us a mailing lists, and a few of the members got together to get this website up.
+We now meet on the second Tuesday of the month at [Bradford Community Broadcasting](http://www.bcbradio.co.uk/). [UK Linux User Groups](http://lug.org.uk/) give us a mailing list, and a few of the members got together to get this website up.
 
 Lots of people help out in various ways to keep the group going. Some people donate time and/or resources, others very kindly pay for the hire of the meeting room.
 
