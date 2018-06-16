@@ -4,7 +4,7 @@ date: 2018-05-15 21:55:36+00:00
 excerpt: '<p><strong>Brian</strong> showed us his new laptop from <a href="https://www.pcspecialist.co.uk/" type="text/html">PCSpecialist</a> running <a href="https://linuxmint.com/" type="text/html">Linux Mint</a> with <a href="https://www.glx-dock.org/" type="text/html">Cairo Dock</a> and recalled that he had been looking for a <a href="http://bradlug.co.uk/blog/2017/06/12/june-12-2017-guacamole-test-driven-ansible_wireguard-meet" type="text/html">replacement for Tomboy</a> because it does not synchronise well and cannot show anything other than text. He had found <a href="https://joplin.cozic.net/" type="text/html">Joplin</a> which uses <a href="https://daringfireball.net/projects/markdown/" type="text/html">Markdown</a> and, following a recent request, now has a search within notes feature.</p>
 	'
 layout: post
-title: 'May 8 2018Joplin, Reaper, Yandex and Tiny Tiny RSS Meet'
+title: 'May 8 2018 Joplin, Reaper, Yandex and Tiny Tiny RSS Meet'
 categories:
 - Past Meetings
 ---
