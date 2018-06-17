@@ -12,7 +12,6 @@
         <a class="button" href="/">Home</a>
         <a class="button" href="/about">About</a>
         <a class="button" href="/meetings">Meetings</a>
-        <a class="button" href="/foss">FOSS</a>
     </header>
 
 {{ content }}
