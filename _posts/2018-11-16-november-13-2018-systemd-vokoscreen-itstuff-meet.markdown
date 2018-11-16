@@ -1,0 +1,12 @@
+---
+author: John
+date: 2018-11-16 21:55:36+00:00
+excerpt: '<p><strong>Mike</strong> asked about getting a new computer on which to install Linux and John suggested he have a look at <a href="https://www.pcspecialist.co.uk/" type="text/html" role="link">PCSpecialist</a> in Wakefield from whom Brian had obtained a laptop which he was very happy with.</p>
+	'
+layout: post
+title: 'November 13 2018 systemd, Vokoscreen, ITStuff Meet'
+categories:
+- Past Meetings
+---
+
+<p><strong>Mike</strong> asked about getting a new computer on which to install Linux and John suggested he have a look at <a href="https://www.pcspecialist.co.uk/" type="text/html" role="link">PCSpecialist</a> in Wakefield from whom Brian had obtained a laptop which he was very happy with.</p><p><strong>Bernard</strong> then <a href="http://bradlug.co.uk/blog/2018/11/16/files/startup.odp" type="application/vnd.oasis.opendocument.presentation" role="link">demonstrated</a> setting up services in <a href="https://github.com/systemd" type="text/html" role="link">systemd</a>. First you create the program you wish to run; then you create a service file with the permissions 644 at <code>/lib/systemd/system/myfile.service</code> where <code>myfile</code> is the name of the program you wish to run.</p><p>The only difference between service files is between those run by root and those run by a user in which case an additional entry specifying the user is needed.</p><p>Bernard demonstrated the main commands and then ran the commands in an LXD container as described in the <a href="http://bradlug.co.uk/blog/2018/09/23/september-11-2018-jack-oggcamp-lxd-meet" type="text/html" role="link">September 2018 meeting</a>.</p><p><strong>John</strong> demonstrated the <a href="http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html" type="text/html" role="link">Vokoscreen</a> screen recorder which he had found for a friend who had moved from Windows to Linux.</p><p>We decided to have a festive meal at <time datetime="2018-12-15T19:00">7 pm on Saturday, 15 December 2018</time> at Wetherspoons in Centenary Square.</p><p><strong>David C</strong> reported that he had just finished moving an installation from <a href="https://www.drupal.org/" type="text/html" role="link">Drupal</a> 6 to Drupal 8; they had missed out Drupal 7 because of a significant change in architecture in 8 which meant that moving to Drupal 7 would have been no help.</p><p>Finally we all moved to Studio 3 to record the next edition of <a href="http://itstuff.org.uk/" type="text/html" role="link">IT Stuff</a>.</p>
