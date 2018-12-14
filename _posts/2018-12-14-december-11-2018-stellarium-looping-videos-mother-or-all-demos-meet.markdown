@@ -1,0 +1,12 @@
+---
+author: John
+date: 2018-12-14 21:55:36+00:00
+excerpt: '<p><strong>Bernard</strong> began by demonstrating <a href="http://stellarium.org/" type="text/html" role="link">Stellarium</a>, the open source planetarium.</p><p><strong>John H</strong> then asked about created a looping video to run on a display probably using a Raspberry Pi.</p>
+	'
+layout: post
+title: 'Stellarium, looping videos and the ‘Mother of all demos’ Meet'
+categories:
+- Past Meetings
+---
+
+<p><strong>Bernard</strong> began by demonstrating <a href="http://stellarium.org/" type="text/html" role="link">Stellarium</a>, the open source planetarium.</p><p><strong>John H</strong> then asked about created a looping video to run on a display probably using a Raspberry Pi. Kriss said that any Raspberry Pi would do this using <a href="http://raspberry-projects.com/pi/software_utilities/media-players/omxplayer" type="text/html" role="link">Omxplayer</a>. [John later found a page about <a href="https://www.raspberrypi.org/forums/viewtopic.php?p=1249887" type="text/html" role="link">Looping multiple videos with Omxplayer</a>.] You can create the image using <a href="https://en.wikipedia.org/wiki/QEMU" type="text/html" role="link">QEMU</a> and the <a href="https://github.com/xriss/monster-mesh/tree/master/box" type="text/html" role="link">monster-mesh</a> scripts. There would need to be a USB power source and there might be problems with a power low message appearing on the video output if a cheap USB cable was used which would need to be suppressed.</p><p>John mentioned that there appeared to have been an upgrade to MTP in the most recent release of openSUSE Leap — which means that some USB cables will no longer connect to a smartphone using MTP whereas others will — possibly because cheaper cables do not have all their pins connected.</p><p><strong>Kriss and Shi</strong> mentioned that they have just returned from a tour demonstrating <a href="https://www.khronos.org/opengl/wiki/Shader" type="text/html" role="link">OpenGL Shaders</a>.</p><p><strong>David S</strong> then suggested that we should mark the 50th anniversary of Doug Engelbart’s ‘<a href="https://www.youtube.com/watch?list=PLCGFadV4FqU3flMPLg36d8RFQW65bWsnP" type="text/html" role="link">Mother of all demos</a>,’ the first demonstration of a graphical user interface, hypertext and many other things which we now take for granted, by watching some extracts from it.</p>
