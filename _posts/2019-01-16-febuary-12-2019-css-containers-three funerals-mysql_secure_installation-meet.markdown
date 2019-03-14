@@ -4,7 +4,7 @@ date: 2019-02-16 21:55:36+00:00
 excerpt: '<p>The meeting began with a range of chit-chat. John H, commenting on a note about solution focused journalism, remarked that a very good journalist had told him that you always end a piece with something that left the reader thinking, not a neat solution. This led into a discussion of the principles of writing a good article and how, translated into radio, the principle that there should be a new point at least every 90 seconds was well worth following.</p>
 	'
 layout: post
-title: 'Journalism, CSS containers, Three funerals and a wedding, Docker containers, REMSCOPE, mysql_secure_installation Meet'
+title: 'February 12 2019 Journalism, CSS containers, Three funerals and a wedding, Docker containers, REMSCOPE, mysql_secure_installation Meet'
 categories:
 - Past Meetings
 ---
