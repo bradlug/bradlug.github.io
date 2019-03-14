@@ -4,7 +4,7 @@ date: 2019-01-11 21:55:36+00:00
 excerpt: '<p><strong>Darren</strong> reported that he had not been able to download a version of <a href="https://bluej.org/" type="text/html" role="link">BlueJ</a> which was compatible with the version used by the Open University.</p>
 	'
 layout: post
-title: 'BlueJ, chargers, Python scripts and Wireguard Meet'
+title: 'January 8 2019 BlueJ, chargers, Python scripts and Wireguard Meet'
 categories:
 - Past Meetings
 ---

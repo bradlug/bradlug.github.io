@@ -4,7 +4,7 @@ date: 2018-12-14 21:55:36+00:00
 excerpt: '<p><strong>Bernard</strong> began by demonstrating <a href="http://stellarium.org/" type="text/html" role="link">Stellarium</a>, the open source planetarium.</p><p><strong>John H</strong> then asked about created a looping video to run on a display probably using a Raspberry Pi.</p>
 	'
 layout: post
-title: 'Stellarium, looping videos and the ‘Mother of all demos’ Meet'
+title: 'December 11 2018 Stellarium, looping videos and the ‘Mother of all demos’ Meet'
 categories:
 - Past Meetings
 ---

@@ -4,7 +4,7 @@ date: 2019-03-14 21:55:36+00:00
 excerpt: '<p><strong>John</strong> noted that <a href="https://www.maplin.co.uk/" type="text/html" role="link">Maplin</a> is back as an online store. In response to Mike’s account of the problems he had had trying to install Arch on his computer, John suggested that he could delete all the existing partitions on the hard drive except the very first (very small) one by using <a href="http://www.system-rescue-cd.org/" type="text/html" role="link">System Rescue</a> and then start the installation process afresh.</p><p>John managed to demonstrate System Rescue on his own computer by turning off UEFI, using Legacy to load it — though it would only work with the VESA drivers on his computer — and then reverting to UEFI. He said that the documentation is excellent but that they have their own way of creating a bootable USB which John had found you could get round by creating the CD version and then copying it to a USB.</p>
 	'
 layout: post
-title: 'System rescue, SpamAssassin, server hosting, curve plotting, plated Meet'
+title: 'March 12 2019 System rescue, SpamAssassin, server hosting, curve plotting, plated Meet'
 categories:
 - Past Meetings
 ---
