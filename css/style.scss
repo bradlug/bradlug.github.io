@@ -51,6 +51,11 @@ a {
   hyphens:auto;
 }
 
+/* Fix long code chunks in blogposts*/
+code {
+  white-space: normal; 
+}
+
 em {
   font-weight: bold;
 }
