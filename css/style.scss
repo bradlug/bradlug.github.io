@@ -106,6 +106,18 @@ a.button {
   color: #555;
 }
 
+/* Links for categories in blogposts */
+.post--category a {
+  color: #444;
+  font-size: 13px;
+  border-radius: .4rem;
+  background-color: #eee;
+  padding: 10px;
+}
+.post--category a:hover {
+  background-color: #e8e8e8;
+}
+
 /* Get in touch wrapper on landing page*/
 .wrapper.touch {
   padding: 30px 20px;
