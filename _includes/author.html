@@ -1,0 +1,11 @@
+<h1>{{author.name}}</h1>
+
+
+<h3>Articles by {{author.name}}</h3>
+
+{% for post in site.posts %}
+  {% if post.author == page.author %}
+    {% include postSummary.html %}
+  {% endif %}
+{% endfor %}
+
