@@ -1,4 +1,12 @@
-<h1>{{author.name}}</h1>
+<div class="author_wrap">
+	<div class="author_txt">
+		<div class="author_name">{{author.name}}</div>
+		<div class="date_posted">Posted on {{ page.date }}</div>
+		<div class="minutes">( {{ minutes }} minute read )</div>
+	</div><div class="author_img">
+		<img src="{{author.image}}" width="100"/>
+	</div>
+</div>
 
 {% if page.authorsPage %}
 <h3>Articles by {{author.name}}</h3>

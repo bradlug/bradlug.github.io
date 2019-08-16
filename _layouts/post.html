@@ -9,10 +9,17 @@ fixedHeader: true
 {% assign minutes = 1 %}
 {% endif %}
 
+{% if page.author %}
+{% assign author = site.data.authors[page.author] %}
+{% endif %}
+
 
 <div class="wrapper">
     <h2>{{ page.title }}</h2>
-    <div class="date_posted">Posted on {{ page.date }} by {{ page.author }}</div>
+    {% if author.bio %}
+	  {% include author.html %}
+	{% endif %}
+    
     <div class="clearfix"></div>
     {{ page.content }}
 	

@@ -1,29 +1,29 @@
 John:
     name: John Hudson
-    bio: 
-    image: /image/john.png
+    bio: Hi, I'm John.
+    image: /images/john.jpg
     
 Dave:
     name: Dave Carpenter
-    bio: 
-    image: /image/dave.png
+    bio: Hello
+    image: /images/caprenter.jpg
     
 Wayne:
     name: Wayne
-    bio: 
-    image: /image/wayne.png
+    bio: Hello
+    image: /images/default.jpg
     
 Alice:
     name: Alice K
-    bio: 
-    image: /image/alice.png
+    bio: Hello
+    image: /images/alice.jpg
     
 andrea:
     name: Andrea
-    bio: 
-    image: /image/andrea.png
+    bio: Hello
+    image: /images/default.jpg
     
 njs:
     name: Nick Rhodes
-    bio: 
-    image: /image/njs.png
+    bio: Hello
+    image: /images/njs.jpg

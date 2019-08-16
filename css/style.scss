@@ -87,10 +87,37 @@ ol li p {
    display: inline;
 }
 
-/* Date posted under blog post title */
-.date_posted {
-   margin-bottom: 2.5rem;
+/* Author posted under blog post title in postSummary */
+.author_posted {
+  text-align:right;
+  margin-bottom: 2.5rem;
 }
+
+/* Wrapper for author profile */
+.author_wrap {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: right;
+  padding: 15px 20px 10px 20px;
+  margin-bottom: 2em;
+}
+.author_txt, .author_img {
+  display:inline-block;
+  vertical-align:middle;
+  padding-right:25px;
+}
+.author_img {
+  padding:0;
+}
+.author_name {
+  font-size:30px;
+  font-weight:bold;
+}
+.minutes {
+  font-style:italic;
+  font-size:14px;
+}
+  
 
 /* Styling for welcome message on landing page */
 .wrapper p.welcome {

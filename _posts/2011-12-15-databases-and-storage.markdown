@@ -1,5 +1,5 @@
 ---
-author: Dave
+author: John
 comments: true
 date: 2011-12-15 09:17:44+00:00
 excerpt: 'At the start of the PC era, computers had so little memory or storage that
