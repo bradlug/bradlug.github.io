@@ -31,6 +31,16 @@ header {
   margin: 20px auto 20px auto;
 }
 
+.wrapper.postTitle {
+  padding:30px 40px 0 40px;
+  margin:0 auto;
+  margin-bottom:10px;
+}
+
+.wrapper.postTitle p {
+  font-size:16px;
+}
+
 /* Font styles */
 p {
   font-size:18px;
@@ -69,6 +79,11 @@ h2 a {
   letter-spacing: 1px;
 }
 
+h4 {
+  font-size: 2.4rem;
+  margin-bottom:0;
+}  
+
 ul {
   list-style-type: disc;
   font-size: 18px;
@@ -92,6 +107,11 @@ ol li p {
   text-align:right;
   margin-bottom: 2.5rem;
 }
+.time_posted {
+  text-align:right;
+  margin-bottom:1rem;
+  font-size:14px;
+}
 
 /* Wrapper for author profile */
 .author_wrap {
@@ -100,6 +120,11 @@ ol li p {
   text-align: right;
   padding: 15px 20px 10px 20px;
   margin-bottom: 2em;
+}
+.author_page {
+  margin:0 auto;
+  padding:0;
+  border:0;
 }
 .author_txt, .author_img {
   display:inline-block;
@@ -113,9 +138,22 @@ ol li p {
   font-size:30px;
   font-weight:bold;
 }
+.author_name a {
+  color:#555;
+}
 .minutes {
   font-style:italic;
   font-size:14px;
+}
+
+.author_section {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+.author_articles {
+  font-size: 24px;
+  margin-bottom: 0.5em;
 }
   
 
@@ -180,10 +218,14 @@ a.top {
   border-radius: 4px;
 }
 
+.pagination {
+  min-height:300px;
+}
 /* Second pagination */
 .pagination.bottom {
   position: absolute;
   bottom: 100px;
+  min-height:initial;
 }
 
 
@@ -198,6 +240,15 @@ a.top {
   a.top {
     position: initial;
     bottom: initial;
+  }
+  
+  .author_txt, .author_img {
+    display:block;
+  }
+  
+  .author_txt {
+    padding-bottom:15px;
+    padding-right:0;
   }
   
   p.gcal {

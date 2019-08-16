@@ -1,20 +1,30 @@
-<div class="author_wrap">
+<a name="{{ key }}"></a>
+<div class="author_wrap author_page">
 	<div class="author_txt">
-		<div class="author_name">{{author.name}}</div>
-		<div class="date_posted">Posted on {{ page.date }}</div>
-		<div class="minutes">( {{ minutes }} minute read )</div>
+		<div class="author_name">
+            {% unless page.authorsPage %}<a href="/authors#{{ key }}">{% endunless %}
+                {{ author.name }}
+            {% unless page.authorsPage %}</a>{% endunless %}
+			{% if author.github %}
+				<span>
+					{% if author.github %}<a class="author_github" href="{{ author.github }}"><img src="/images/github_icon.png" width="20px"/></a>{% endif %}
+				</span>
+			{% endif %}
+		</div>
 	</div><div class="author_img">
 		<img src="{{author.image}}" width="100"/>
 	</div>
 </div>
 
-{% if page.authorsPage %}
-<h3>Articles by {{author.name}}</h3>
 
-  {% for post in site.posts %}
-    {% if post.author == page.author %}
-      {% include postSummary.html %}
-    {% endif %}
-  {% endfor %}
+<!-- Summary Posts -->
+{% if page.authorsPage %}
+	<div class="author_articles">Articles by {{ author.name | truncatewords:1,"" }}</div>
+
+	{% for post in site.posts %}
+	  {% if post.author contains key %}
+		{% include postTitle.html %}
+	  {% endif %}
+	{% endfor %}
 
 {% endif %}

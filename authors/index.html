@@ -1,0 +1,17 @@
+---
+layout:      page
+title:       Article Authors
+summary:     Here are the people who have written the articles.
+authorsPage: true
+---
+
+<div class="author_profiles">
+    {% for keyedAuthor in site.data.authors %}
+      {% assign key = keyedAuthor[0] %}
+      {% assign author = keyedAuthor[1] %}
+
+      <div class="author_section">
+        {% include author.html %}
+      </div>
+    {% endfor %}
+</div>

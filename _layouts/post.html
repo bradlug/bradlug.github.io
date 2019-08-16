@@ -16,8 +16,8 @@ fixedHeader: true
 
 <div class="wrapper">
     <h2>{{ page.title }}</h2>
-    {% if author.bio %}
-	  {% include author.html %}
+    {% if author.name %}
+		{% include author_bio.html %}
 	{% endif %}
     
     <div class="clearfix"></div>
@@ -25,10 +25,10 @@ fixedHeader: true
 	
     {% for page_category in page.categories %}
     	{% for data_category in site.data.categories %}
-		{% if data_category.name == page_category %}
-		<span class="post--category"><a href="/category/{{ data_category.slug }}">{{ page_category }}</a></span>
-		{% endif %}
-	{% endfor %}
+			{% if data_category.name == page_category %}
+			<span class="post--category"><a href="/category/{{ data_category.slug }}">{{ page_category }}</a></span>
+			{% endif %}
+		{% endfor %}
     {% endfor %}
 </div>
 
