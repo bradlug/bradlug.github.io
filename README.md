@@ -1,5 +1,9 @@
 # Bradford GNU/Linux Users Group
 
+A self-help group for GNU/Linux, Open Source and Free Software users in and around the Bradford District, West Yorkshire
+
+## How to run this locally
+
 First time installation of jekyll and dependencies
 
 	gem install bundler
@@ -21,6 +25,25 @@ Test the site, complain about badly formed html etc
 	bundle exec rake test
 
 If you already have Docker and docker-compose installed, and don't do much Ruby work, you might find it easier to use the Docker way of running the site locally.  Run `docker-compose up` to launch the site in a container and after it has installed dependencies you can browse to `http://127.0.0.1:4000/`.
+
+
+## Things change
+
+If the above instructions are not working for you, don't worry - you might have to ```update / upgrade``` and do the following things listed in the **Installing Ruby** section.
+
+https://gorails.com/setup/ubuntu/ *Make sure you pick the right version of Ubuntu*
+
+Then install dependencies
+
+	bundle install
+Build
+
+	bundle exec rake build	
+Serve
+
+	bundle exec rake
+	
+Browse `http://0.0.0.0:4000/`
 
 
 # Website Plan
