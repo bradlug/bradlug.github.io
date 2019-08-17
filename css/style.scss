@@ -31,6 +31,16 @@ header {
   margin: 20px auto 20px auto;
 }
 
+.wrapper.postTitle {
+  padding:30px 40px 0 40px;
+  margin:0 auto;
+  margin-bottom:10px;
+}
+
+.wrapper.postTitle p {
+  font-size:16px;
+}
+
 /* Font styles */
 p {
   font-size:18px;
@@ -38,6 +48,22 @@ p {
 
 a {
   color: #06c;
+}
+
+/* Fix long urls */
+a {
+  overflow-wrap:break-word;
+  word-wrap:break-word;
+  word-break:break-word;
+  -ms-hyphens:auto;
+  -moz-hyphens:auto;
+  -webkit-hyphens:auto;
+  hyphens:auto;
+}
+
+/* Fix long code chunks in blogposts*/
+code {
+  white-space: normal; 
 }
 
 em {
@@ -52,6 +78,11 @@ h2 {
 h2 a {
   letter-spacing: 1px;
 }
+
+h4 {
+  font-size: 2.4rem;
+  margin-bottom:0;
+}  
 
 ul {
   list-style-type: disc;
@@ -71,10 +102,60 @@ ol li p {
    display: inline;
 }
 
-/* Date posted under blog post title */
-.date_posted {
-   margin-bottom: 2.5rem;
+/* Author posted under blog post title in postSummary */
+.author_posted {
+  text-align:right;
+  margin-bottom: 2.5rem;
 }
+.time_posted {
+  text-align:right;
+  margin-bottom:1rem;
+  font-size:14px;
+}
+
+/* Wrapper for author profile */
+.author_wrap {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: right;
+  padding: 15px 20px 10px 20px;
+  margin-bottom: 2em;
+}
+.author_page {
+  margin:0 auto;
+  padding:0;
+  border:0;
+}
+.author_txt, .author_img {
+  display:inline-block;
+  vertical-align:middle;
+  padding-right:25px;
+}
+.author_img {
+  padding:0;
+}
+.author_name {
+  font-size:30px;
+  font-weight:bold;
+}
+.author_name a {
+  color:#555;
+}
+.minutes {
+  font-style:italic;
+  font-size:14px;
+}
+
+.author_section {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+.author_articles {
+  font-size: 24px;
+  margin-bottom: 0.5em;
+}
+  
 
 /* Styling for welcome message on landing page */
 .wrapper p.welcome {
@@ -88,6 +169,18 @@ a.button {
   background-color: #fff;
   border: 0;
   color: #555;
+}
+
+/* Links for categories in blogposts */
+.post--category a {
+  color: #444;
+  font-size: 13px;
+  border-radius: .4rem;
+  background-color: #eee;
+  padding: 10px;
+}
+.post--category a:hover {
+  background-color: #e8e8e8;
 }
 
 /* Get in touch wrapper on landing page*/
@@ -125,8 +218,67 @@ a.top {
   border-radius: 4px;
 }
 
+.pagination {
+  min-height:300px;
+}
 /* Second pagination */
 .pagination.bottom {
   position: absolute;
   bottom: 100px;
+  min-height:initial;
+}
+
+
+/* Mobile Last Media Queries */
+@media (max-width: 40.0rem) {
+  
+  .site-name {
+    font-size: 1.5em;
+    line-height: 1.25em;
+  }
+  
+  a.top {
+    position: initial;
+    bottom: initial;
+  }
+  
+  .author_txt, .author_img {
+    display:block;
+  }
+  
+  .author_txt {
+    padding-bottom:15px;
+    padding-right:0;
+  }
+  
+  p.gcal {
+    width:93%;
+  } 
+    
+ iframe {
+    width:100%;
+  }
+  
+  .pagination.bottom {
+    display:none;
+  }
+  
+  .wrapper {
+    padding: 30px 20px; 
+  }
+  
+  .wrapper p.welcome {
+    font-size: 1.25em;
+    padding-right:0;
+  }
+  
+  .read {
+    display:block;
+  }
+  
+  .row .column.column-75, .row .column.column-25,
+  .row .column.column-60, .row .column.column-40 {
+    max-width: 100%; 
+  }
+  
 }

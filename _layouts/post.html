@@ -9,13 +9,27 @@ fixedHeader: true
 {% assign minutes = 1 %}
 {% endif %}
 
+{% if page.author %}
+{% assign author = site.data.authors[page.author] %}
+{% endif %}
+
 
 <div class="wrapper">
     <h2>{{ page.title }}</h2>
-    <div class="date_posted">Posted on {{ page.date }} by {{ page.author }}</div>
+    {% if author.name %}
+		{% include author_bio.html %}
+	{% endif %}
+    
     <div class="clearfix"></div>
-
     {{ page.content }}
+	
+    {% for page_category in page.categories %}
+    	{% for data_category in site.data.categories %}
+			{% if data_category.name == page_category %}
+			<span class="post--category"><a href="/category/{{ data_category.slug }}">{{ page_category }}</a></span>
+			{% endif %}
+		{% endfor %}
+    {% endfor %}
 </div>
 
 

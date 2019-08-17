@@ -1,0 +1,19 @@
+ <div class="author_wrap">
+	<div class="author_txt">
+		<div class="author_name">
+            {% for a in page.author %}
+				{% assign author=site.data.authors[a] %}
+				<a href="/authors#{{ a }}">{{ author.name }}</a>
+			{% endfor %}
+			{% if author.github %}
+				<span>
+					{% if author.github %}<a class="author_github" href="{{ author.github }}"><img src="/images/github_icon.png" width="20px"/></a>{% endif %}
+				</span>
+			{% endif %}
+		</div>
+		<div class="date_posted">Posted on {{ page.date | date: '%B %d, %Y' }}</div>
+		<div class="minutes">( {{ minutes }} minute read )</div>
+	</div><div class="author_img">
+		<img src="{{author.image}}" width="100"/>
+	</div>
+</div>

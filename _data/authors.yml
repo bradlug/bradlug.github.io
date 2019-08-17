@@ -1,0 +1,33 @@
+John:
+    name: John R Hudson
+    bio: Hi, I'm John.
+    github: https://github.com/john-hudson
+    image: /images/john.jpg
+    
+Dave:
+    name: Dave Carpenter
+    bio: Hello
+    github: https://github.com/caprenter
+    image: /images/caprenter.jpg
+    
+Wayne:
+    name: Wayne
+    bio: Hello
+    image: /images/default.jpg
+    
+Alice:
+    name: Alice K
+    bio: Hello
+    github: https://github.com/WheresAlice
+    image: /images/alice.jpg
+    
+andrea:
+    name: Andrea
+    bio: Hello
+    image: /images/default.jpg
+    
+njs:
+    name: Nick Rhodes
+    bio: Hello
+    github: https://github.com/NGRhodes
+    image: /images/njs.jpg

@@ -25,12 +25,12 @@ categories:
 
 [BAS = Bursting At the Seams]
 
-36 people packed out the meeting last night to hear a really good talk about 'how your mother will never notice' as the internet infrastructure makes the switch from IPV4 to IPV6. Andy Davidson of [Hurricane Electric](http://www.he.net/) gave the talk, and a demo of their [IPV6 Tunnel Broker](http://tunnelbroker.net/) that people can use to try the IPV6 net.
+36 people packed out the meeting last night to hear a really good talk about 'how your mother will never notice' as the internet infrastructure makes the switch from IPV4 to IPV6. <strong>Andy Davidson</strong> of [Hurricane Electric](http://www.he.net/) gave the talk, and a demo of their [IPV6 Tunnel Broker](http://tunnelbroker.net/) that people can use to try the IPV6 net.
 
 Anyone got any plans to do something locally on [World IPV6 Day](http://isoc.org/wp/worldipv6day/), 8th June 2011?
 
-Following Andy, Thomas from [Exa Networks](http://www.exa-networks.co.uk/), flew through a presentation he's preparing for UKLUG (is that right?) about how to use [Border Gateway Protocol](http://en.wikipedia.org/wiki/Border_Gateway_Protocol) (BGP) for network resilience.
+Following <strong>Andy, Thomas</strong> from [Exa Networks](http://www.exa-networks.co.uk/), flew through a presentation he's preparing for UKLUG (is that right?) about how to use [Border Gateway Protocol](http://en.wikipedia.org/wiki/Border_Gateway_Protocol) (BGP) for network resilience.
 
 As you well know, I'm only good for a short explanation of what went on, so please feel free to add some comments to this post about stuff I've misunderstood, or missed out completely!
 
-Finally, a big thank you to Alice for producing some [Moo Cards](http://us.moo.com/), which he gave out for the rest of us to pass onto other people as we see fit.
+Finally, a big thank you to <strong>Alice</strong> for producing some [Moo Cards](http://us.moo.com/), which he gave out for the rest of us to pass onto other people as we see fit.

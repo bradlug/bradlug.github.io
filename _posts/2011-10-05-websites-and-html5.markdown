@@ -1,5 +1,5 @@
 ---
-author: Dave
+author: John
 comments: true
 date: 2011-10-05 09:27:08+00:00
 excerpt: 'Any voluntary organisation trying to maintain a website has two main problems:
@@ -50,6 +50,3 @@ If your site is aimed at mobile ’phone users as well as traditional computer u
 If you have set up your website specifically to meet the needs of the current generation of screenreaders, you can leave things like skip links in place until they have caught up with HTML5 while re-writing the other links.
 
 For a quick introduction, go to [http://diveintohtml5.org/](http://diveintohtml5.org/).
-
-John R Hudson
-bradlug.co.uk

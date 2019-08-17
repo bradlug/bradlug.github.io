@@ -1,5 +1,5 @@
 ---
-author: Dave
+author: John
 comments: true
 date: 2011-12-15 09:14:47+00:00
 excerpt: I first used a computer to produce documentation over thirty years ago but

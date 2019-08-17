@@ -21,10 +21,10 @@ categories:
 On the day the [Rapberry Pi](http://www.raspberrypi.org/) people made a big announcement, BradLUGers met up to discuss:
 Media servers,cheap android tablets, the [Raspberry Pi](http://www.raspberrypi.org/), [Scratch](http://scratch.mit.edu/), [Big Buck Bunny](http://www.bigbuckbunny.org/), WPA security, the [Epson hx-20](http://en.wikipedia.org/wiki/Epson_HX-20), and much, much, more.
 
-Brian gave  a demo of how he has [Squeezebox](http://www.mysqueezebox.com) media server running, with [SoftSqueeze](http://softsqueeze.sourceforge.net/) as a receiver, and the [Logitech android app](https://market.android.com/details?id=com.logitech.squeezeboxremote&hl=en) working as a remote control. Nice!
+<strong>Brian</strong> gave  a demo of how he has [Squeezebox](http://www.mysqueezebox.com) media server running, with [SoftSqueeze](http://softsqueeze.sourceforge.net/) as a receiver, and the [Logitech android app](https://market.android.com/details?id=com.logitech.squeezeboxremote&hl=en) working as a remote control. Nice!
 
 We watched [this video about the Raspberry Pi](http://www.youtube.com/watch?v=6BbufUp_HNs), and made wild guestimates about when someone might actually get their hands on one.
 
-David demoed [Scratch](http://scratch.mit.edu/) from MIT, a software package that encourages children to start programming. We also took a brief look at [Big Buck Bunny](http://www.bigbuckbunny.org/) a 'dreamworks style' animation made using open source tools and licensed using creative commons.
+<strong>David</strong> demoed [Scratch](http://scratch.mit.edu/) from MIT, a software package that encourages children to start programming. We also took a brief look at [Big Buck Bunny](http://www.bigbuckbunny.org/) a 'dreamworks style' animation made using open source tools and licensed using creative commons.
 
-T'other David then talked us through the [recent vulnerabilities found in the WiFi Protected Setup](https://threatpost.com/en_us/blogs/wifi-protected-setup-flaw-can-lead-compromise-router-pins-122711) wireless security set up on some routers, and the [software that has been released to exploit it](http://threatpost.com/en_us/blogs/attack-tool-released-wps-pin-vulnerability-122911).
+T'other <strong>David</strong> then talked us through the [recent vulnerabilities found in the WiFi Protected Setup](https://threatpost.com/en_us/blogs/wifi-protected-setup-flaw-can-lead-compromise-router-pins-122711) wireless security set up on some routers, and the [software that has been released to exploit it](http://threatpost.com/en_us/blogs/attack-tool-released-wps-pin-vulnerability-122911).

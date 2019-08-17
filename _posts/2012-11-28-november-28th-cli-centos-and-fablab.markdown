@@ -16,10 +16,10 @@ categories:
 - Past Meetings
 ---
 
-David C gave us a photographic tour of Airedale [Fab Lab](http://www.centreofmanufacturingexcellence.com/fab-lab/) and suggested that we should organise a trip there one Saturday.
+<strong>David C</strong> gave us a photographic tour of Airedale [Fab Lab](http://www.centreofmanufacturingexcellence.com/fab-lab/) and suggested that we should organise a trip there one Saturday.
 
-Alice introduced us to CentOS QA testing of the coreutils using BASH scripts and Brian spoke about the Raspberry Pi Hack Weekend on 1/2 December.
+<strong>Alice</strong> introduced us to CentOS QA testing of the coreutils using BASH scripts and <strong>Brian</strong> spoke about the Raspberry Pi Hack Weekend on 1/2 December.
 
-John H reported on the meeting five of us had had with BCB earlier in the afternoon and we agreed to try and put together a half hour programme on IT for BCB to fill the slot left by the departure of their ICT Support Worker.
+<strong>John H</strong> reported on the meeting five of us had had with BCB earlier in the afternoon and we agreed to try and put together a half hour programme on IT for BCB to fill the slot left by the departure of their ICT Support Worker.
 
-Then. for each instance of a variable, David C showed us how to handle it in and command line. (Slides to follow).
+Then for each instance of a variable, <strong>David C</strong> showed us how to handle it in and command line. (Slides to follow).

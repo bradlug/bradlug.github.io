@@ -20,7 +20,7 @@ categories:
 
 In the last meeting of 2011...
 
-Dave S showed us some of the documents in the [Barnes & Noble dispute with Microsoft](http://www.zdnet.com/blog/hardware/barnes-noble-challenges-microsofts-infringement-claims-with-43-pages-of-prior-art/16382) over infringement claims.  Interesting stuff. There was then a bit of discussion about the [Apple v's Samsung dispute in Australia](http://www.abc.net.au/news/2011-11-30/samsung-wins-apple-appeal/3704158).
+<strong>Dave S</strong> showed us some of the documents in the [Barnes & Noble dispute with Microsoft](http://www.zdnet.com/blog/hardware/barnes-noble-challenges-microsofts-infringement-claims-with-43-pages-of-prior-art/16382) over infringement claims.  Interesting stuff. There was then a bit of discussion about the [Apple v's Samsung dispute in Australia](http://www.abc.net.au/news/2011-11-30/samsung-wins-apple-appeal/3704158).
 
 We managed to squeeze a little bit of info from Robert about the [Pomorodo time management technique](http://en.wikipedia.org/wiki/Pomodoro_technique). It may or may not change your life (for a week).
 

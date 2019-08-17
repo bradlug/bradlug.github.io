@@ -4,12 +4,8 @@ comments: true
 date: 2011-09-30 14:13:10+00:00
 excerpt: '<img src="http://bradlug.co.uk/blog/2011/09/26/images/Third_birthday_cakes.png"
   alt="BradLUG Third birthday cakes" width="597" height="336" />
+<p>Happy Birthday to us, and thanks (once again) to Andrea for the baking. Yum!</p>'
 
-
-  Happy Birthday to us, and thanks (once again) to Andrea for the baking. Yum!
-
-
-  During the meeting we learnt lots about:'
 layout: post
 redirect_from: /3rd-birthday-meeting-sept-2011
 slug: 3rd-birthday-meeting-sept-2011

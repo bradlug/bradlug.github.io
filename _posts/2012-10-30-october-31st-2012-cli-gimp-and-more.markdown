@@ -25,12 +25,12 @@ categories:
 - Past Meetings
 ---
 
-Andy kicked us off with a look at GIMP 2.8 and some of the new features. We also got a demo on using the GIMP to produce simple web graphics and for photo enhancement. There was some interesting discussion about how this versions allows GIMP to look and feel more like Photoshop, but also about how the integration of Photoshop into the Adobe suite of tools means that, while GIMP can easily create print ready artwork, hard core Photoshopers are still not likely ot make the switch.
+<strong>Andy</strong> kicked us off with a look at GIMP 2.8 and some of the new features. We also got a demo on using the GIMP to produce simple web graphics and for photo enhancement. There was some interesting discussion about how this versions allows GIMP to look and feel more like Photoshop, but also about how the integration of Photoshop into the Adobe suite of tools means that, while GIMP can easily create print ready artwork, hard core Photoshopers are still not likely ot make the switch.
 
 Gimp 2.8 is not available in some distros, so the PPA for Ubuntu 12.04 (also works on Mint 13 (Maya) is:
 [http://www.ubuntugeek.com/how-to-install-gimp-2-8-2-in-ubuntu-12-04-precise.html](http://www.ubuntugeek.com/how-to-install-gimp-2-8-2-in-ubuntu-12-04-precise.html)
 
-David gave us the 4th instalment in his series on the introduction to the command line. Alice pre-empted much of his talk as becoming customary, and as usual, 'we all learned something'
+<strong>David</strong> gave us the 4th instalment in his series on the introduction to the command line. <strong>Alice</strong> pre-empted much of his talk as becoming customary, and as usual, 'we all learned something'
 
 Downloads:
 
