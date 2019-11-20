@@ -1,7 +1,7 @@
 ---
 author: John
 date: 2019-11-20 21:55:36+00:00
-excerpt: '<p>After an exchange of various news items, <strong>Bernard</strong> mentioned his visit to the <a href="https://www.thoughtbubblefestival.com/guests" type="text/html">Thought Bubble Festival</a> in Harrogate the previous week where a wide range of novel and comic book authors had appeared; Bernard had attended a panel on web comics which had looked at the artistic issues and the technical ones — specifically that web comics do not pay, though it is possible to raise money through patrons or kickstarter funding.</p>
+excerpt: '<p>After an exchange of various news items, <strong>Bernard</strong> mentioned his visit to the <a href="https://www.thoughtbubblefestival.com/guests" type="text/html">Thought Bubble Festival</a> in Harrogate the previous week where a wide range of novel and comic book authors had appeared; Bernard had attended a panel on web comics which had looked at the artistic issues and the technical ones — specifically that web comics do not pay, though it is possible to raise money through patrons or kickstarter funding. </p>
 	'
 layout: post
 title: 'November 12 2019 Thought Bubble, Astronomy Project and IT Management Meet'
