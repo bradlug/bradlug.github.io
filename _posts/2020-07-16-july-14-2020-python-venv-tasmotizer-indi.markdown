@@ -1,7 +1,7 @@
 ---
 author: John
 date: 2020-07-16 21:55:36+00:00
-excerpt: '<p>Unfortunately, there were problems with the audio in particular this time which meant that several people who joined us left the meeting. For those who remained</p><p><strong>Darren</strong> presented a coding issue which, because of the problems with the audio, I was not able to follow.</p><p><strong>Bernard</strong> demonstrated using <a href="https://www.python.org/dev/peps/pep-0405/" type="text/html" role="link">Python virtual environments</a>.
+excerpt: '<p>Unfortunately, there were problems with the audio in particular this time which meant that several people who joined us left the meeting. For those who remained</p><p><strong>Darren</strong> demonstrated a simplified version of <code>cat(1)</code>, written in Dlang. It had only one loop, two variables, and three function calls to the D standard library.</p><p><strong>Bernard</strong> demonstrated using <a href="https://www.python.org/dev/peps/pep-0405/" type="text/html" role="link">Python virtual environments</a>.
 	'
 layout: post
 title: 'July 14 2020 Python venv, Tasmotizer, Sonoff and INDI'
