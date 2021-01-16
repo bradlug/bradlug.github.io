@@ -2,7 +2,8 @@
 author: John
 comments: true
 date: 2015-07-12 22:03:08+00:00
-excerpt: <p>The first annual Cantor Lecture, funded by the Vice-Chancellor of Bradford
+excerpt: <p>The first annual <a href="https://www.bradford.ac.uk/news/archive/2015/cybersecurity-futures-the-ultimate-human-technology-challenge.php"
+  type="text/html">Cantor Lecture</a>, funded by the Vice-Chancellor of Bradford
   University, Brian Cantor, on similar lines to the series he had funded when he was
   Vice-Chancellor of York University, was given on 30 June 2015 by Prof. Sadie Creese,
   Professor of Cybersecurity at the <a href="http://www.cs.ox.ac.uk/sadie.creese/"
