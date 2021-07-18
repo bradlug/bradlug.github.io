@@ -4,7 +4,7 @@ date: 2021-06-12 21:55:36+00:00
 excerpt: '<p><strong>Brian</strong> asked about people’s experience of <code>get_iplayer</code> and John said that you needed to keep up with the latest version, which Brian had, but John had had no problems with it except when he had not updated it recently.</p><p>Brian then expanded on how he had added <a href="https://nodered.org/" type="text/html" role="link">Node_RED</a> to <a href="https://www.home-assistant.io/" type="text/html" role="link">Home Assistant</a> demonstrating how he could add a gauge by pulling elements from the left hand column. However, he had had difficulty getting Home Assistant to connect to the Internet.</p>
 	'
 layout: post
-title: 'June 8 2021 get_iplayer, Home Assistant, MariaDB, desktop option'
+title: 'June 8 2021 get_iplayer, Home Assistant, MariaDB, desktop options'
 categories:
 - Past Meetings
 ---
