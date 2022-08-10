@@ -28,7 +28,7 @@ We would also like to hear about anything to do with the **Open source/Free soft
 **Get in touch about a talk**: [Contact us](/contact)
 
 **PreLUG Food**  
-Usually before the meetings, a group of us generally gather from around 6.00 pm onwards in Pizza Pieces on Market Street for the traditional PreLUG pizza or Pasta.
+In the past, before the meetings, a group of us used to gather from around 6.00 pm onwards in Pizza Pieces on Market Street for the traditional PreLUG pizza or Pasta. This has not so far resumed after the pandemic but drop us an email if you would like to restart this.
 
 If you would like to come along and meet some of us before the meeting or if you are new to the group, do drop us an email and usually someone will be more than happy to meet and introduce you to the others as and when they appear.
 
