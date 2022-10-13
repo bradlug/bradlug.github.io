@@ -3,7 +3,7 @@ author: John
 date: 2022-09-15 21:59:36+00:00
 excerpt: '<p><strong>Brian</strong> said that, though he had used <a href="https://nodered.org/" type="text/html" role="link">Node_RED</a> to control the automation of thermostats (see <a href="https://bradlug.co.uk/blog/2021/11/12/november-09-2021-review-home-assistant-smarty-tv-websites" type="text/html" role="link">November 2021 BradLUG meeting</a>), this had proved unreliable because Node-RED kept rebooting at random times; he had discovered that this was probably linked to unreliable dependencies.</p>'
 layout: post
-title: 'Tuesday, 13 September 2022 Home Assistant, Nextcloud, cross-platform programs, kdialog'
+title: '13 September 2022 Home Assistant, Nextcloud, cross-platform programs, kdialog'
 categories:
 - Past Meetings
 ---
