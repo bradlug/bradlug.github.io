@@ -3,7 +3,7 @@ author: John
 date: 2022-10-13 21:59:36+00:00
 excerpt: '<p><strong>Brian</strong> shared the collaborative tool <a href="https://www.figma.com/" type="text/html" role="link">Figma</a> which Adobe have acquired; it is aimed at improving the user interface and user experience.</p><p>He also shared <a href="https://www.cloudflare.com/en-gb/products/turnstile/" type="text/html" role="link">Cloudflare Turnstile</a> which is intended as a free replacement for <a href="http://www.captcha.net/" type="text/html" role="link">CAPTCHA</a>.</p>'
 layout: post
-title: '11 October 2022 VeraCrypt, MongoDB, GIMP, Inkscape'
+title: 'October 11 2022 VeraCrypt, MongoDB, GIMP, Inkscape'
 categories:
 - Past Meetings
 ---
