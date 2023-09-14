@@ -1,0 +1,11 @@
+---
+author: John
+date: 2023-09-14 21:55:36+00:00
+excerpt: '<p><strong>John</strong> started to present the <a href="http://www.bradlug.co.uk/blog/2023/09/12/files//Fifteenth_birthday.pdf" type="application/pdf" role="link">Fifteenth Birthday presentation</a> but did not notice when his notebook needed plugging into the mains and ended up describing it rather than presenting it! David S mentioned that David Carpenter is using <a href="https://www.oracle.com/uk/cloud/free/" type="text/html" role="link">Oracle Cloud Free Tier</a>. He also mentioned a problem with the <a href="https://letsencrypt.org/" type="text/html" role="link">Let’s Encrypt</a> challenge; having set up auto-renew for a domain, he set up a manual challenge for a sub-domain but, when he wanted to change it to auto-renew, he found that the Let’s Encrypt database had it down as a manual renew and would not let him set up auto-renew.</p>'
+layout: post
+title: 'September 12 2023 Fifteenth birthday, Let’s encrypt, Home assistant, ESPHome'
+categories:
+- Past Meetings
+---
+
+<p><strong>John</strong> started to present the <a href="http://www.bradlug.co.uk/blog/2023/09/12/files//Fifteenth_birthday.pdf" type="application/pdf" role="link">Fifteenth Birthday presentation</a> but did not notice when his notebook needed plugging into the mains and ended up describing it rather than presenting it! David S mentioned that David Carpenter is using <a href="https://www.oracle.com/uk/cloud/free/" type="text/html" role="link">Oracle Cloud Free Tier</a>. He also mentioned a problem with the <a href="https://letsencrypt.org/" type="text/html" role="link">Let’s Encrypt</a> challenge; having set up auto-renew for a domain, he set up a manual challenge for a sub-domain but, when he wanted to change it to auto-renew, he found that the Let’s Encrypt database had it down as a manual renew and would not let him set up auto-renew.</p><p><strong>Brian</strong> then did a lengthy presentation of various <a href="https://www.home-assistant.io/" type="text/html" role="link">Home Assistant</a> features which he was using including <a href="https://esphome.io/" type="text/html" role="link">ESPHome</a> to which David contributed.</p><p>Unfortunately, connection problems prevented any further meaningful communication.</p>
