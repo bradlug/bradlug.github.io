@@ -1,6 +1,6 @@
 ---
 author: John
-date: 2025-01-21 21:59:36+00:00
+date: 2025-01-22 21:59:36+00:00
 excerpt: '<p><strong>David</strong> reported that <a href="https://github.com/pvvx/ATC_MiThermometer" type="text/html" role="link">ATC_MiThermometer</a> cannot flash Xiaomi thermometers any longer even though the devices look exactly the same as the earlier ones but require soldering.</p><p>He had had to buy a new <a href="https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/" type="text/html" role="link">Raspberry Pi 3+</a> with heatsink after his existing one overheated while 3D printing a battery holder. He had got a second printer from Kriss and Shi which is 24V and so there is nothing to power a 12V fan!</p><p>There are loads of options for battery holders of different sizes; you just load the <a href="https://en.wikipedia.org/wiki/STL_(file_format)" type="text/html" role="link">STL (stereolithography)</a> file; they look like a beer crate, stack like a beer crate and take 5½ hours to print.</p>'
 layout: post
 title: 'January 14 2025 3D printers, Proxmox, Geograph. ash'
