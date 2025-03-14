@@ -1,9 +1,9 @@
 ---
 author: John
-date: 2025-02-12 21:59:36+00:00
+date: 2025-03-14 21:59:36+00:00
 excerpt: '<p><strong>Steve</strong> gave a presentation on <a href="https://tailscale.com/" type="text/html" role="link">tailscale</a> comprising a <a href="http://www.bradlug.co.uk/blog/2025/02/10/files/Tailscale.pdf" type="application/pdf" role="link">summary</a> and a demonstration. Tailscale provides an overlay network for <a href="https://www.wireguard.com/" type="text/html" role="link">WireGuard</a> which is tricky to configure and use. Tailscale creates Tailnet, a virtual/overlay network of hosts, with a coordination server through which to register clients. It provides <a href="https://en.wikipedia.org/wiki/NAT_traversal" type="text/html" role="link">NAT traversal</a> and can set up a relay if that is not possible. Security is provided by asymmetric keys with public keys being shared by all clients.</p>'
 layout: post
-title: 'February 10 2025 tailscale, gocryptfs, ‘Le potato’, Orange Pi, U-Boot, x86-64 levels'
+title: 'February 11 2025 tailscale, gocryptfs, ‘Le potato’, Orange Pi, U-Boot, x86-64 levels'
 categories:
 - Past Meetings
 ---
