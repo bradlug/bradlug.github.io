@@ -11,7 +11,7 @@ wordpress_id: 47
 
 We have a **formal meeting once a month** which tends to revolve around talks by members on a wide range of topics. Details of past meetings, including notes and links, can be found in [previous posts](/category/past-meetings).
 
-Face to face meetings take place from 7–9pm on the **second Tuesday** of February, May, August and November at BCB Radio, Bradford Arts Centre, St Peter's House, 1 Forster Ct, Church Bank, Bradford BD1 4TY. These normally have a formal presentation on a topic. You can find how to get there on the [BCB Contact page](http://www.bcbradio.co.uk/contact/).
+Face to face meetings take place from 7–9pm on the **second Tuesday** of February, May, August and November at BCB Radio, Bradford Arts Centre, St Peter's House, 1 Forster Ct, Church Bank, Bradford BD1 4TY. These normally have a formal presentation on a topic. You can find how to get there on the [BCB Contact page](http://www.bcbradio.co.uk/get-in-touch/).
 
 <a href="https://twitter.com/NGRhodes/status/273878185584758784"><img src="/images/281112_nick.jpg" width="400px"/></a><a href="https://twitter.com/bradlug/status/607987734637101056"><img src="/images/080615.jpg" width="400px"/></a>  
 <i>Photo credits: Nick Rhodes and John Hudson</i>
